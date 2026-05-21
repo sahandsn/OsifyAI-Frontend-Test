@@ -121,11 +121,7 @@ export const getLocalizedBlogFromSlugArray = async (
 };
 
 export const getSpecialBlogs = async (locale: string) => {
-  const slugs = [
-    "healthy-nutrition-for-children-complete-guide-from-birth-to-5-years",
-    "healthy-teen-nutrition-a-comprehensive-guide-for-parents",
-    "importance-of-childhood-vaccination",
-  ];
+  const slugs = ["common-child-nutrition-mistakes-from-infancy-to-adolescence"];
 
   const blogs = await getLocalizedBlogFromSlugArray(slugs, locale);
 
