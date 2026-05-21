@@ -4,15 +4,16 @@ import linkPreviewMetadata from "@/utils/metadata";
 import { setSafeRequestLocale } from "@/utils/set-safe-request-locale";
 import {
   getAllBlogs,
+  getAllSameBlogsFromSlug,
   getFile,
   getLocalizedBlogFromSlug,
   getLocalizedBlogFromSlugArray,
 } from "@/utils/get-blog";
-import { TLocale } from "@/i18n/routing";
+import { defaultLocale, ENGLISH, FARSI, GERMAN, TLocale } from "@/i18n/routing";
 import { Mdx } from "@/components/common/mdx/mdx";
 import { env } from "@/env";
 import { notFound } from "next/navigation";
-import { redirect } from "@/i18n/navigation";
+import { getPathname, redirect } from "@/i18n/navigation";
 
 // a note on slugs:
 // content files can be named  ANYTHING, as long as their metadata's "sharedSlug" is the same, localization will work properly
@@ -33,7 +34,12 @@ export async function generateMetadata(
   props: Readonly<TMetadata<"slug">>,
 ): Promise<Metadata | undefined> {
   const { locale, slug } = await props.params;
-  const blog = await getLocalizedBlogFromSlug(slug, locale);
+  const sameBlogs = await getAllSameBlogsFromSlug(slug);
+  const getBlogFromLocale = (locale: TLocale) => {
+    return sameBlogs.find((b) => b.metadata.locale === locale);
+  };
+  const blog = getBlogFromLocale(locale as TLocale);
+
   if (!blog) {
     return undefined;
   }
@@ -47,6 +53,50 @@ export async function generateMetadata(
     },
     locale,
     image: new URL(blog.metadata.image, env.NEXT_PUBLIC_ROOT_URL).href,
+    languages: {
+      [ENGLISH.key]: new URL(
+        getPathname({
+          href: {
+            pathname: "/blog/[slug]",
+            params: { slug: getBlogFromLocale("en")?.metadata.slug ?? "" },
+          },
+          locale: ENGLISH.key,
+        }),
+        env.NEXT_PUBLIC_ROOT_URL,
+      ).href,
+      [GERMAN.key]: new URL(
+        getPathname({
+          href: {
+            pathname: "/blog/[slug]",
+            params: { slug: getBlogFromLocale("de")?.metadata.slug ?? "" },
+          },
+          locale: GERMAN.key,
+        }),
+        env.NEXT_PUBLIC_ROOT_URL,
+      ).href,
+      [FARSI.key]: new URL(
+        getPathname({
+          href: {
+            pathname: "/blog/[slug]",
+            params: { slug: getBlogFromLocale("fa")?.metadata.slug ?? "" },
+          },
+          locale: FARSI.key,
+        }),
+        env.NEXT_PUBLIC_ROOT_URL,
+      ).href,
+      "x-default": new URL(
+        getPathname({
+          href: {
+            pathname: "/blog/[slug]",
+            params: {
+              slug: getBlogFromLocale(defaultLocale.key)?.metadata.slug ?? "",
+            },
+          },
+          locale: defaultLocale.key,
+        }),
+        env.NEXT_PUBLIC_ROOT_URL,
+      ).href,
+    },
   });
 
   return metadata;
