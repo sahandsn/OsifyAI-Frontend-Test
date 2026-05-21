@@ -150,7 +150,7 @@ export default function linkPreviewMetadata({
     },
     alternates: {
       canonical: new URL(
-        getPathname({ href: url, locale: defaultLocale.key }),
+        getPathname({ href: url, locale: verifiedLocale }),
         env.NEXT_PUBLIC_ROOT_URL,
       ).href,
       languages: languages ?? {

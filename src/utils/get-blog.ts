@@ -96,8 +96,16 @@ export const getLocalizedBlogsPaginated = async (
   offset: number,
   limit: number,
 ) => {
-  const localized = await getAllLocalizedBlogs(locale);
-  return localized.slice(offset, offset + limit);
+  const allBlogs = await getAllBlogs();
+  const localized = allBlogs.filter((b) => b.metadata.locale === locale);
+  const paginated = localized.slice(offset, offset + limit);
+
+  return paginated.map((blog) => ({
+    blog,
+    sameBlogs: allBlogs.filter(
+      (b) => b.metadata.sharedSlug === blog.metadata.sharedSlug,
+    ),
+  }));
 };
 
 export const getFile = async (
