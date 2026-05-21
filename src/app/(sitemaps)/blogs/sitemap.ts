@@ -1,10 +1,7 @@
 import { MetadataRoute } from "next";
-import { getUrl, sitemapBuilder, SitemapLinks } from "@/utils/sitemap";
-import {
-  getAllSameBlogsFromSlug,
-  getLocalizedBlogsPaginated,
-} from "@/utils/get-blog";
-import { parseISO } from "date-fns";
+import { getUrl } from "@/utils/sitemap";
+import { getLocalizedBlogsPaginated } from "@/utils/get-blog";
+import { format, parseISO } from "date-fns";
 import { defaultLocale } from "@/i18n/routing";
 import { env } from "@/env";
 
@@ -28,35 +25,40 @@ export default async function sitemap({
     LINKS_PER_SITEMAP,
   );
 
-  const blogLinks = await Promise.all(
-    blogs.map(async (blog) => {
-      const sameBlogs = await getAllSameBlogsFromSlug(blog.metadata.slug);
-
-      const sitemap: SitemapLinks = {
-        href: {
-          pathname: "/blog/[slug]",
-          params: { slug: blog.metadata.slug },
-        },
-        images: [new URL(blog.metadata.image, baseUrl).href],
-        priority: 0.9,
-        lastModified: parseISO(blog.metadata.date),
-        languages: Object.fromEntries(
-          sameBlogs.map((cur) => [
+  return blogs.flatMap(({ blog, sameBlogs }) => {
+    const languages = {
+      ...Object.fromEntries(
+        sameBlogs.map((cur) => [
+          cur.metadata.locale,
+          getUrl(
+            { pathname: "/blog/[slug]", params: { slug: cur.metadata.slug } },
             cur.metadata.locale,
-            getUrl(
-              {
-                pathname: "/blog/[slug]",
-                params: { slug: cur.metadata.slug },
-              },
-              cur.metadata.locale,
-            ),
-          ]),
-        ),
-      };
+          ),
+        ]),
+      ),
+      "x-default": getUrl(
+        { pathname: "/blog/[slug]", params: { slug: blog.metadata.slug } },
+        defaultLocale.key,
+      ),
+    };
 
-      return sitemap;
-    }),
-  );
+    const lastModified = format(
+      parseISO(blog.metadata.date),
+      "yyyy-MM-dd'T'HH:mm:ssxxx",
+    );
 
-  return sitemapBuilder([...blogLinks]);
+    const images = [new URL(blog.metadata.image, baseUrl).href];
+
+    return sameBlogs.map((cur) => ({
+      url: getUrl(
+        { pathname: "/blog/[slug]", params: { slug: cur.metadata.slug } },
+        cur.metadata.locale,
+      ),
+      lastModified,
+      changeFrequency: "daily" as const,
+      priority: 0.9,
+      alternates: { languages },
+      images,
+    }));
+  });
 }
