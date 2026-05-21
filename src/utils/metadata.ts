@@ -19,6 +19,10 @@ import { isString } from "lodash";
 import pwaIcon from "#/branding/pwa-icon.png";
 import imgLogo from "#/branding/logo.png";
 import { hasLocale } from "next-intl";
+import {
+  AlternateLinkDescriptor,
+  Languages,
+} from "next/dist/lib/metadata/types/alternative-urls-types";
 
 const openGraph = ({
   locale,
@@ -103,6 +107,7 @@ export default function linkPreviewMetadata({
   url,
   robots,
   image,
+  languages,
 }: {
   locale: string;
   title: Metadata["title"];
@@ -111,6 +116,7 @@ export default function linkPreviewMetadata({
   url: TRoute;
   robots?: Robots;
   image?: string;
+  languages?: Languages<string | URL | AlternateLinkDescriptor[] | null>;
 }): Metadata {
   const verifiedLocale = hasLocale(routing.locales, locale)
     ? locale
@@ -144,10 +150,10 @@ export default function linkPreviewMetadata({
     },
     alternates: {
       canonical: new URL(
-        getPathname({ href: url, locale: verifiedLocale }),
+        getPathname({ href: url, locale: defaultLocale.key }),
         env.NEXT_PUBLIC_ROOT_URL,
       ).href,
-      languages: {
+      languages: languages ?? {
         [ENGLISH.key]: new URL(
           getPathname({ href: url, locale: ENGLISH.key }),
           env.NEXT_PUBLIC_ROOT_URL,
@@ -158,6 +164,10 @@ export default function linkPreviewMetadata({
         ).href,
         [FARSI.key]: new URL(
           getPathname({ href: url, locale: FARSI.key }),
+          env.NEXT_PUBLIC_ROOT_URL,
+        ).href,
+        "x-default": new URL(
+          getPathname({ href: url, locale: defaultLocale.key }),
           env.NEXT_PUBLIC_ROOT_URL,
         ).href,
       },
