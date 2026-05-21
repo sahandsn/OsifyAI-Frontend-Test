@@ -11,9 +11,6 @@
     "lint:strict": "next lint '*/**/*.{js,jsx,ts,tsx}'",
     "prettier": "prettier --write */**/*.{js,jsx,json,ts,tsx,scss,css}",
     "prepare": "husky",
-    "generate:api": "cross-env dotenv -e .env -- tsx scripts/generate-api-swagger.ts",
-    "generate:schema": "openapi-ts",
-    "generate": "NODE_TLS_REJECT_UNAUTHORIZED=0 pnpm run generate:api && NODE_TLS_REJECT_UNAUTHORIZED=0 pnpm run generate:schema",
     "cache:blogs": "tsx scripts/cache-blogs.ts"
   },
   "dependencies": {

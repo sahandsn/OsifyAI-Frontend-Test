@@ -4,7 +4,6 @@ import React, { ComponentProps } from "react";
 import { Link } from "@/i18n/navigation";
 import { cn } from "@/lib/utils";
 import { Button, buttonVariants } from "../common/button";
-import { useSession } from "@/session";
 
 export default function ActionBtn({
   size,
@@ -15,22 +14,8 @@ export default function ActionBtn({
   className?: string;
   children: React.ReactNode;
 }>) {
-  const { isPending, isEnabled } = useSession();
-  const pending = isPending && isEnabled;
-
-  if (pending) {
-    return (
-      <Button size={size} loading={pending} className={cn(className)}>
-        {children}
-      </Button>
-    );
-  }
-
   return (
-    <Link
-      href="/auth/login"
-      className={cn(buttonVariants({ size, className }))}
-    >
+    <Link href="/" className={cn(buttonVariants({ size, className }))}>
       {children}
     </Link>
   );

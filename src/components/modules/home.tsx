@@ -6,12 +6,7 @@ import { cn } from "@/lib/utils";
 import { useLocale, useTranslations } from "next-intl";
 import type { WebSite, WithContext } from "schema-dts";
 import serialize from "serialize-javascript";
-import FeaturesSection from "./features-section";
-import HeroSection from "./hero-section";
 import Blogs from "./blogs";
-import LandingFaq from "./faq";
-import Newsletter from "./newsletter";
-import BulletPointsSection from "./bullet-point";
 import { Blog } from "@/schema/blog";
 
 export function Home({
@@ -58,12 +53,6 @@ export function Home({
           __html: serialize(jsonLdData, { isJSON: true }),
         }}
       />
-
-      <HeroSection />
-      <FeaturesSection />
-      <BulletPointsSection />
-      <Newsletter />
-      <LandingFaq />
       <Blogs blogs={blogs} />
     </main>
   );

@@ -44,51 +44,14 @@ export const defaultLocale = locales.find(
 export const pathnames = {
   "#": "#",
 
-  // auth
-  "/auth/login": "/auth/login",
-  "/auth/login/otp": "/auth/login/otp",
-  "/auth/signup": "/auth/signup",
-  "/auth/signup/doctor": "/auth/signup/doctor",
-  "/auth/signup/success": "/auth/signup/success",
-  "/auth/logout": "/auth/logout",
-
-  // landing
   "/": "/",
-  "/trust": {
-    en: "/trust",
-    de: "/vertrauen",
-    fa: "/اعتماد",
-  },
+
   "/not-found": {
     en: "/not-found",
     de: "/nicht-gefunden",
     fa: "/یافت-نشد",
   },
-  "/privacy": {
-    en: "/privacy",
-    de: "/datenschutz",
-    fa: "/حریم-خصوصی",
-  },
-  "/terms": {
-    en: "/terms",
-    de: "/agb",
-    fa: "/شرایط-استفاده",
-  },
-  "/about": {
-    en: "/about",
-    de: "/über",
-    fa: "/درباره",
-  },
-  "/contact": {
-    en: "/contact",
-    de: "/kontakt",
-    fa: "/تماس",
-  },
-  "/blogs": {
-    en: "/blogs",
-    de: "/blogs",
-    fa: "/وبلاگ-ها",
-  },
+
   "/blog/[slug]": {
     en: "/blog/[slug]",
     de: "/blog/[slug]",

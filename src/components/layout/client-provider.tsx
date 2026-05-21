@@ -2,20 +2,16 @@
 
 import { TLayout } from "@/types/general";
 import { DirectionProvider } from "@radix-ui/react-direction";
-import AvailableProvider from "@/components/provider/available";
 import { useLocale, useTranslations } from "next-intl";
 import { getDirection } from "@/i18n/routing";
 import { Toaster } from "@/components/ui/sonner";
 import { AppProgressProvider } from "@bprogress/next";
-import { ComponentProps, Suspense, useEffect } from "react";
+import { ComponentProps, Suspense } from "react";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { en, de, fa } from "zod/locales";
 import z from "zod";
 import { $ZodErrorMap } from "zod/v4/core";
 import { isArray } from "lodash";
-import { LocaleSynchronizer } from "../provider/locale-synchronizer";
-import DisableDevtool from "disable-devtool";
-import { env } from "@/env";
 import { LoadingComponent } from "../common/loading";
 
 function capitalize(value: string) {
@@ -105,16 +101,6 @@ export default function ClientProvider(
     return "top-right";
   };
 
-  useEffect(() => {
-    DisableDevtool({
-      tkName: "osify",
-      md5: env.NEXT_PUBLIC_DISABLE_DEVTOOLS_HASH,
-      ignore() {
-        return !env.NEXT_PUBLIC_DISABLE_DEVTOOLS_HASH;
-      },
-    });
-  }, []);
-
   return (
     <Suspense fallback={<LoadingComponent />}>
       <AppProgressProvider
@@ -125,18 +111,16 @@ export default function ClientProvider(
         delay={200}
         disableSameURL={true}
       >
-        <LocaleSynchronizer>
-          <DirectionProvider dir={direction}>
-            <AvailableProvider>{children}</AvailableProvider>
+        <DirectionProvider dir={direction}>
+          {children}
 
-            <Toaster
-              richColors
-              // closeButton
-              dir={direction}
-              position={getPosition()}
-            />
-          </DirectionProvider>
-        </LocaleSynchronizer>
+          <Toaster
+            richColors
+            // closeButton
+            dir={direction}
+            position={getPosition()}
+          />
+        </DirectionProvider>
       </AppProgressProvider>
     </Suspense>
   );

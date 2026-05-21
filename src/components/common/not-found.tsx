@@ -43,10 +43,7 @@ export default function NotFound() {
         }}
       />
       <div className="flex flex-wrap gap-6">
-        <Link
-          href="/auth/login"
-          className={cn(buttonVariants({ variant: "secondary" }))}
-        >
+        <Link href="/" className={cn(buttonVariants({ variant: "secondary" }))}>
           {tr("title")}
         </Link>
         <Button

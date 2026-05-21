@@ -24,10 +24,11 @@ export function sitemapBuilder(arr: SitemapLinks[]): MetadataRoute.Sitemap {
 }
 
 function getEntries(props: SitemapLinks): MetadataRoute.Sitemap[number] {
+  const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
   const lastModified = format(
     props.lastModified ?? new Date(),
     "yyyy-MM-dd'T'HH:mm:ssxxx",
-    { in: tz(env.NEXT_PUBLIC_DEFAULT_Timezone) },
+    { in: tz(timezone) },
   );
   return {
     url: getUrl(props.href, defaultLocale.key),

@@ -1,26 +1,12 @@
 import createNextIntlPlugin from "next-intl/plugin";
 import createMDX from "@next/mdx";
 
-const apiUrl = new URL(process.env.NEXT_PUBLIC_API_URL);
-
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
   pageExtensions: ["js", "jsx", "mdx", "ts", "tsx"],
   compiler: {
     removeConsole: process.env.NODE_ENV === "production",
-  },
-  images: {
-    unoptimized: true,
-    remotePatterns: [
-      {
-        protocol: apiUrl.protocol.replace(":", ""),
-        hostname: apiUrl.hostname,
-        pathname: "/secure-media/**",
-        port: apiUrl.port,
-      },
-    ],
-    minimumCacheTTL: 1 * 60 * 60, // 1 hours
   },
   async headers() {
     return [

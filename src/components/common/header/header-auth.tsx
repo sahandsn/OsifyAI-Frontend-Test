@@ -3,8 +3,6 @@
 import ThemeSwitcher from "@/components/common/theme-switcher";
 import { cn } from "@/lib/utils";
 import { TLink } from "@/types/general";
-import { Suspense } from "react";
-import LocaleSwitcher from "@/components/common/locale-switcher";
 import { LogoLink } from "../logo";
 
 export type TNavItem = {
@@ -34,16 +32,6 @@ export function AuthHeader(
           "flex items-center justify-between gap-2 rtl:flex-row-reverse",
         )}
       >
-        <Suspense>
-          <LocaleSwitcher
-            btn={{
-              size: "40",
-            }}
-            dropDownClassName="z-[1000] relative "
-            className="p-0"
-          />
-        </Suspense>
-
         <ThemeSwitcher
           className="p-0"
           btn={{

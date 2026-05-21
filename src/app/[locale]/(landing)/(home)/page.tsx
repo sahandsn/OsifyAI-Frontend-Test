@@ -1,4 +1,4 @@
-import { Home } from "@/components/modules/landing/home";
+import { Home } from "@/components/modules/home";
 import { TMetadata, TPage } from "@/types/general";
 import { getSpecialBlogs } from "@/utils/get-blog";
 import { setSafeRequestLocale } from "@/utils/set-safe-request-locale";

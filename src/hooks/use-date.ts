@@ -51,12 +51,9 @@ import { enUS, de, faIR } from "react-day-picker/locale";
 import { digitsEnToFa } from "@persian-tools/persian-tools";
 import type { Locale } from "react-day-picker";
 import { tz } from "@date-fns/tz";
-import { useSession } from "@/session";
-import { env } from "@/env";
 
 export const useDate = () => {
   const currentLocale = useLocale();
-  const { session } = useSession();
 
   const jalali = currentLocale === "fa";
 
@@ -124,8 +121,7 @@ export const useDate = () => {
   const timeFormat = "HH:mm";
   const dateTimeFormat = jalali ? "d MMMM yyyy HH:mm" : "d MMM yyyy HH:mm";
 
-  const orgTimezone =
-    session.user?.current_org_timezone || env.NEXT_PUBLIC_DEFAULT_Timezone;
+  const orgTimezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
 
   const customFormatInternational = (
     ...params: Parameters<typeof formatInternational>

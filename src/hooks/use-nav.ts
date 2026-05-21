@@ -16,21 +16,6 @@ export function useNav() {
       title: t("home"),
       isActive: pathname === "/",
     },
-    {
-      path: "/about",
-      title: t("about"),
-      isActive: pathname.startsWith("/about"),
-    },
-    {
-      path: "/contact",
-      title: t("contact"),
-      isActive: pathname.startsWith("/contact"),
-    },
-    {
-      path: "/blogs",
-      title: t("blogs"),
-      isActive: pathname.startsWith("/blog"),
-    },
   ];
 
   return items;

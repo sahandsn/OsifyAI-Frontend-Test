@@ -37,7 +37,7 @@ const Blogs = ({
         ))}
       </section>
 
-      <Link href="/blogs" className="self-end">
+      <Link href="/" className="self-end">
         {t("see_all")}
       </Link>
     </section>
