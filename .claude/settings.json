@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsc *)",
+      "Bash(grep -rn '$api\\\\.useQuery\\\\|$api\\\\.useMutation' '/Users/sahand/Personal/OsifyAi-Frontend/src/components/modules/utility/booking*' /Users/sahand/Personal/OsifyAi-Frontend/src/components/modules/utility/booking.tsx)"
+    ]
+  }
+}

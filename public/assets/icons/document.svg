@@ -1,0 +1,29 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_5086_21197)">
+<path d="M8.99062 13.9195C10.3766 9.08595 11.0696 6.66918 13.0018 5.59817C14.9339 4.52716 17.3507 5.22016 22.1842 6.60615L24.7476 7.34118C29.5811 8.72717 31.9979 9.42017 33.0689 11.3523C34.1399 13.2845 33.4469 15.7012 32.0609 20.5348L30.5908 25.6615C29.2048 30.495 28.5118 32.9118 26.5797 33.9828C24.6475 35.0538 22.2308 34.3608 17.3972 32.9748L14.8339 32.2398C10.0003 30.8538 7.58359 30.1608 6.51257 28.2286C5.44156 26.2965 6.13456 23.8797 7.52055 19.0462L8.99062 13.9195Z" stroke="url(#paint0_linear_5086_21197)" stroke-width="2"/>
+<path d="M14.6632 18.3203L24.9166 21.2604" stroke="url(#paint1_linear_5086_21197)" stroke-width="2" stroke-linecap="round"/>
+<path d="M16.1339 13.1934L26.3873 16.1335" stroke="url(#paint2_linear_5086_21197)" stroke-width="2" stroke-linecap="round"/>
+<path d="M13.1934 23.4473L19.6019 25.2848" stroke="url(#paint3_linear_5086_21197)" stroke-width="2" stroke-linecap="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_5086_21197" x1="23.4659" y1="6.97366" x2="16.1156" y2="32.6073" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E57A17"/>
+<stop offset="1" stop-color="#FFEDDC"/>
+</linearGradient>
+<linearGradient id="paint1_linear_5086_21197" x1="19.7899" y1="19.7904" x2="19.5143" y2="20.7516" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E57A17"/>
+<stop offset="1" stop-color="#FFEDDC"/>
+</linearGradient>
+<linearGradient id="paint2_linear_5086_21197" x1="21.2606" y1="14.6634" x2="20.985" y2="15.6247" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E57A17"/>
+<stop offset="1" stop-color="#FFEDDC"/>
+</linearGradient>
+<linearGradient id="paint3_linear_5086_21197" x1="16.3976" y1="24.3661" x2="16.122" y2="25.3273" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E57A17"/>
+<stop offset="1" stop-color="#FFEDDC"/>
+</linearGradient>
+<clipPath id="clip0_5086_21197">
+<rect x="8.8204" width="32" height="32" rx="5" transform="rotate(16 8.8204 0)" fill="white"/>
+</clipPath>
+</defs>
+</svg>

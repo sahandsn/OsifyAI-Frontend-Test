@@ -1,0 +1,2274 @@
+{
+  "Sessions": {
+    "title": "Active Sessions",
+    "current": "Current Device",
+    "terminateAll": "Terminate All Other Sessions",
+    "terminateConfirmTitle": "Terminate All Other Sessions?",
+    "terminateConfirmDesc": "Are you sure you want to log out of all other devices?",
+    "terminateConfirmAction": "Yes",
+    "terminateConfirmCancel": "Cancel"
+  },
+  "Metadata": {
+    "root": {
+      "description": "OsifyAI is the smartest clinical platform for pediatric growth and endocrinology. A complete suite for medical clinics — from AI-powered bone age assessment and growth monitoring to appointment booking, patient medical profiles, doctor-patient messaging, and AI-driven lab result digitization with intelligent red-flagging based on age and gender. Predict adult height using parental data and track growth paths with proprietary AI models.",
+      "keywords": "OsifyAI, Osify, clinic management software, medical clinic platform, pediatric endocrinology, bone age assessment, AI bone age, growth monitoring, height prediction, adult height prediction, appointment booking, patient management, electronic medical records, doctor patient messaging, lab result digitization, AI lab interpretation, growth chart, pediatric growth, child growth tracking, medical AI, clinic automation, patient profile, remote lab review, bone health index, Tanner stage, BMI calculator, medical imaging AI"
+    },
+    "trust": {
+      "title": "Trust Seals",
+      "description": "Trust seals help build credibility and reassure visitors that your website is secure, verified, and reliable. Displaying badges such as Enamad, Samandehi, and OsifyAI certifications increases user confidence, improves conversion rates, and shows your commitment to safety and transparency.",
+      "keywords": "Enamad, Samandehi, OsifyAI, trust seal, website badges"
+    },
+    "notFound": {
+      "description": "OsifyAI is a cutting-edge app designed for medical professionals specializing in radiographic image analysis. Leveraging the power of AI, OsifyAI streamlines the analysis of medical imagery, saving time while ensuring accuracy.",
+      "keywords": "OsifyAI, radio-grapy, medical image processing, AI",
+      "title": "Page Not Found"
+    },
+    "tutorials": {
+      "description": "OsifyAI offers a comprehensive set of tutorials to help medical professionals quickly master its features. From basic usage to advanced analysis techniques, our tutorials provide step-by-step guidance to ensure you get the most out of the app.",
+      "keywords": "OsifyAI tutorials, medical imaging training, AI in radiography, image analysis guide"
+    },
+
+    "privacy": {
+      "description": "At OsifyAI, we prioritize your privacy. Our privacy policy outlines how we collect, use, and protect your data while you use our app. We ensure that all patient information and medical data are handled with the highest level of security and in full compliance with medical privacy regulations.",
+      "keywords": "OsifyAI privacy policy, data protection, medical data security, patient confidentiality",
+      "title": "Privacy Policy"
+    },
+    "terms": {
+      "description": "By using OsifyAI, you agree to abide by our terms of service, which outline the rules and conditions for using the app. This includes details on licensing, user responsibilities, and limitations of liability. We recommend reviewing these terms before getting started.",
+      "keywords": "OsifyAI terms of service, user agreement, app usage terms, medical software legalities",
+      "title": "Terms of Service"
+    },
+    "contact": {
+      "description": "Get in touch with Osify. Contact us for support, inquiries, or partnership opportunities.",
+      "keywords": "contact us, osify contact, support, customer service, get in touch"
+    },
+    "about-us": {
+      "description": "Osify is the smartest clinical platform for pediatric growth and endocrinology in Iran. A multidisciplinary team of physicians and technology experts committed to automating medical workflows, interpreting results accurately, and improving child growth monitoring.",
+      "keywords": "Osify, about Osify, pediatric growth platform, endocrinology platform, bone age, lab interpretation, medical AI tools, clinical system, growth monitoring, medical automation"
+    }
+  },
+  "SelectRole": {
+    "title": "Sign Up",
+    "description": "Select your work environment type",
+    "office": {
+      "label": "Office",
+      "description": "A workspace for a single doctor who can work with one or more assistants."
+    },
+    "clinic": {
+      "label": "Clinic",
+      "description": "A group environment where multiple doctors and staff work together."
+    },
+    "continueButton": "Continue",
+    "goBack": "Go Back"
+  },
+  "SubscriptionIndicator": {
+    "time_warning": "Your subscription time is running out. Click to find out more.",
+    "visits_warning": "Your remaining visits are running low. Click to find out more.",
+    "multiple_issues": "Your subscription time or remaining visits are running low or have expired. Click to find out more."
+  },
+  "SelectDoctorRole": {
+    "title": "Are you working as a doctor in this clinic?",
+    "yes": {
+      "label": "Yes",
+      "description": "By selecting this option, your account will be created as a clinic manager and the first active doctor."
+    },
+    "no": {
+      "label": "No",
+      "description": "By selecting this option, your account will be created only as a clinic manager."
+    },
+    "continueButton": "Continue",
+    "goBack": "Go Back"
+  },
+  "SelectLoginRole": {
+    "title": "Choose Your Workspace",
+    "description": "Select how you'd like to continue. You can always switch later.",
+    "employee": {
+      "label": "Staff",
+      "description": "Manage patients, visits, and clinical workflows"
+    },
+    "patient": {
+      "label": "Patient",
+      "description": "Book appointments and follow your care journey"
+    },
+    "continueButton": "Continue",
+    "goBack": "Go Back"
+  },
+  "ContactUs": {
+    "label": "Contact Us",
+    "title": {
+      "label": "Contact Us",
+      "title": "Get in Touch with <highlight>Osify</highlight> Team",
+      "description": "We're here to help. Reach out to our team for support, inquiries, or collaboration opportunities."
+    },
+    "description": "If you have any questions or need guidance, the Osify team is always ready to assist you and provide the best support",
+    "form": {
+      "title": "Contact Form",
+      "fullName": {
+        "label": "Full Name",
+        "placeholder": "Enter your full name"
+      },
+      "phoneNumber": {
+        "label": "Phone Number",
+        "placeholder": "Enter your phone number"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Enter your message here"
+      },
+      "submitButton": "Send Message"
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": {
+        "label": "Email Address",
+        "description": "osifyai@gmail.com"
+      },
+      "telegram": {
+        "label": "Telegram",
+        "description": "@osifyai"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "description": "021 9103 5425 - 0911 475 4235"
+      },
+      "whatsapp": {
+        "label": "WhatsApp Number",
+        "description": "0911 475 4235"
+      },
+      "address": {
+        "title": "Our Address",
+        "text": "Sari, Pasdarān Boulevard, Shahid Bahrami Street, Bahrami 1",
+        "mapTitle": "Osify location on map"
+      }
+    },
+    "success - feedback": "Thank you for contacting OsifyAI! We have received your message and will get back to you as soon as possible.",
+    "success - reservation": "Thank you for your reservation request! We have received your information and will contact you shortly to confirm the details."
+  },
+  "ThemeSwitcher": {
+    "Light": "Light",
+    "Dark": "Dark",
+    "System": "System",
+    "screen-reader-title": "Toggle theme"
+  },
+  "LocaleSwitcher": {
+    "screen-reader-title": "Language"
+  },
+  "doctorRegistration": {
+    "title": "Registration",
+    "backButton": "Go Back",
+    "medicalNumber": {
+      "label": "Medical License Number",
+      "placeholder": "Example: 123456"
+    },
+    "nationalCard": {
+      "label": "National ID Card / Medical License Card"
+    },
+    "submitButton": "Submit Information"
+  },
+  "Doctor": {
+    "dashboard": {
+      "welcome": "Welcome {name}",
+      "searchPlaceholder": "Search patients, colleagues, etc..."
+    },
+    "reports": {
+      "viewReports": "View Reports",
+      "trendDescription": "{trend} {percentage}% {timeframe}",
+      "trend": {
+        "increase": "Increase",
+        "decrease": "Decrease"
+      },
+      "relative": {
+        "lastMonth": "relative to last month",
+        "yesterday": "relative to yesterday",
+        "prevMonth": "relative to previous month",
+        "lastYear": "relative to last year"
+      },
+      "cards": {
+        "totalPatients": "Total Patients",
+        "totalVisits": "Total Visits",
+        "todayPatients": "New Patients Today",
+        "currentMonthPatients": "New Patients This Month",
+        "lastMonthPatients": "Last Month's Patients"
+      },
+      "age-sex-report-title": "Age-Sex Pyramid of Patients",
+      "receptions": "Receptions",
+      "visits": "Visits",
+      "visit": "Visit",
+      "lab": "Laboratory",
+      "new patients": "New Patients",
+      "visit-count": "{count, plural, one {# Visit} other {# Visits}}",
+      "lab-count": "{count, plural, one {# Lab} other {# Labs}}",
+      "female-count": "{count, plural, one {# Girl} other {# Girls}}",
+      "male-count": "{count, plural, one {# Boy} other {# Boys}}",
+      "hourly-visits-title": "Distribution of Visit Registrations",
+      "waiting": "Waiting",
+      "visiting": "Visiting",
+      "done": "Done"
+    }
+  },
+  "fileUploader": {
+    "idle": {
+      "title": "Upload your file",
+      "description": "( JPG, PNG, or PDF format - maximum {maxSize} MB )"
+    },
+    "uploading": {
+      "text": "Uploading...",
+      "percentage": "{progress}%"
+    },
+    "uploaded": {
+      "successMessage": "File uploaded successfully!",
+      "reuploadButton": "Upload Again",
+      "uploadMore": "Upload More"
+    },
+    "error": {
+      "invalidFile": "Please make sure of the file format and size."
+    },
+    "sizes": {
+      "Bytes": "Bytes",
+      "KB": "KB",
+      "MB": "MB"
+    },
+    "dropzone": {
+      "title": "Drop files here",
+      "or": "or",
+      "pick-button": "Browse Files",
+      "drop-here": "Release to upload"
+    },
+    "qrcode": {
+      "title": "Upload from Phone",
+      "helper": "Scan this QR code with your phone to upload files directly from your mobile device.",
+      "expires": "Expires in",
+      "used": "You need a new QR code.",
+      "expired": "QR code has expired.",
+      "generate new": "Generate a new QR code"
+    },
+    "max-files": {
+      "reached": "{current} of {max} files added",
+      "hint": "Maximum limit reached. Remove a file to add another."
+    }
+  },
+  "signupSuccess": {
+    "title": "Your Information Has Been Successfully Registered",
+    "description": "Once verified, the login link to the Osify physician panel will be sent to you via SMS.",
+    "acknowledgeButton": "I Understand"
+  },
+  "clinicRegistration": {
+    "title": "Registration",
+    "backButton": "Go Back",
+    "clinicName": {
+      "label": "Clinic Name",
+      "placeholder": "Enter clinic name"
+    },
+    "ciamCode": {
+      "label": "CIAM Code",
+      "placeholder": "Enter CIAM code"
+    },
+    "licenseDocument": {
+      "label": "Clinic Establishment License"
+    },
+    "submitButton": "Continue"
+  },
+  "AddPatientForm": {
+    "endedMedicines": "Ended Medicines",
+    "prescribedMedicines": "Prescribed Medicines",
+    "step0": {
+      "title": "Patient National ID",
+      "description": "Please enter the patient's national ID number",
+      "nationalNumber": {
+        "label": "National ID",
+        "placeholder": "Example: 123456789"
+      },
+      "attending physician": {
+        "label": "Attending Physician",
+        "placeholder": "Select attending physician"
+      }
+    },
+    "step1": {
+      "title": "Personal Information",
+      "fullName": {
+        "label": "Full Name",
+        "placeholder": "Example: Dania Rezaei"
+      },
+      "gender": {
+        "label": "Gender",
+        "placeholder": "Example: Girl",
+        "male": "Boy",
+        "female": "Girl"
+      },
+      "birthDate": {
+        "label": "Date of Birth "
+      },
+      "registrationDate": {
+        "label": "Patient Registration Date"
+      },
+      "insurance": {
+        "label": "Insurance",
+        "placeholder": "Example: Tamin Ejtemai",
+        "T_E": "Tamin Ejtemai",
+        "N_M": "Niroohaye Mosallah",
+        "KH_D": "Khadamat Darmani",
+        "T": "Takmili",
+        "O": "Omr",
+        "": "None"
+      },
+      "reason": {
+        "label": "Reason",
+        "placeholder": "Reason",
+        "visit": "Visit",
+        "lab": "Laboratory"
+      },
+      "phoneNumber": {
+        "label": "Phone Number",
+        "placeholder": "Example: 0912123456"
+      },
+      "fatherHeight": {
+        "label": "Father's Height",
+        "placeholder": "Example: 175 cm"
+      },
+      "motherHeight": {
+        "label": "Mother's Height",
+        "placeholder": "Example: 165 cm"
+      },
+      "phoneNumber-appointment": {
+        "label": "Phone Number of the Registrant"
+      },
+      "appointment-hour": {
+        "label": "Appointment Time"
+      }
+    },
+    "step2": {
+      "title": "Birth Information",
+      "birthHeight": {
+        "label": "Height",
+        "placeholder": "Example: 30 cm"
+      },
+      "birthWeight": {
+        "label": "Birth Weight",
+        "placeholder": "Example: 3.4 kg"
+      },
+      "gestationalAge": {
+        "label": "Gestational Age",
+        "placeholder": "Example: 38 weeks"
+      },
+      "headCircumference": {
+        "label": "Head Circumference",
+        "placeholder": "Example: 30 cm"
+      },
+      "wristCircumference": {
+        "label": "Wrist Circumference",
+        "placeholder": "Example: 5 cm"
+      },
+      "armCircumference": {
+        "label": "Arm Circumference",
+        "placeholder": "Example: 6 cm"
+      }
+    },
+    "step3": {
+      "title": "Medical Information",
+      "complaints": {
+        "label": "Patient Complaints",
+        "placeholder": "Example: Growth disorder"
+      },
+      "diseases": {
+        "label": "Medical History",
+        "placeholder": "Example: High cholesterol"
+      },
+      "surgeries": {
+        "label": "Surgical History",
+        "placeholder": "Example: Open heart surgery"
+      },
+      "allergies": {
+        "label": "Allergies",
+        "placeholder": "Example: Penicillin"
+      },
+      "validation": {
+        "minLength": "Must be at least {min} characters"
+      },
+      "TagInput": {
+        "defaultPlaceholder": "Type and press Enter...",
+        "errors": {
+          "empty": "Value cannot be empty",
+          "duplicate": "This item already exists"
+        },
+        "removeAriaLabel": "Remove {item}"
+      }
+    },
+    "step4": {
+      "title": "Medication History",
+      "endedMedicines": {
+        "subtitle": "Previous Medications",
+        "medicineName": {
+          "label": "Medicine Name",
+          "placeholder": "Example: Ibuprofen"
+        },
+        "endDate": {
+          "label": "Discontinuation Date"
+        },
+        "addButton": "+ Add Medicine",
+        "deleteAriaLabel": "Delete medicine"
+      },
+      "currentMedicines": {
+        "subtitle": "Current Medications",
+        "medicineName": {
+          "label": "Medicine Name",
+          "placeholder": "Example: Vitamin D"
+        },
+        "dose": {
+          "label": "Dosage",
+          "placeholder": "Example: 400"
+        },
+        "addButton": "+ Add Medicine",
+        "deleteAriaLabel": "Delete medicine"
+      }
+    }
+  },
+  "Images": {
+    "Logo": {
+      "full": "A simple logo featuring a white triangle centered on a black background, commonly associated with Vercel, a platform for deploying Next.js apps."
+    },
+    "PWA-screenshots": {
+      "home": "A default Next.js page with a black background, white text, and the Next.js logo. It suggests editing src/app/page.tsx to get started, with buttons for \"Deploy now\" and \"Read our docs\" below.",
+      "myPage": "A minimalist web page with a black background and white text saying \"This is my page\" and a link to \"Go Back to Main Page.\"",
+      "dashboard": "dashboard with all products laid out",
+      "boneAgeReport": "bone age reporting",
+      "heightCalcReport": "details for height calculation analysis",
+      "history": "patient history"
+    }
+  },
+  "FileUploader": {
+    "label": "Upload Photo",
+    "label-more": "Upload More Photos"
+  },
+  "BoneAge": {
+    "bone-age-title": "Bone Age",
+    "bone-age-popover": "The bone age result may differ from the actual bone age by up to <bold>{months} months</bold>. This difference is due to the variability in bone development across individuals.",
+    "diagnosis": "Diagnosis",
+    "Delayed": "Delayed",
+    "Advanced": "Advanced",
+    "Normal": "Normal",
+    "radiology-image": "Radiology Image",
+    "ai-analysis": "AI Analysis",
+    "ai-results": "AI Results",
+    "ai-results-graph": "Bone Age Status Graph",
+    "choose-best-one": "Choose the best one:",
+    "chronological-age-label": "Chronological Age",
+    "bone-age-label": "Bone Age",
+    "aphv-label": "APHV",
+    "ahp-parental-label": "AHP parental",
+    "mph-label": "MPH",
+    "not-available": "Not available now",
+    "action-cancel": "Back to Clinic",
+    "action-pay": "Pay",
+    "action-pay-direct": "Bank Portal",
+    "action-pay-wallet": "Wallet",
+    "action-next": "Next Step",
+    "firstName-label": "First Name",
+    "lastName-label": "Last Name",
+    "gender-label": "Gender",
+    "birthday-label": "Birthday",
+    "invoice-title-1": "Patient",
+    "invoice-title-2": "Bone Age Assessment with AI",
+    "gallery": "Gallery",
+    "camera": "Camera",
+    "camera-tab-warning": "If you you are taking photo from negatoscope, make sure to use Camera tab.Otherwise AI will not work accurately.",
+    "camera-negatoscope-warning": "AI can only predict accurately if only OsifyAI's proprietary negatoscope is used.",
+    "link": "Link",
+    "link-placeholder": "Sent by Radiology",
+    "nationalNumber-label": "National Number",
+    "nationalNumber": "Patient National Number",
+    "image-required": "Either an image or a link must be provided, but not both.",
+    "action-send-payment-link": "SMS Payment Link",
+    "action-send-payment-link-final": "Send",
+    "send-payment-link-title": "Send Payment Link via SMS",
+    "send-payment-link-description": "you will not pay any fee",
+    "schema": {
+      "url-invalid": "Link format is not acceptable",
+      "firstName-max": "First name must be less than {max} characters",
+      "lastName-max": "Last name must be less than {max} characters",
+      "nationalNumber-invalid": "National number format is not acceptable",
+      "gender-invalid": "This is not acceptable gender",
+      "birthday-invalidType": "Birthday format is not acceptable"
+    },
+    "feedback-trigger": "Feedback",
+    "feedback-title": "Is AI Result More than One Year Off?",
+    "feedback-description": "Your feedback will be used in this report. Each report can be edited once. Each doctor can edit their own reports.",
+    "export-trigger": "Export",
+    "export-title": "Keep the Report",
+    "export-description": "You can download PDF version of the report at any time. You can also send SMS link of PDF report.",
+    "export-sms": "Send via SMS",
+    "export-sms-action-send": "Send",
+    "export-sms-action-cancel": "Cancel",
+    "export-sms-sent-before": "Report link was sent to <span>{phoneNumber}</span>",
+    "feedback-sent-before": "Doctor {doctor} changed the bone age result from {aiYear} years and {aiMonth} months, to {doctorYear} years and {doctorMonth} months.",
+    "doctor-can-edit": "Doctor can edit these fields later.",
+    "gender-change-limit-save": "Save",
+    "gender-change-limit-cancel": "Cancel",
+    "gender-birthDate-change-limit-title-value": "{value, select, gender {Gender Field} birthDate {Birthday Field} both {Gender and Birthday Fields} other {This Field}}",
+    "gender-birthDate-change-limit-description-value": "You are about to edit {value, select, gender {gender field} birthDate {birthday field} both {gender and birthday fields} other {this field}}. This action will trigger AI to re-calculate all reports. You can change {value, select, both {these fields} other {this field}} once.",
+    "camera-capture": "Capture Photo",
+    "camera-switch": "Switch Camera",
+    "hormone-trigger": "Hormone",
+    "hormone-title": "Hormonal Treatment",
+    "hormone-description": "You can keep track of hormonal treatment here. You can modify only your reports.",
+    "tanner-trigger": "Tanner Stage",
+    "tanner-title": "Tanner Stage",
+    "tanner-description": "Specify patient's Tanner stage for this report.",
+    "I": "Tanner I",
+    "I_II": "Tanner I & II",
+    "II": "Tanner II",
+    "II_III": "Tanner II & III",
+    "III": "Tanner III",
+    "III_IV": "Tanner III & IV",
+    "IV": "Tanner IV",
+    "IV_V": "Tanner IV & V",
+    "V": "Tanner V",
+    "GH": "GH",
+    "GnRHa": "GnRHa",
+    "GH_GnRHa": "GH & GnRHa",
+    "NONE": "None",
+    "": "None",
+    "change": "Change",
+    "menarche": "Menarche",
+    "pre-menarche": "Pre-Menarche",
+    "Child": "Option 1",
+    "Adult": "Option 2",
+    "choice-trigger": "Choose Bone Age",
+    "choice-title": "Which Answer Do You Prefer?",
+    "choice-description": "You can later change to any value you want using \"feedback\" form.",
+    "date-of-visit": "Date of Visit",
+    "complaints-title": "Chief Complaints",
+    "complaints-placeholder": "e.g., Short stature, fatigue...",
+    "add-complaint": "Add Complaint",
+    "diseases-title": "Medical History (Diseases)",
+    "diseases-placeholder": "e.g., Asthma, thyroid issues...",
+    "add-disease": "Add Disease",
+    "surgeries-title": "Surgical History",
+    "surgeries-placeholder": "e.g., Tonsillectomy...",
+    "add-surgery": "Add Surgery",
+    "allergies-title": "Allergies",
+    "allergies-placeholder": "e.g., Penicillin, pollen...",
+    "add-allergy": "Add Allergy",
+    "current-medicines-title": "Current Medications",
+    "medicine-name": "Medication Name",
+    "medicine-name-placeholder": "e.g., Levothyroxine",
+    "dose": "Dose",
+    "dose-placeholder": "e.g., 50 mcg daily",
+    "add-current-medicine": "Add Current Medication",
+    "ended-medicines-title": "Past Medications",
+    "end-date": "End Date",
+    "add-ended-medicine": "Add Past Medication",
+    "personal-information": "Personal Information",
+    "medical-history": "Medical History",
+    "address-label": "Address"
+  },
+  "HeightCalculator": {
+    "birthday": "Birthdate",
+    "bone-age": "Bone Age",
+    "bone-age-year": "Year",
+    "bone-age-month": "Month",
+    "height": "Height",
+    "height-unit": "cm",
+    "fHeight": "Father's Height",
+    "mHeight": "Mother's Height",
+    "menarcheHeight": "Menarche Height",
+    "Bone Age SDS": "Bone Age SDS",
+    "Bone Age SDS-info": "The Standard Deviation Score of bone age relative to children of same age, gender and ethnicity",
+    "APHV": "APHV",
+    "APHV-info": "Age of Peak Height Velocity",
+    "AHP (x-ray)": "AHP (x-ray)",
+    "AHP (x-ray)-info": "Adult Height Prediction using x-ray",
+    "AHP (parental)": "AHP (parental)",
+    "AHP (parental)-info": "Adult Height Prediction using parental height alone",
+    "AHP (x+p)": "AHP (x+p)",
+    "AHP (x+p)-info": "Adult Height Prediction using x-ray and parental height",
+    "AHP (x+m)": "AHP (x+m)",
+    "AHP (x+m)-info": "Adult Height Prediction using x-ray and menarch height",
+    "Bone Health Index": "Bone Health Index",
+    "BHI SDS": "BHI SDS",
+    "BHI SDS-info": "Standard Deviation Score of BHI relative to children of the same bone age (or age), gender and ethnicity",
+    "Meta Carpal Index": "Meta Carpal Index",
+    "MCI SDS": "MCI SDS",
+    "MCI SDS-info": "Standard Deviation Score of MCI relative to children of the same bone age (or age), gender and ethnicity",
+    "age": "Age",
+    "age-tooltip": "Calculated relative to time of creating the bone age report",
+    "ethnicity-caption": "Based on data from Caucasian ethnicity",
+    "gender": "Gender",
+    "action-cancel": "Back to Clinic",
+    "action-submit": "Calculate",
+    "PMH": "MPH",
+    "PMH-info": "Mid Parental Height",
+    "schema": {
+      "bone-age-year-min": "Bone age year cannot be less than {min}",
+      "bone-age-year-max": "Bone age year cannot be more than {max}",
+      "bone-age-month-min": "Bone age month cannot be less than {min}",
+      "bone-age-month-max": "Bone age month cannot be more than {max}",
+      "height-min": "Height cannot be less than {min} cm",
+      "height-max": "Height cannot be more than {max} cm",
+      "bhi-min": "Bone Health Index cannot be less than {min}",
+      "bhi-max": "Bone Health Index cannot be more than {max}",
+      "mci-min": "Meta Carpal Index cannot be less than {min}",
+      "mci-max": "Meta Carpal Index cannot be more than {max}"
+    },
+    "growth-graphs": "Growth Graphs",
+    "edit-last-record": "Edit the last record for this patient",
+    "head-circumference": "Head Circumference",
+    "arm-circumference": "Arm Circumference",
+    "subscapular-skinfold": "Subscapular Skinfold",
+    "triceps-skinfold": "Triceps Skinfold",
+    "medical-examination": "Medical Examination"
+  },
+  "General": {
+    "error": "Service is currently unavailable. Please try again later.",
+    "loading": "Loading...",
+    "scan doctor qr code": "Please scan doctor's QR code.",
+    "report sent to doctor": "Your report was sent to doctor. You can leave the app now.",
+    "show-notification-details": "Show",
+    "toggle menu": "Toggle Menu",
+    "schema": {
+      "file-max-size": "Max image size is {size} MB",
+      "file-supported-formats": "Only {formats} formats are supported",
+      "length-value": "You can only upload {value} image.",
+      "field-required": "This field is required",
+      "number-only": "Only numbers are allowed",
+      "max-value": "Max value is {value}",
+      "min-value": "Min value is {value}",
+      "not acceptable value": "This value is not acceptable"
+    },
+    "Male": "Boy",
+    "Female": "Girl",
+    "value-cm": "{value} cm",
+    "not available": "N/A",
+    "value-cm-trend-days": "{value} cm {trend, select, increase {increase} decrease {decrease} other {change}} compared to {days} days ago",
+    "value-kg-trend-days": "{value} kg {trend, select, increase {increase} decrease {decrease} other {change}} compared to {days} days ago",
+    "value-sd-trend-days": "{value} sd {trend, select, increase {increase} decrease {decrease} other {change}} compared to {days} days ago",
+    "value-bmi-trend-days": "{value} kg/m² {trend, select, increase {increase} decrease {decrease} other {change}} compared to {days} days ago",
+    "value-month-trend-days": "{value} months {trend, select, increase {increase} decrease {decrease} other {change}} compared to {days} days ago",
+    "value-kg": "{value} kg",
+    "value-bmi": "{value} kg/m²",
+    "value-sd": "{value} sd",
+    "value-year": "{year, plural, =0 {{year} year} =1 {{year} year} other {{year} years}}",
+    "value-month": "{month, plural, =0 {{month} month} =1 {{month} month} other {{month} months}}",
+    "value-age": "{years} Years {months, plural, =0 {} other {and {months} Months}}",
+    "steps-total": "Step {current} of {total}",
+    "value-step": "Step {step}",
+    "value-Tooman": "{amount} Tooman",
+    "ProductTags": {
+      "BoneAge": "Bone Age",
+      "Mammography": "Mammography"
+    },
+    "status": {
+      "FAILED": "Failed",
+      "PENDING": "Pending",
+      "SUCCESS": "Success"
+    },
+    "table": {
+      "sort-asc": "Asc",
+      "sort-desc": "Desc",
+      "filter-selected-number": "{number} selected",
+      "filter-clear": "Clear filters",
+      "empty": "To begin, register the first patient.",
+      "empty-visit-title": "No visits registered yet",
+      "empty-visit": "To begin, register the first patient visit.",
+      "empty-employees-title": "No employees registered yet",
+      "empty-employees": "To get started, add the first employee.",
+      "pagination-check": "Page {current} of {total}",
+      "pagination-prev": "Go to previous page",
+      "pagination-next": "Go to next page",
+      "filter-reset": "Reset Filters",
+      "refresh": "Refresh List",
+      "filter-from-value": "From {value}",
+      "filter-to-value": "To {value}",
+      "filter-from": "From ",
+      "filter-to": "To ",
+      "dashboard-header": "Recent Patients List",
+      "patients-header": "Patients List",
+      "link": "See All"
+    },
+    "permission-denied": "You do not have access to this service.",
+    "doctor-only": "Only doctors have access to this service.",
+    "login-again": "Login to access the application.",
+    "close": "Close",
+    "logout-title": "Are You Sure?",
+    "logout-description": "You have to login again to access your account.",
+    "notification-device-no-support": "Your device/browser does not support notification.",
+    "notification-token-fetch-failed": "Turn on/off your VPN and reload the page.",
+    "continue": "Continue",
+    "notification-title": "Notifications",
+    "notification-tooltip": "Enable Notifications",
+    "notification-description": "Enabling notifications on your device is important. Please grant OsifyAI access to push notifications. You can mute or un-mute later.",
+    "notification-blocked": "Contact Support to guide you on how to enable notifications.",
+    "portrait-only": "Please rotate the device.",
+    "version-message": "A new version is available!",
+    "version-action": "Update",
+    "not-found-message": "Could not find the requested resource",
+    "not-found-action": "Return",
+    "error-message": "An error occurred. Take a screenshot and contact Support.",
+    "camera-title": "Camera",
+    "camera-description": "Enabling camera on your device is important. Please grant OsifyAI access to camera.",
+    "camera-blocked": "Contact Support to guide you on how to enable camera.",
+    "camera-photos-number": "{number, plural, =0 {Take a Photo} =1 {1 Photo} other {# Photos}}",
+    "born-in-year": "Born in {year}",
+    "choose-action": "Choose",
+    "unavailable": "OsifyAI is currently under construction. We'll be back soon with a new and improved experience!",
+    "upgrade your browser": "Your {browser} is out of date. Please update to version {version} or higher for the best experience.",
+    "you": "You",
+    "me": "Me"
+  },
+  "Login": {
+    "title": "Login",
+    "phoneNumber-title": "Phone Number",
+    "phoneNumber-action": "Send Phone Number",
+    "phoneNumber-placeholder": "Enter your phone number",
+    "code-action": "Send Code",
+    "code-resend": "Resend Code",
+    "wait-to-resend-time": "{time} minutes remaining to resend code",
+    "phoneNumber-change": "Change Phone Number",
+    "title-otp": "Phone Verification",
+    "description-otp": "A verification code has been sent to <span>{phoneNumber}</span>",
+    "otp-expired": "Code has expired.",
+    "footer": "By logging in, you agree to our <terms>Terms of Service</terms> and <privacy>Privacy Policy</privacy>.",
+    "schema": {
+      "phoneNumber-invalid": "This is not a valid phone number",
+      "code-invalid": "This is not a valid code"
+    },
+    "title-signup": "Sign Up",
+    "signup-rule-1": "1. Enter your full medical license number.",
+    "signup-rule-2": "2. Upload a high-quality photo of your national ID or medical license card.",
+    "national-card-title": "National ID or Medical License Card",
+    "medical-number-title": "Medical License Number",
+    "title-signup-pending": "Application Under Review",
+    "description-signup-pending": "We are reviewing your request. We'll send you an SMS to <span>{number}</span> once the review is complete.",
+    "signup-action": "Submit",
+    "agree": "I have read and accepted the <terms>Terms of Service</terms> and <privacy>Privacy Policy</privacy> of OsifyAI.",
+    "register-trigger": "Register as Doctor",
+    "register-title": "Doctor Registration",
+    "register-description": "You will have access to more sections.",
+    "Terms of Service": "Terms of Service",
+    "Privacy Policy": "Privacy Policy",
+    "no account": "Don't have an account? <register>Sign Up</register>",
+    "welcome": "Welcome",
+    "description": "Enter your phone number to log in or sign up.",
+    "tab-patient": "Patient",
+    "tab-employee": "Medical Employee",
+    "title-patient": "Welcome",
+    "description-patient": "Enter your phone number to log in or sign up.",
+    "title-employee": "Medical Professional Login",
+    "description-employee": "Enter your phone number to access your workspace.",
+    "acceptance": "By logging in, you accept the <terms>Osify Terms</terms> and <privacy>Privacy Policy</privacy>.",
+    "login-action": "Login",
+    "complete signup": "Complete Signup",
+    "complete medical profile": "Complete Medical Profile",
+    "username": "Username",
+    "username-placeholder": "Enter your username",
+    "password": "Password",
+    "password-placeholder": "Enter your password",
+    "description-admin": "Enter your username and password to log in."
+  },
+  "ProductCard": {
+    "new": "New",
+    "updated": "Updated",
+    "soon": "Coming Soon",
+    "growth-tracker": {
+      "description": "Calculate and record growth patterns precisely and derive sensible treatment plans."
+    },
+    "height-calculator": {
+      "description": "Calculate potential height of patients accurately."
+    },
+    "bmi-calculator": {
+      "description": "A quick, low-cost, and reliable screening measure for underweight, overweight, or obesity"
+    }
+  },
+  "Wallet": {
+    "wallet-btn-currency": "Tooman",
+    "wallet-btn-tooltip": "Click on wallet to increase amount",
+    "amount-enter": "Select or Enter Amount",
+    "option": "{amount} Million Tooman",
+    "transfer": "Transfer",
+    "amount-final": "Final Amount Sent to your Wallet",
+    "invoice": "Invoice",
+    "schema": {
+      "amount-min": "Amount cannot be less than {min} Tooman",
+      "amount-max": "Amount cannot be more than {max} Tooman"
+    },
+    "table-action": "See More"
+  },
+  "PageTitles": {
+    "service report": "Service Report",
+    "services": "Services",
+    "profile": "Profile",
+    "logout": "Log Out",
+    "result": "Result",
+    "wallet": "Wallet",
+    "reports": "Reports",
+    "patients": "Patients",
+    "clinic": "Clinic",
+    "growth-tracker": "New Visit",
+    "height-calculator": "Height Calculator",
+    "Mammography": "Mammography",
+    "financial report": "Financial Report",
+    "patient report": "Patient Report",
+    "profile-personal": "Personal Information",
+    "pricingPlans": "Subscription",
+    "support": "Support",
+    "bmi-calculator": "BMI Calculator",
+    "tutorials": "Tutorial Videos",
+    "patient-info": "Patient Information",
+    "employees": "Employees",
+    "more": "More",
+    "personal info": "Personal Information",
+    "visit": "Visit",
+    "visits": "Visit History",
+    "charts": "Reference Charts",
+    "labs": "Lab Results",
+    "growth-trend": "Growth Trend",
+    "doctor-diagnosis": "Doctor Diagnosis",
+    "growth-charts": "Growth Charts"
+  },
+  "ServiceReport": {
+    "action-view": "View Report",
+    "action-continue": "Continue",
+    "filter-national number": "National Number",
+    "column-title-service": "Service",
+    "column-title-status": "Result",
+    "column-title-national number": "National Number",
+    "column-title-date": "Date & Time",
+    "bar-graph-tooltip-warning": "Pending",
+    "bar-graph-tooltip-error": "Failed",
+    "bar-graph-tooltip-success": "Successful",
+    "bar-graph-tooltip": "Count",
+    "action-delete": "Delete",
+    "action-delete-title": "Remove Item",
+    "action-delete-description": "By removing this service report, its financial report data is removed as well. This action cannot be undo.",
+    "action-delete-label": "I understand the consequences of this action.",
+    "action-delete-cancel": "Cancel"
+  },
+  "Patients": {
+    "patient search-placeholder": "Select patient...",
+    "patient search-empty": "No patient found.",
+    "select patient first": "Select a patient to see the reports.",
+    "show chart": "Show Chart",
+    "add new patient": "Add New Patient",
+    "register-patient": "Register Patient",
+    "cancel": "Cancel",
+    "back": "Back",
+    "continue": "Continue",
+    "edit-information": "Edit Information",
+    "patient-register-date": "Patient Registration Date",
+    "birth-information": "Birth Information",
+    "head-circumference": "Head Circumference",
+    "wrist-circumference": "Wrist Circumference",
+    "arm-circumference": "Arm Circumference",
+    "patient-complaints": "Patient Complaints",
+    "medication-history": "Past Medication History",
+    "add-medication": "Add Medication",
+    "medication-name": "Medication Name",
+    "medication-discontinuation-date": "Discontinuation Date",
+    "current-medications": "Current Medications",
+    "medication-dosage": "Dosage",
+    "discontinued-medications": "Discontinued Medications",
+    "prescribed-medications": "Prescribed Medications",
+    "voice-edit": "Edit Audio",
+    "rerecord": "Rerecord",
+    "click-to-edit-or-rerecord": "Click to edit or rerecord"
+  },
+  "PatientDetails": {
+    "label-national number": "National Number",
+    "label-name": "Name",
+    "label-phone number": "Phone Number",
+    "label-gender": "Gender",
+    "label-birthday": "Birthday",
+    "label-patient image": "Patient Image",
+    "title-1": "Patient",
+    "title-2": "Reports",
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "save": "Save Information",
+    "ai-loading": "AI is generating the report. You will be notified when ready.",
+    "report-download": "Download Report",
+    "first visit - date": "<span>First Visit:</span> {date}",
+    "parental info": "Parental Information",
+    "upper_edge": "Upper Edge",
+    "lower_edge": "Lower Edge",
+    "upper_out_of_range": "Upper Out of Range",
+    "lower_out_of_range": "Lower Out of Range",
+    "ok": "ok"
+  },
+  "PatientsToolbar": {
+    "sortBy": "Sort by",
+    "searchPlaceholder": "Search today's patients",
+    "searchPlaceholder-all": "Search patients",
+    "sort": {
+      "newest": "Newest",
+      "oldest": "Oldest",
+      "youngest": "Youngest",
+      "oldestAge": "Oldest"
+    }
+  },
+  "Visits": {
+    "add-new-visit": "Add New Visit",
+    "register-visit": "Register Visit",
+    "visit-date": "Visit Date",
+    "lab-date": "Lab Date",
+    "patient-height": "Patient Height",
+    "patient-height-placeholder": "e.g., 150 cm",
+    "patient-weight": "Patient Weight",
+    "patient-weight-placeholder": "e.g., 50 kg",
+    "hand-radiology-image": "Hand Radiology Image",
+    "lab-results-image": "Lab Results Image",
+    "both-height-weight-required": "Height and weight must be provided together (both or neither)",
+    "both-ocrs-date-required": "Lab results and their date must be provided together (both or neither)",
+    "at-least-one-required": "Visit cannot be empty.",
+    "Child Data": "Child Data",
+    "arm_circumference": "Arm Circumference",
+    "head_circumference": "Head Circumference",
+    "triceps_skinfold": "Triceps Skinfold",
+    "triceps_skinfold_placeholder": "Example: 1.75 cm",
+    "subscapular_skinfold": "Subscapular Skinfold",
+    "subscapular_skinfold_placeholder": "Example: 1.26 cm",
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete",
+    "close": "Close",
+    "delete-description": "Are you sure? This reception will be deleted. The associated patient and visit information will not be effected.",
+    "paid": "Paid",
+    "cannot-delete-paid": "Paid receptions cannot be deleted",
+    "status": "Status",
+    "save": "Save",
+    "finish examination": "Finish Examination",
+    "start examination": "Start Examination",
+    "new reception": "New Reception",
+    "complete file": "Complete File",
+    "review visit": "Review Visit",
+    "attachments": "Attachments",
+    "attachments-placeholder": "Type here...",
+    "tab-growth": "Growth",
+    "tab-lab": "Lab",
+    "tab-attachment": "Attachment"
+  },
+  "Profile": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "medicalNumber": "Medical System Number",
+    "description": "Please complete your information before using OsifyAI.",
+    "profilePicture": "Profile Picture",
+    "qr code-download": "Download QR Code",
+    "title-personal-info": "Personal Information",
+    "title-action-save": "Update",
+    "title-action-cancel": "Cancel",
+    "title-authentication": "Authentication",
+    "title-doctor-number": "Phone Number",
+    "title-doctor-number-change": "New Phone Number",
+    "description-doctor-number-change": "Enter your new phone number.",
+    "title-doctor-number-action": "Update Phone Number",
+    "placeholder-doctor-number-change": "New Number",
+    "title-trusted-number": "Secretaries' Phone Numbers",
+    "title-trusted-number-new": "New Employee",
+    "description-trusted-number-new": "This number will have access to your organization on OsifyAI.",
+    "title-trusted-number-new-action": "Add Employee",
+    "title-trusted-number-remove": "Remove Employee",
+    "description-trusted-number-remove": "<span>{number}</span> will not have access to your organization on OsifyAI.",
+    "title-trusted-number-remove-action": "Remove Employee",
+    "specialty": "Specialty",
+    "plan-1": "Silver Plan",
+    "plan-2": "Golden Plan",
+    "price-description": "Each report costs <span>{price}</span> Tooman",
+    "rate-description": "From each report, you earn <span>{rate}%</span>",
+    "settings": "Settings",
+    "signup": "To register as a doctor, click <link>here.</link>"
+  },
+  "EditableImage": {
+    "brightness": "Brightness",
+    "contrast": "Contrast",
+    "reset": "Reset",
+    "previous": "Previous",
+    "next": "Next",
+    "title": "Change View",
+    "description": "Adjustments will not be saved."
+  },
+  "FinancialReport": {
+    "action": {
+      "DEPOSIT": "Deposit",
+      "DIRECT_PAY_PATIENT": "Patient Payment",
+      "DIRECT_PAY_USER": "Bank Payment",
+      "REWARD": "Reward",
+      "SPEND": "Wallet Payment"
+    },
+    "action-btn": "Download",
+    "title-date-and-time": "Date & Time",
+    "title-amount": "Amount (Tooman)",
+    "title-action": "Transaction",
+    "title-status": "Result",
+    "title-service": "Service",
+    "title-ref-id": "Bank Ref. ID",
+    "title-national-number": "First Name, Last Name, National Number",
+    "tooltip-success": "Successful",
+    "tooltip-error": "Failed",
+    "tooltip-warning": "Pending"
+  },
+  "PatientReport": {
+    "action-btn": "More",
+    "title-birthDate": "Birth Date",
+    "title-gender": "Gender",
+    "title-national-number": "National Number",
+    "placeholder-national-number": "First Name, Last Name, National Number",
+    "filter-birthDate-start": "Birth Date From",
+    "filter-birthDate-end": "Birth Date To",
+    "title-last-visit": "Latest Visit Date",
+    "title-visit-date": "Visit Date: {date}",
+    "title-fullName": "Patient's Name",
+    "title-registrationDate": "Registration Date",
+    "emptyTitle": "No patients registered yet",
+    "empty": "To get started, register the first patient.",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "delete-title": "Are you sure?",
+    "delete-description": "This patient will be removed from your list. Your visit details will be preserved and you can add this patient back to your list again later.",
+    "delete-action": "Delete Patient"
+  },
+  "BmiCalculator": {
+    "weight": "Weight",
+    "weight-unit": "kg",
+    "bmi": "BMI",
+    "bmi-popover": "Body Mass Index",
+    "bmi-sd": "BMI SD",
+    "bmi-sd-popover": "BMI Standard Deviation",
+    "bmi-status": "BMI Status",
+    "bmi-status-popover-span": "Possible values are: <span></span>",
+    "UnderWeight": "Under Weight",
+    "NormalWeight": "Normal Weight",
+    "OverWeight": "Over Weight",
+    "Obesity": "Obesity",
+    "height-sd": "Height SD",
+    "height-sd-popover": "Height Standard Deviation",
+    "weight-sd": "Weight SD",
+    "weight-sd-popover": "Weight Standard Deviation",
+    "week": "Week"
+  },
+  "PwaInstall": {
+    "done": "Done",
+    "title": "Install Web Application",
+    "description": "Access OsifyAI easier by installing the app on your device.",
+    "share": "Press \"Share\" icon in Navigation bar",
+    "add": "Select \"Add to Home Screen\"",
+    "select-chrome": "Select \"Cast, Save, and Share\"",
+    "select-safari": "Select \"Add to Dock\"",
+    "settings": "Press \"Settings\" icon in Navigation bar",
+    "install": "Install OsifyAI...",
+    "install-edge": "Install this site as an app",
+    "app-edge": "Apps"
+  },
+  "Organization": {
+    "Leader": "President",
+    "CoLeader": "Vice President",
+    "Member": "Employee",
+    "Doctor": "Doctor",
+    "Assistant": "Assistant",
+    "role-type": "{type, select, Leader {President} CoLeader {Vice President} Member {Employee} other {Member}}",
+    "Hospital": "Hospital",
+    "Clinic": "Clinic",
+    "ImagingCenter": "Imaging Center",
+    "user": "{isDoctor, select, true {Dr. {lastName} ({medicalNumber})} other {{firstName} {lastName}}}",
+    "user-name": "{isDoctor, select, true {Dr. {firstName} {lastName}} other {{firstName} {lastName}}}",
+    "user-name-short": "{isDoctor, select, true {Dr. {lastName}} other {{firstName} {lastName}}}",
+    "organization": "{type, select, Hospital {Hospital {name}} Clinic {Clinic {name}} ImagingCenter {ImagingCenter {name}} other {Center {name}}}",
+    "change-title": "Change Organization",
+    "change-description": "Change your organization to access its data.",
+    "leader-title": "Change Organization President",
+    "leader-description": "Your role will be changed to vice president. This action cannot be reversed by you. Do you want to proceed?",
+    "org name": "Organization Name",
+    "address text": "Address",
+    "address neshan link": "Address Link from <link>Neshan</link>",
+    "phone numbers": "Phone Numbers",
+    "phone number placeholder": "Enter phone number",
+    "add phone": "Add Phone Number"
+  },
+  "Employees": {
+    "employee": "Employee",
+    "role": "Role"
+  },
+  "CarouselDatePicker": {
+    "title": "Select a Date",
+    "description": "Drag over wheels to select.",
+    "close-action": "Confirm",
+    "placeholder": "Date"
+  },
+  "PricingPlans": {
+    "available-days-value": "{value, select, Monthly {Monthly} Yearly {Yearly} other {-}}",
+    "limit-patients-value": "Support up to {value, plural, =0 {0 patients} =1 {1 patient} other {# patients}}",
+    "limit-days": "Limited to <span>{limit, plural, =0 {0 AI prediction} =1 {1 AI prediction} other {# AI prediction}}</span> each {days, plural, =0 {0 day} =1 {1 day} other {# day}}",
+    "Basic": "Basic",
+    "Professional": "Professional",
+    "Advanced": "Advanced",
+    "Custom": "Custom",
+    "get-plan": "Get {plan}",
+    "current-plan": "Your current plan",
+    "current-plan-until": "Active until {until}",
+    "most-popular": "Most Popular",
+    "bone_age": "Bone age analysis with AI",
+    "calculators": "Adult height prediction",
+    "growth_charts": "Growth charts with AI",
+    "lab_paper_analysis": "Lab paper analysis with AI",
+    "medical_records": "Medical records analysis",
+    "unlimited_patients": "Unlimited patients support",
+    "my subscription": "My Subscription",
+    "cancel-subscription": "Cancel Subscription",
+    "cancel-subscription-description": "You can re-subscribe at any time to regain access to these features.",
+    "current plan summary": "Current Plan Summary",
+    "remaining time - value": "{days, plural, =0 {0 days} =1 {1 day} other {# days}}",
+    "remaining time - title": "Remaining Time",
+    "remaining visits - value": "{visits, plural, =0 {0 visits} =1 {1 visit} other {# visits}}",
+    "remaining visits - title": "Remaining Visits",
+    "unlimited visits": "Unlimited",
+    "buy more visits": "Buy More Visits",
+    "new visits": "New Visits",
+    "buy more visits description": "You can buy additional visit packages without changing your current subscription plan.",
+    "final amount": "Final Amount"
+  },
+  "PricingPlansLanding": {
+    "replace_active_plan_title": "Replace Current Plan?",
+    "replace_active_plan_desc": "Your current plan will be removed. This action is irreversible. Are you sure?",
+    "replace_active_plan_cancel": "Cancel",
+    "replace_active_plan_confirm": "Confirm",
+    "select plan": "Select Plan",
+    "current plan": "Current Plan",
+    "current plan badge": "Current",
+    "Basic": {
+      "title": "Basic Plan",
+      "desc": "Suitable for doctors starting quickly"
+    },
+    "Advanced": {
+      "title": "Advanced Plan",
+      "desc": "Complete solution for professional doctors"
+    },
+    "billing": {
+      "Monthly": "Monthly",
+      "Yearly": "Yearly"
+    },
+    "shared_features": {
+      "appointment": "Appointment Management System",
+      "reception": "Smart Reception Hub",
+      "patient_profile": "Complete Patient Profile",
+      "patient_visit": "Patient Visit Tracker",
+      "reporting": "Clinical Reporting Dashboard"
+    },
+    "premium_features": {
+      "growth_profiling": "AI‑Driven Growth Profiling & Prediction",
+      "growth_lab": "AI Lab Results Intelligence",
+      "growth_trends": "AI Growth Trend Analysis & Forecasting",
+      "growth_bone_age": "AI Bone Age Calculation Assistant",
+      "voice": "AI Smart Voice Assistant with Speech‑to‑Text"
+    }
+  },
+  "OCRTable": {
+    "test": "Test",
+    "result": "Result",
+    "unit": "Unit",
+    "reference": "Reference Range",
+    "abnormal": "Abnormal",
+    "normal": "Normal",
+    "true": "Yes",
+    "false": "No",
+    "delete-title-field": "{field} Field Will Be Removed",
+    "delete-description-field": "{field} field will not be available on this test result. You can manually add fields at any time.",
+    "empty-title": "No lab result recorded yet",
+    "empty-description": "To record a lab result, first create a visit.",
+    "title": "Lab Results",
+    "ocr-date-title": "Lab Result ({date})",
+    "relative-days-after": "{days} days after visit",
+    "relative-days-before": "{days} days before visit",
+    "relative-same-day": "Same day as visit",
+    "status": "Status",
+    "re-upload": "Upload Again",
+    "check-lab-papers": "Examine Lab Papers",
+    "test placeholder": "e.g., WBC",
+    "value placeholder": "e.g., 7.5",
+    "unit placeholder": "e.g., x10³/μL",
+    "normal range placeholder": "e.g., 4.5-11.0",
+    "upper_out_of_range": "Above normal",
+    "lower_out_of_range": "Below normal",
+    "ai-notice": "The test result is ultimately interpreted by the treating physician.",
+    "limited": "AI lab result extraction is temporarily unavailable, but you can continue uploading images and all data will be processed once the service is restored."
+  },
+  "Landing": {
+    "error": "Service is currently unavailable. Please try again later.",
+    "header-doctor-title": "Dr. {lastName}",
+    "loading": "Loading...",
+    "scan doctor qr code": "Please scan doctor's QR code.",
+    "report sent to doctor": "Your report was sent to doctor. You can leave the app now.",
+    "show-notification-details": "Show",
+    "action": "Sign in / Sign up",
+    "home": "Home",
+    "tutorial": "Tutorial"
+  },
+  "Contact": {
+    "title": "Contact",
+    "address": "Bahrami Yek, Shahid Bahrami Street, Pasdaran Boulevard, Sari, Mazandaran, Iran",
+    "postalCode": "4814967843"
+  },
+  "Footer": {
+    "terms": "Terms of Service",
+    "policy": "Privacy Policy",
+    "quickAccess": {
+      "title": "Quick Access",
+      "home": "Home",
+      "aboutUs": "About Us",
+      "contactUs": "Contact Us",
+      "blog": "Blog"
+    },
+    "contact": {
+      "title": "Contact Information"
+    },
+    "social": {
+      "whatsapp": {
+        "alt": "WhatsApp",
+        "label": "Contact us on WhatsApp"
+      },
+      "instagram": {
+        "alt": "Instagram",
+        "label": "Follow us on Instagram"
+      },
+      "email": {
+        "alt": "Email",
+        "label": "Send us an email"
+      },
+      "telegram": {
+        "alt": "Telegram",
+        "label": "Contact us on Telegram"
+      },
+      "linkedin": {
+        "alt": "LinkedIn",
+        "label": "Connect with us on LinkedIn"
+      },
+      "aparat": {
+        "alt": "Aparat",
+        "label": "Watch us on Aparat"
+      }
+    }
+  },
+  "Hero": {
+    "adjectives": {
+      "item-1": "AI Driven",
+      "item-2": "Precise",
+      "item-3": "Smart",
+      "item-4": "Automated",
+      "item-5": "Efficient"
+    },
+    "title": "Healthcare Meets Technology",
+    "hero": {
+      "title": "Every centimeter tells the story of <highlight>children's future</highlight>",
+      "description": "An intelligent tool for monitoring children's growth and improving treatment decisions",
+      "cta": "Get Started Free",
+      "imageAlt": "Hero Image",
+      "leftIconAlt": "Left Icon",
+      "rightIconAlt": "Right Icon"
+    }
+  },
+  "Features": {
+    "title": "Packed with Features",
+    "description": "It comes with AI tools that medical professionals can rely on, all wrapped in a modern design.",
+    "item-1": {
+      "title": "Financial Report",
+      "description": "Get a comprehensive view of all your finances at one glance"
+    },
+    "item-2": {
+      "title": "Patient Report",
+      "description": "An overview of the patients you visit"
+    },
+    "item-3": {
+      "title": "Service Report",
+      "description": "Follow each service and complete them if necessary"
+    }
+  },
+  "Products": {
+    "title": "Services",
+    "description": "AI driven tools. Transforming health care services.",
+    "item-1": {
+      "title": "Adult Height Calculator",
+      "description": "Predict and calculate final adult height based on current growth patterns and metrics."
+    },
+    "item-2": {
+      "title": "Bone Age Report",
+      "description": "Assess bone density and growth potential through detailed bone age analysis."
+    }
+  },
+  "Pricing": {
+    "title": "Pricing",
+    "description": "Empowering Healthcare Experts",
+    "price-currency": "Thousand Toman",
+    "item-1": {
+      "title": "Plan 1",
+      "features": {
+        "item-1": "Pay as you use, no subscription fee",
+        "item-2": "Price per report",
+        "item-3": "Height detection",
+        "item-4": "Bone age result",
+        "item-5": "Integration of adult height calculator"
+      }
+    },
+    "item-2": {
+      "title": "Plan 2",
+      "features": {
+        "item-1-value": "Up to {value}% bonus, cash back",
+        "item-2": "All options from plan 1"
+      }
+    }
+  },
+  "Tutorials": {
+    "title": "Tutorial Videos",
+    "description": "Learn how to use OsifyAI",
+    "pacs": {
+      "title": "Integration with PACS",
+      "description": "You can extract images from PACS and use them in the app."
+    },
+    "qr-code": {
+      "title": "QR Codes",
+      "description": "Patients can directly scan the doctor's QR code to submit radiology links and images."
+    },
+    "link": {
+      "title": "Radiology Links",
+      "description": "You can directly enter the radiology link in the app."
+    },
+    "digital": {
+      "title": "Bone Age Images",
+      "description": "Send bone age images to the app."
+    },
+    "payment": {
+      "title": "Seamless Payment Methods",
+      "description": "You have multiple payment options available, including wallet payments and direct bank payments."
+    }
+  },
+  "landing": {
+    "title": "Comprehensive Child Growth Monitoring Platform",
+    "subtitle": "Empowering physicians with accurate tools and AI",
+    "nav-items": {
+      "home": "Home",
+      "about": "About Us",
+      "contact": "Contact Us",
+      "blogs": "Blogs"
+    },
+    "section_1": {
+      "title": "Child growth monitoring needs a transformation",
+      "text": "Today, monitoring children's growth is still a manual and fragmented process. Physicians spend significant time on data entry, manual image analysis, and test interpretation. The lack of a comprehensive tool makes accurate decision-making difficult and can lead to delayed problem detection."
+    },
+    "section_2": {
+      "title": "From record to alert; everything at a glance",
+      "text": "At OsifyAI, all key growth components are intelligently and seamlessly provided to the physician. Simply enter data like height, weight, bone age images, and test results; the system automatically creates a digital record and provides the necessary analysis. This approach allows the treating physician to manage the patient with greater speed and accuracy.",
+      "orbital_data": {
+        "digital_growth_profile": "Digital Growth Profile",
+        "automated_growth_calculations": "Automated Growth Calculations",
+        "clinical_alerts_suggestions": "Clinical Alerts & Suggestions",
+        "global_growth_charts": "Global Growth Charts",
+        "intelligent_bone_age_analysis": "Intelligent Bone Age Analysis",
+        "digital_interpretation_of_tests": "Digital Interpretation of Tests"
+      }
+    },
+    "features": {
+      "title": "All Growth Tools in One <underline>Platform</underline>",
+      "description": "From hormone tests to growth charts; all data digitally unified",
+      "items": {
+        "1": {
+          "title": "Test Analysis",
+          "desc": "Intelligent interpretation of hormone results and therapeutic insights."
+        },
+        "2": {
+          "title": "Digital Growth Monitoring",
+          "desc": "Automatic recording and analysis of height, weight, and BMI using global standard charts."
+        },
+        "3": {
+          "title": "Smart Comparison and Alerts",
+          "desc": "Detection of abnormal changes and sending alerts for faster decision-making."
+        }
+      }
+    },
+    "pricing": {
+      "title": "Subscription Plans for <underline>Different Needs</underline>"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "text": "We believe that every small change in a child's growth matters. Today, physicians face manual processes, scattered tools, and paper records for growth assessment, which are time-consuming and prone to error. Our goal is to transform this process into a faster, more accurate, and more integrated experience by combining artificial intelligence, user-centered design, and global medical standards."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "company_address": "Company Address",
+      "address": "Sari, Pasdaran Blvd, Bahrami St.",
+      "phone": "Phone"
+    },
+    "sections": {
+      "resources": "Resources",
+      "solutions": "Solutions",
+      "pricing": "Pricing",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "blogs": {
+      "title": "Latest articles on child growth and health monitoring",
+      "see_all": "See all",
+      "read_more": "Read more",
+      "author": "Author"
+    },
+    "faq": {
+      "title": "FAQs",
+      "faqs": {
+        "product": {
+          "title": "Product",
+          "items": [
+            {
+              "q": "What exactly does Osify do?",
+              "a": "Osify analyses growth data, test results, visit records and left-hand radiology images of patients, and provides them as smart charts and reports to physicians so that they can make more accurate and faster clinical decisions."
+            },
+            {
+              "q": "For whom is Osify designed?",
+              "a": "The Osify platform is designed for pediatric endocrinology and metabolism subspecialists, pediatricians, clinic managers, receptionists and physician assistants. Each group has its own dedicated workspace with tools and access level appropriate for their role."
+            },
+            {
+              "q": "What role does artificial intelligence play in Osify?",
+              "a": "Osify’s AI algorithms analyse growth data, test results and left-hand radiology images and automatically calculate indices such as BMI, SDS, HV, WV, AHP, MPH and Bone Age. The physician can use these analyses to evaluate the growth trend and make more precise therapeutic decisions."
+            },
+            {
+              "q": "Do I need to install any special software to use Osify?",
+              "a": "No. You don’t need to install any software to use Osify. The Osify platform is completely web-based and you can run it through your browser."
+            }
+          ]
+        },
+        "usage": {
+          "title": "Usage and Application",
+          "items": [
+            {
+              "q": "How do physicians use Osify?",
+              "a": "The physician creates a file for each patient, and records visits and test results using OCR technology. Osify automatically updates the growth chart and analyses the patient’s changes compared to previous visits. Also, by uploading a left-hand radiology image, the system calculates bone age with AI."
+            },
+            {
+              "q": "How does Osify help clinics?",
+              "a": "Osify unifies all processes of registration, follow-up and patient analysis in one integrated environment. Clinic managers can manage multiple physicians and receptionists in a single system, distribute files among physicians and view performance reports and patient treatment trends comprehensively."
+            },
+            {
+              "q": "Can I use Osify on a mobile phone too?",
+              "a": "Yes. The web version of Osify is fully responsive and can be used on mobile and computer without needing to install an app."
+            },
+            {
+              "q": "Can I view previous growth records or visits of patients?",
+              "a": "Yes. In the dashboard of each patient you can view all previous growth records, visits and registered data. The information is displayed in an organised and filterable way so you can examine the growth trend or changes in the patient over different time intervals."
+            }
+          ]
+        },
+        "security": {
+          "title": "Security and Data",
+          "items": [
+            {
+              "q": "How is user authentication handled?",
+              "a": "Registration in Osify only happens after official identity verification and approval of medical credentials. The system automatically recognises the user’s role and sets the access level, tools and visible data based on that role."
+            },
+            {
+              "q": "How is patient data security guaranteed?",
+              "a": "All data are stored with advanced encryption methods and only authorised treatment team members have access. Data storage is performed in accordance with privacy standards and no one will access them without a physician’s permission."
+            },
+            {
+              "q": "What happens if my account is deactivated or I leave?",
+              "a": "Patient data are never deleted. Physicians and clinic managers can export a full set of their data prior to deactivation of the account. Information is securely stored until final disposition and only the account owner (or clinic manager) has access."
+            },
+            {
+              "q": "Who has access to my patient information?",
+              "a": "Only you have access to your patients’ information, unless you explicitly give your receptionist or assistants a defined access level. Receptionists only have the ability to record and edit basic patient information and do not access medical details or specialist analyses."
+            }
+          ]
+        },
+        "pricing": {
+          "title": "Plans and Costs",
+          "items": [
+            {
+              "q": "What is the difference between Osify’s plans?",
+              "a": "Osify’s plans are designed based on user role (sub-specialist physician, specialist or clinic manager) and level of features. The professional and advanced plans offer more precise analytical features, higher capacity in patient management, and the ability to define more assistants. To get better familiarity, you can start with the 14-day free trial and experience the features of each plan before deciding."
+            },
+            {
+              "q": "What if I want to change my plan?",
+              "a": "You can upgrade your plan at any time. The system automatically calculates the remaining credit and subtracts it from the cost of the new plan."
+            },
+            {
+              "q": "After the trial ends, will my data be lost?",
+              "a": "No. Your data are always preserved. Only some advanced features will be disabled until you renew."
+            },
+            {
+              "q": "Can I cancel my subscription?",
+              "a": "Yes. You can cancel your subscription at any time and you can easily receive the remaining credit of your subscription."
+            }
+          ]
+        },
+        "support": {
+          "title": "Support and Services",
+          "items": [
+            {
+              "q": "What should I do if a problem occurs?",
+              "a": "Through the in-app support (online chat) you can communicate with the Osify team. During working hours responses are instantaneous and outside working hours your request is registered and reviewed at the earliest opportunity."
+            },
+            {
+              "q": "Does Osify provide phone support?",
+              "a": "Yes. Users of the professional and advanced plans have access to dedicated phone support."
+            },
+            {
+              "q": "How can I export data or reports?",
+              "a": "In each patient’s file there is an option “Export as PDF or Excel” so you can save or print the full report of growth, tests and visits."
+            },
+            {
+              "q": "Is data transfer from another software possible?",
+              "a": "Yes. Using CSV or Excel files you can import previous patient data into Osify in a few simple steps."
+            }
+          ]
+        }
+      }
+    },
+    "newsletter": {
+      "title": "Ask your questions before getting started",
+      "description": "Book a free consultation session to learn more about the product and get your questions answered.",
+      "input-placeholder": "Enter your phone number",
+      "send-button": "Send",
+      "quotation": "Is it possible to install Osify on-site?",
+      "imageAlt": "Free consultation with an Osify medical advisor",
+      "invalid_phone_number": "Invalid phone number",
+      "phone_number_too_short": "Phone number must be at least 10 digits",
+      "phone_number_too_long": "Phone number too long"
+    },
+    "call": "Call"
+  },
+  "BulletPoints": {
+    "title": "Three Simple Steps for Smart Children's Growth Monitoring",
+    "subtitle": "Fast, accurate, and hassle-free",
+    "imageAlt": "Doctor with Phone",
+    "insightText": "Patient shows symptoms of chronic fatigue. Checking vitamin D and iron levels is recommended. GH treatment...",
+    "point1": {
+      "title": "Data Entry",
+      "description": "Enter height, weight, test results, or radiological images, or use the digital medical records system."
+    },
+    "point2": {
+      "title": "Smart Analysis",
+      "description": "Osify algorithms process the data and generate charts, growth calculations, and intelligent alerts."
+    },
+    "point3": {
+      "title": "Insights and Action",
+      "description": "Complete reports and treatment recommendations are displayed in the physician's dashboard for faster and more accurate decision-making."
+    }
+  },
+  "about-us": {
+    "hero-title": "About Us",
+    "hero-text": "<span>The smartest</span> pediatric growth and endocrinology clinical platform in Iran",
+    "hero-description": "At Osify, we believe that technology should help doctors serve their patients with greater accuracy, speed, and peace of mind.",
+    "story": {
+      "title": "The Story of Our Team",
+      "description-desktop": "The idea of Osify was born from a real experience in a pediatric endocrinology clinic, where a patient inspired the creation of an intelligent tool. When we realized that interpreting bone age images was time-consuming and prone to errors, we decided to build a faster and more accurate solution. With the collaboration of physicians, this idea grew into a multidisciplinary team dedicated to improving the monitoring of children’s growth.",
+      "description-mobile": {
+        "1": "The idea of Osify was born from a real experience in a pediatric endocrinology clinic, where a patient inspired the creation of an intelligent tool.",
+        "2": "When we realized that interpreting bone age images was time-consuming and prone to errors, we decided to build a faster and more accurate solution.",
+        "3": "With the collaboration of physicians, this idea grew into a multidisciplinary team dedicated to improving the monitoring of children’s growth."
+      },
+      "imageAlt": "Pediatrician reviewing growth records on a digital workstation"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "We replaced scattered paper-based systems with an integrated platform that automates repetitive tasks, provides real-time insights, and enables long-term patient monitoring. Specialists, subspecialists, and clinics can create accounts, manage access, and benefit from their dedicated professional tools.",
+      "button": "Start for Free",
+      "imageAlt": "Pediatrician measuring a child's height during a growth assessment"
+    },
+    "features": {
+      "title": "What Makes Our Platform Different",
+      "description": "Intelligent, specialized, and localized tools for pediatric growth and endocrinology",
+      "items": {
+        "1": {
+          "title": "Domain Expertise",
+          "desc": "Smart interpretation of hormonal results and therapeutic insights."
+        },
+        "2": {
+          "title": "Intelligent Tools",
+          "desc": "Including bone age, lab analysis, and AI-based recommendations."
+        },
+        "3": {
+          "title": "Localization",
+          "desc": "Optimized for the real workflows and needs of Iranian doctors."
+        }
+      }
+    },
+    "CTA": {
+      "title": "Join the Osify Medical Community",
+      "phonenumber-input": "Enter your phone number",
+      "invalid_phone_number": "Invalid phone number",
+      "phone_number_too_short": "Phone number must be at least 10 digits",
+      "phone_number_too_long": "Phone number too long",
+      "send": "Send",
+      "imageAlt": "Doctor using the Osify mobile app to manage patient care"
+    }
+  },
+  "Mdx": {
+    "category": {
+      "medical": "Medical",
+      "technology": "Technology",
+      "life-style": "Life Style",
+      "research-and-education": "Research and Education",
+      "news-and-updates": "News and Updates",
+      "general-health": "General Health",
+      "all": "All"
+    },
+    "approvedBy": "Approving Physician: {name}",
+    "author": "Author: {name}",
+    "read-time": "Reading Time: {time} minutes",
+    "published-date": "Publication Date: {date}",
+    "introduction": "What you will read in this article",
+    "tags": "Tags:",
+    "resources": "Resources:",
+    "suggested blogs": "Suggested Blogs",
+    "share": "Share",
+    "share-message": "Blog url copied to clipboard!",
+    "related": "Related Blogs",
+    "toc": "Table of Contents"
+  },
+  "Blogs": {
+    "all blogs - title": "All Articles",
+    "all blogs - description": "Up-to-date knowledge and insights on children’s health and development",
+    "sort": {
+      "newest": "Newest",
+      "oldest": "Oldest"
+    },
+    "empty list": "No blogs found.",
+    "blogs": "Blogs",
+    "title": "The latest articles about monitoring <span>children's growth and health</span>",
+    "description": "A collection of scientific and practical articles on growth assessment, bone age interpretation, and modern clinical monitoring tools",
+    "search - placeholder": "Search articles",
+    "popular searches": "Popular Searches",
+    "recent searches": "Recent Searches",
+    "in category - name": "in <span>{name}</span> category"
+  },
+  "Dashboard": {
+    "choose-workspace": "Choose your workspace",
+    "add-workspace": "Add new workspace",
+    "visit-date": "Visit Date",
+    "state-waiting": "Patient admitted at {time}",
+    "state-visiting": "Check-in at {time}",
+    "state-done": "Visit completed at {time}",
+    "state-waiting-no-time": "Patient not admitted yet",
+    "state-visiting-no-time": "Not check-in yet",
+    "state-done-no-time": "Visit not completed yet",
+    "waiting": "Waiting for Visit",
+    "visiting": "In Progress",
+    "done": "Completed",
+    "details": "Details",
+    "turn": "Turn",
+    "ordinal-turn": "{turn, selectordinal, =1{#st} =2{#nd} =3{#rd} other {#th}}",
+    "is_inside": "Under Examination",
+    "wait_to_go_inside": "Waiting for Examination",
+    "queued": "Queued for Examination",
+    "state": "Examination State",
+    "status": "Reception Status",
+    "exit org": "Exit Current Organization",
+    "appointment-time": "Appointment booked for {time}",
+    "appointment-no-time": "Without prior appointment",
+    "appointment": "Appointment",
+    "reception": "Reception",
+    "is_managed": "Moved to Reception",
+    "national id": "National ID {id}"
+  },
+  "Sidebar": {
+    "settings": "Settings",
+    "subscription": "Subscription",
+    "support": "Support",
+    "reception": "Reception",
+    "patients": "Patients",
+    "colleagues": "Colleagues",
+    "reports": "Reports",
+    "appointments": "Appointments",
+    "doctor": "Dr",
+    "view_profile": "view profile",
+    "upgrade_plan": "upgrade plan",
+    "open_doctor_app": "open doctor app",
+    "open_patient_app": "open patient app",
+    "logout": "logout",
+    "logging_out": "logging out..."
+  },
+  "Appointments": {
+    "appointments": "Appointments Calendar",
+    "configurations": "Weekly Routine"
+  },
+  "DoctorConfigCard": {
+    "configuredDays": "Configured Days per Week",
+    "maxPatients": "Max Patients per Week",
+    "initConfig": "Initialize Config",
+    "viewConfig": "View Config"
+  },
+  "ConfigProfile": {
+    "explanationText": "These settings help you fill and extend your booking times faster. It is your usual weekly schedule and is not directly used in the booking schedule.",
+    "phoneNumber": "Phone Number",
+    "addInterval": "Add Interval",
+    "editInterval": "Edit Interval",
+    "start": "Start Time",
+    "startPlaceholder": "Select start time",
+    "end": "End Time",
+    "endPlaceholder": "Select end time",
+    "everyMinutes": "Interval Duration",
+    "everyMinutesPlaceholder": "Select duration",
+    "capacity": "Capacity",
+    "capacityPlaceholder": "Enter capacity",
+    "persons": "persons",
+    "cancel": "Cancel",
+    "save": "Save",
+    "noIntervals": "No intervals configured for this day.",
+    "minutes": "{value} min",
+    "deleteIntervalHeader": "Delete Interval",
+    "deleteIntervalDescription": "Are you sure you want to delete this interval? This action cannot be undone. Time slots that are already opened will not be effected.",
+    "delete": "Delete",
+    "notice": "<bold>Notice!</bold> For every {min} minutes, {count} persons can book appointments.",
+    "baseBookingDateTitle": "Base Booking Date",
+    "baseBookingDateHelper": "Set the earliest date from which patients can book using the regular booking link. Any time slots before this date will be reserved and unavailable through the public booking link.",
+    "baseBookingDateLabel": "Date",
+    "baseBookingDatePlaceholder": "Select a date"
+  },
+  "SendAppointmentLink": {
+    "button": "Send Booking Link",
+    "title": "Send Appointment Booking Link",
+    "phone_number": {
+      "label": "Phone Number",
+      "placeholder": "Enter phone number"
+    },
+    "appointment_config": {
+      "label": "Attending Physician",
+      "placeholder": "Select attending physician"
+    },
+    "emergency": {
+      "label": "Emergency booking",
+      "description": "When enabled, the patient can book regardless of capacity.",
+      "pickDate": "Select a day from the schedule",
+      "pickInterval": "Select a time slot",
+      "noIntervals": "No intervals available for this day",
+      "intervalRequired": "Select an interval to send the link",
+      "selectedDate": "Selected day"
+    },
+    "pill": "Emergency",
+    "cancel": "Cancel",
+    "submit": "Send Link",
+    "success msg": "Link sent successfully!",
+    "limited": "Appointment booking link is temporarily disabled. We apologize for this inconvenience. The issue will be fixed shortly."
+  },
+  "ZodErrorMap": {
+    "invalid_format": "{format} required",
+    "required": "This field is required",
+    "too_small": "Minimum value is {minimum}",
+    "too_big": "Maximum value is {maximum}",
+    "invalid_type": "Expected {expected}, but received {received}",
+    "invalid_value": "Expected {expected}, but received {received}"
+  },
+  "Colleagues": {
+    "pageTitle": "My Colleagues",
+    "searchPlaceholder": "Search colleagues",
+    "emptyStateTitle": "Your colleagues list is empty!",
+    "emptyStateDescription": "To get started, add your first colleague using the button below.",
+    "addColleagueButton": "Add New Colleague"
+  },
+  "DeleteColleagueDialog": {
+    "title": "Delete Colleague",
+    "confirmMessage": "Are you sure you want to delete <bold>{colleagueName}</bold>?",
+    "cancelButton": "Cancel",
+    "deleteButton": "Delete Colleague"
+  },
+  "ColleagueSuccessDialog": {
+    "title": "Invitation sent successfully",
+    "description": "Your colleague will be able to access their workspace in the clinic as soon as they log in to the platform via the link.",
+    "confirmButton": "Got it"
+  },
+  "ColleagueProfile": {
+    "phoneNumber": "Phone number",
+    "startDate": "Start date of cooperation",
+    "removePicture": "Remove picture",
+    "editInformation": "Edit information",
+    "userPermissions": "Colleague permissions",
+    "editPermissions": "Edit permissions",
+    "technicalPermissions": "1. Technical permissions",
+    "medicalPermissions": "2. Medical permissions",
+    "removeColleague": "Remove colleague",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "permissions": {
+      "registerPatient": "Register patient",
+      "editDeletePatient": "Edit and delete patient information",
+      "purchaseSubscription": "Purchase and renew subscription",
+      "registerVisit": "Register visit",
+      "registerColleague": "Register colleague",
+      "patientVisits": "Patient visits",
+      "patientVisitsInfo": "Access to view and manage all patient visits",
+      "most common": "Manage common and default items",
+      "most common info": "Add, edit, and change common and default items",
+      "appointments": "Modify appointments",
+      "appointments info": "Add, edit, and change appointment schedule and defaults",
+      "patientGrowth": "Patient growth progress",
+      "patientGrowthInfo": "Access to view and record information related to patient growth and development",
+      "doctorTreatment": "Medical diagnosis",
+      "doctorTreatmentInfo": "Access to view and record the doctor's diagnosis and treatment plan for patients"
+    }
+  },
+  "ColleagueCard": {
+    "phoneNumber": "Phone number",
+    "startDate": "Start date of cooperation",
+    "viewProfile": "View profile",
+    "roles": {
+      "assistant": "Assistant",
+      "doctor": "Doctor"
+    }
+  },
+  "AddColleagueForm": {
+    "phoneNumberLabel": "Colleague's phone number",
+    "phoneNumberError": "Enter a valid phone number",
+    "firstNameError": "First name is required",
+    "lastNameError": "Last name is required",
+    "roleError": "Role selection is required",
+    "personalInfoTitle": "1. Personal Information",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "firstNamePlaceholder": "Enter colleague's first name",
+    "lastNamePlaceholder": "Enter colleague's last name",
+    "rolePermissionsTitle": "2. Role and Permissions Selection",
+    "roleLabel": "Role ",
+    "rolePlaceholder": "Enter colleague's role",
+    "userPermissions": "User permissions",
+    "technicalPermissions": "1. Technical permissions",
+    "medicalPermissions": "2. Medical permissions"
+  },
+  "Permissions": {
+    "registerPatient": "Register patient",
+    "editDeletePatient": "Edit and delete patient information",
+    "purchaseSubscription": "Purchase and renew subscription",
+    "registerVisit": "Register visit",
+    "registerColleague": "Register colleague",
+    "patientVisits": "Patient visits",
+    "patientVisitsInfo": "This section contains patient medical information",
+    "patientGrowth": "Patient growth progress",
+    "patientGrowthInfo": "Access to view and record information related to patient growth and development"
+  },
+  "AddColleagueModal": {
+    "submitButton": "Register Colleague",
+    "addNewColleague": "Add new colleague"
+  },
+  "VisitDetails": {
+    "special-illnesses": "Special Illnesses",
+    "parents-info": "Parents Info",
+    "father-height": "Father Height",
+    "mother-height": "Mother Height",
+    "mph": "MPH",
+    "born-info": "Birth Info",
+    "height": "Height",
+    "weight": "Weight",
+    "head-circumference": "Head Circumference",
+    "wrist-circumference": "Wrist Circumference",
+    "current-information": "Current Information",
+    "height-sd": "Height SD",
+    "weight-sd": "Weight SD",
+    "chronological-age": "Chronological Age",
+    "chronological-age-popover": "This option shows the patient's chronological age at each visit.",
+    "bmi": "BMI",
+    "bone-age": "Bone Age",
+    "bone-age-sd": "Bone Age SD",
+    "bone-age-sd-popover": "The standard deviation indicates how far the bone age deviates from the chronological age.",
+    "ahp-parental": "AHP Parental",
+    "ai-error-tolerance": "This number indicates the AI error tolerance.",
+    "ahp-xray": "AHP X-ray",
+    "ahp-combined": "AHP (Parental + X-ray)",
+    "aphv": "APHV",
+    "final-diagnosis": "Final Diagnosis",
+    "previous-visit": "Previous Visit",
+    "next-visit": "Next Visit",
+    "visit-date": "Visit Date",
+    "bone-age-modal-title": "Does the AI result differ by more than one year?",
+    "bone-age-modal-description": "Your feedback will be used in this report. Each report can only be edited once.",
+    "delete visit": "Delete Visit",
+    "delete visit description": "Are you sure you want to delete this visit?",
+    "delete visit title": "Are you sure you want to delete this visit?",
+    "edit visit": "Edit Visit",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "delete-title": "Are you sure?",
+    "delete-description": "This visit will be removed from your list. This acrion is irreversible.",
+    "delete-action": "Delete Visit",
+    "diagnosis saved": "Diagnosis saved successfully.",
+    "download pdf": "Download PDF",
+    "good": "Normal",
+    "bad": "Abnormal"
+  },
+  "LabDetails": {
+    "previous-lab": "Previous Lab",
+    "next-lab": "Next Lab",
+    "lab-date": "Lab Test Date",
+    "lab-tests-header": "Test Results"
+  },
+  "EditMeasurementModal": {
+    "placeholder": "Enter value",
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+  "BoneAgeModal": {
+    "label": "Bone Age",
+    "placeholder": "Enter bone age"
+  },
+  "InfoBox": {
+    "trend-up": "Upward Trend",
+    "trend-down": "Downward Trend"
+  },
+  "growth-graphs": {
+    "zoom-hint": "Drag slider to zoom",
+    "cdc-graphs": "CDC Charts",
+    "who-graphs": "WHO Charts",
+    "two-visits-comparision": "Compare Two Visits",
+    "two-visits-comparision-title": "Visit Comparison",
+    "no-result": "No results to display.",
+    "no-result-title": "No Results Found",
+    "two-visits-comparision-default": "Select two visit dates to compare.",
+    "index": "Metric",
+    "first-visit-date": "First Visit: {date}",
+    "second-visit-date": "Second Visit: {date}",
+    "difference": "Difference",
+    "first-visit-required": "Selecting the first visit is required",
+    "second-visit-required": "Selecting the second visit is required",
+    "dates-cannot-be-same": "Visit dates cannot be the same",
+    "first-visit-date-label": "First Visit Date*",
+    "second-visit-date-label": "Second Visit Date*",
+    "select-placeholder": "Select",
+    "compare": "Compared to previous visit:",
+    "ok": "Natural",
+    "reconsider": "Re-evaluate",
+    "refer": "Refer"
+  },
+  "ImageCard": {
+    "view-full": "View Full",
+    "reload": "Reload",
+    "download": "Download"
+  },
+  "TreatmentStatusForm": {
+    "title": "Doctor's Diagnosis",
+    "auto-save-helper": "Changes are saved automatically.",
+    "auto-save-status-pending": "Saving...",
+    "auto-save-status-saved": "Saved",
+    "auto-save-status-error": "Failed to save",
+    "status-label": "Status",
+    "status-placeholder": "e.g. In Treatment",
+    "status-under_review": "Under Review",
+    "status-in-treatment": "In Treatment",
+    "status-treatment-stopped": "Treatment Stopped",
+    "status-referral": "Referral",
+    "status-under_treatment": "In Treatment",
+    "status-treatment_discontinued": "Treatment Discontinued",
+    "status-referred": "Referred",
+    "status-": "None",
+    "patient-history-label": "Patient's Medical History",
+    "patient-history-placeholder": "Example: Chief complaint, reported symptoms, duration and course of problem...",
+    "patient-history-popover": "Record the patient's medical history including chief complaints and reported symptoms.",
+    "doctor-assessment-label": "Doctor's Assessment",
+    "doctor-assessment-placeholder": "Example: The patient was referred to a gastroenterologist for specialized evaluation and investigation of gastrointestinal disorders due to clinical and laboratory evidence suggesting malabsorption.",
+    "doctor-assessment-popover": "Provide your professional assessment and recommendations based on examination and test results.",
+    "prescription-title": "Drug Prescription",
+    "medicine-name-label": "Medicine Name",
+    "medicine-name-placeholder": "e.g., Levothyroxine",
+    "dosage-label": "Dosage",
+    "dosage-placeholder": "e.g., 50 mcg daily",
+    "hormone-treatment-label": "Hormonal Treatment",
+    "hormone-treatment-placeholder": "e.g.: GH",
+    "tanner-stage-label": "Tanner Stage",
+    "tanner-stage-placeholder": "e.g.: Stage 3",
+    "hormone-none": "None",
+    "hormone-gh": "GH",
+    "hormone-gnrha": "GnRHa",
+    "hormone-gh-gnrha": "GH & GnRHa",
+    "tanner-1": "Tanner 1",
+    "tanner-2": "Tanner 2",
+    "tanner-3": "Tanner 3",
+    "tanner-4": "Tanner 4",
+    "tanner-5": "Tanner 5",
+    "add-prescription-button": "Add medicine"
+  },
+  "VoiceRecorder": {
+    "start-action": "Record voice",
+    "end-action": "Stop",
+    "description": "Click to fill out the form using your voice",
+    "description-info": "After starting the recording, speak. You can stop the recording at any time, and your voice will be converted to text.",
+    "loading": "Listening..."
+  },
+  "Diagnosis": {
+    "view full": "View Full",
+    "visit date": "Visit Date:",
+    "status": "Status:",
+    "empty-title": "No diagnosis recorded yet",
+    "empty": "To record a diagnosis, first create a visit.",
+    "previous diagnosis": "Previous Diagnosis",
+    "next diagnosis": "Next Diagnosis",
+    "diagnosis date": "Diagnosis Date"
+  },
+  "Settings": {
+    "personal": "Personal",
+    "organizational": "Organizational",
+    "common-items": "Common Items",
+    "default-items": "Default Items",
+    "default items info": "These items are automatically added to the first visit of a patient."
+  },
+  "Favorites": {
+    "complaints": "Complaints",
+    "complaints_placeholder": "e.g., Short stature",
+    "diseases": "Diseases",
+    "diseases_placeholder": "e.g., Growth hormone deficiency",
+    "surgeries": "Surgeries",
+    "surgeries_placeholder": "e.g., Pituitary tumor resection",
+    "allergies": "Allergies",
+    "dose": "Dosage",
+    "dose_placeholder": "e.g., 100 mg/day",
+    "allergies_placeholder": "e.g., Somatropin",
+    "medicines": "Medicines",
+    "medicines_placeholder": "e.g., Levothyroxine",
+    "medical_history": "Medical History",
+    "medical_history_placeholder": "e.g., Hypothyroidism",
+    "p_c_e_r": "Paraclinical & Clinical Report",
+    "p_c_e_r_placeholder": "e.g., Bone age: 2 years behind",
+    "treatment_plan": "Treatment Plan",
+    "treatment_plan_placeholder": "e.g., Continue growth hormone therapy",
+    "physician_diagnosis": "Physician Diagnosis",
+    "physician_diagnosis_placeholder": "e.g., Idiopathic growth hormone deficiency",
+    "org items": "Organization Items",
+    "my items": "My Items",
+    "add": "Add",
+    "new folder": "New Folder",
+    "new item": "New Item",
+    "back to - folder": "Back to {folder} folder",
+    "back": "Back",
+    "folders": "Folders",
+    "items": "Items",
+    "all org members info": "All organization colleagues can use these items."
+  },
+  "Upload": {
+    "upload": "Upload",
+    "cancel": "Cancel",
+    "successful": "Upload was successful. You can return to desktop app now.",
+    "helper-text": "Scan to upload image from phone."
+  },
+  "Banner": {
+    "Landing": {
+      "message": "Welcome to OsifyAI!",
+      "action": "Read more"
+    },
+    "Doctor": {
+      "message": "Use our new AI voice-to-text to turn your spoken words into accurate clinical diagnoses!",
+      "action": "Start Now"
+    },
+    "Patient": {
+      "message": "Faster Image Uploads Are Here!",
+      "action": "See Updates"
+    }
+  },
+  "Reports": {
+    "reception report": "Receptions",
+    "patients report": "Patients",
+    "visits report": "Visits",
+    "download excel": "Download Excel",
+    "date range": "Date Range",
+    "filters": "Filters",
+    "search patients placeholder": "Name, National ID, or Phone Number",
+    "empty reception list": "No receptions found.",
+    "empty appointment list": "No appointment found.",
+    "empty patients list": "No patients found.",
+    "empty visits list": "No visits found.",
+    "reception date": "Reception Date",
+    "reception dates placeholder": "Choose reception dates",
+    "registration date": "Patient Registration Date",
+    "visit registration date": "Visit Registration Date",
+    "registration dates placeholder": "Choose registration dates",
+    "total visits": "Total Visits",
+    "total patients": "Total Patients",
+    "total receptions": "Total Receptions",
+    "total patients grouped by gender": "Total Patients Grouped by Gender",
+    "total receptions grouped by reason": "Total Receptions Grouped by Reason",
+    "reception distribution by hour": "Reception Distribution by Hour",
+    "visit distribution by week day": "Visits Distribution by Week Day",
+    "columns": {
+      "medical_history": "Medical History",
+      "physician_diagnosis": "Physician Diagnosis",
+      "paraclinical_and_clinical_examination_report": "Paraclinical & Clinical Exam Report",
+      "treatment_plan": "Treatment Plan",
+      "status": "Status"
+    },
+    "height": "Height",
+    "weight": "Weight",
+    "bone_age": "Bone Age",
+    "ocr": "Lab Results",
+    "measurements": "Measurements",
+    "remove filters": "Remove Filters"
+  },
+  "VisitReport": {
+    "bmi-status": "BMI Status",
+    "bone-age-status": "Bone Age Status",
+    "abnormal-lab-results": "Abnormal Lab Results",
+    "tanner-stage": "Tanner Stage",
+    "visit date": "Visit Date",
+    "visit dates placeholder": "Choose visit dates",
+    "search patients placeholder": "Name, National ID, or Phone Number",
+    "total visits": "Total Visits",
+    "visits-with-measurements-title": "Visits with Measurements",
+    "visits-with-measurements-info": "Note: Visits can have multiple measurements. The sum below may exceed total visits.",
+    "height": "Height",
+    "weight": "Weight",
+    "bone-age": "Bone Age",
+    "lab-results": "Lab Results",
+    "visits-distribution-by-day-title": "Visits Distribution by Week Day",
+    "empty visits list": "No visits found."
+  },
+  "Date Range": {
+    "placeholder": "Choose dates",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "this month": "This Month",
+    "last month": "Last Month",
+    "this week": "This Week",
+    "last week": "Last Week"
+  },
+  "ExtendBookingSchedule": {
+    "extend": "Extend Booking Schedule",
+    "partiallyBooked": "Spots available",
+    "fullyBooked": "Fully booked",
+    "step1Title": "1. Select Attending Physician",
+    "attendingPhysician": "Attending Physician",
+    "selectPhysician": "Select attending physician",
+    "extendWeeks": "{count, plural, one {Extend for # week} other {Extend for # weeks}}",
+    "step2Title": "{order}. Select Schedule Dates",
+    "step3Title": "{order}. Booking Intervals Configuration",
+    "noticeText": "<bold>Notice!</bold> Once schedules are created, you can always edit each interval before they are reached.",
+    "cancelIntervalTitle": "Cancel Interval",
+    "cancelIntervalDesc": "Patients who already booked this interval will be notified via SMS about the cancellation. OsifyAI will reimburse them without any cost to you to book another time interval free of charge.",
+    "cancelDayTitle": "Cancel Day",
+    "cancelDayDesc": "Patients who already booked this day will be notified via SMS about the cancellation. OsifyAI will reimburse them without any cost to you to book another time interval free of charge.",
+    "submit": "Submit Extension",
+    "addInterval": "Add Interval",
+    "noIntervals": "No available intervals for this date.",
+    "holiday": "Public holiday",
+    "existing": "Already scheduled"
+  },
+  "UtilityBooking": {
+    "expires-in": "Expires in",
+    "link-expired": "This booking link has expired. Please contact the clinic to receive a new link.",
+    "load-error": {
+      "title": "Unable to load your booking",
+      "description": "We couldn't reach our servers. Please check your internet connection and try again. If the problem persists, <link>contact us</link>."
+    },
+    "slot-full": "The selected time slot is no longer available. Please choose another date and time.",
+    "back": "Back",
+    "continue": "Continue",
+    "submit": "Confirm and Pay",
+    "redirecting-payment": {
+      "title": "Redirecting to payment",
+      "description": "Please wait while we redirect you to the secure payment page.",
+      "manual-link": "Not redirected automatically? Click here to continue."
+    },
+    "existing-patients": {
+      "title": "Continue with an existing patient",
+      "description": "We found patients linked to this phone number. Select one to pre-fill their information, or continue with a new patient.",
+      "description-app": "Select one of the patients below to continue. To book an appointment for a new patient, please ask the reception to send you a new booking link.",
+      "continue-new": "Continue as a new patient"
+    },
+    "calendar": {
+      "no-intervals": "No available time slots for this date."
+    },
+    "receipt": {
+      "title": "Review your appointment",
+      "description": "Please review your information before confirming and proceeding to payment.",
+      "paid-title": "Your appointment is confirmed",
+      "paid-description": "Your payment has been received and your appointment is booked.",
+      "date": "Date",
+      "time": "Time",
+      "time-helper": "This time is an estimate; please arrive at the clinic before this time as actual appointment time may fluctuate.",
+      "patient": "Patient",
+      "patient-name": "Patient name",
+      "national-number": "National ID",
+      "payment": {
+        "title": "Payment",
+        "price": "Appointment price",
+        "tax": "Tax ({percent}%)",
+        "credit": "Your credit",
+        "discount": "Discount",
+        "payable": "Total payable"
+      },
+      "paid-action": {
+        "login-instructions": "To follow up, cancel, or check your booking history, please log in to your account.",
+        "login-instructions-with-phone": "To follow up, cancel, or check your booking history, please log in to your account using the phone number {phoneNumber}.",
+        "login": "Log in",
+        "go-to-dashboard": "Go to dashboard"
+      }
+    },
+    "system-canceled": {
+      "interval_was_canceled": {
+        "title": "The appointment slot was canceled",
+        "description": "Your selected time slot was canceled before your booking could be finalized, so no time has been reserved for you."
+      },
+      "interval_was_full": {
+        "title": "The appointment slot was no longer available",
+        "description": "The selected time slot was filled before your booking could be finalized, so no time has been reserved for you."
+      },
+      "interval_was_past": {
+        "title": "The appointment time has passed",
+        "description": "The selected time slot was passed before your booking could be finalized, so no time has been reserved for you."
+      },
+      "error": {
+        "title": "Something went wrong",
+        "description": "We couldn't reserve your appointment because of an unexpected error, so no time has been booked for you."
+      },
+      "credited-notice": "Your account has been credited with the amount you paid. You won't be charged again — book another time at no extra cost.",
+      "book-another": "Book another time"
+    }
+  },
+  "PatientDashboard": {
+    "active-bookings": "Active bookings",
+    "no-active-bookings": "You don't have any upcoming bookings yet.",
+    "home": "Home",
+    "menu-items": {
+      "create": {
+        "title": "Book an appointment",
+        "description": "Schedule a new appointment with your doctor."
+      },
+      "history": {
+        "title": "Booking history",
+        "description": "Browse your past and upcoming bookings."
+      },
+      "profile": {
+        "title": "Profile",
+        "description": "Manage your personal information and account settings."
+      }
+    },
+    "active-booking": {
+      "date": "Date",
+      "time": "Time",
+      "patient": "Patient",
+      "cancel": "Cancel booking",
+      "cancel-modal": {
+        "title": "Cancel this booking?",
+        "description": "If you cancel, 100% of the amount paid will be credited back to your account. You can use this credit toward another booking at no extra cost.",
+        "dismiss": "Keep booking",
+        "confirm": "Yes, cancel and refund",
+        "confirming": "Canceling..."
+      }
+    }
+  },
+  "PatientBookingCreate": {
+    "title": "Choose a doctor",
+    "description": "Select the doctor you want to book an appointment with.",
+    "confirm": "Continue",
+    "empty": {
+      "title": "No doctors available",
+      "description-phone": "There are no doctors available for booking at the moment. Call the clinic you are looking for and ask the receptionist to send you a link to {phone}."
+    }
+  },
+  "PatientBookingHistory": {
+    "columns": {
+      "date": "Date",
+      "time": "Time",
+      "doctor": "Doctor",
+      "patient": "Patient",
+      "status": "Status"
+    },
+    "status": {
+      "paid": "Paid",
+      "cancelled": "Cancelled",
+      "cancelled-by-doctor": "Cancelled by doctor",
+      "cancelled-by-patient": "Cancelled by you",
+      "cancelled-by-system": "Cancelled by system"
+    },
+    "empty": {
+      "title": "No bookings yet",
+      "description": "Once you book an appointment, you'll see it here."
+    }
+  }
+}

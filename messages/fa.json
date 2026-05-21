@@ -1,0 +1,2274 @@
+{
+  "Sessions": {
+    "title": "دستگاه های فعال",
+    "current": "دستگاه فعلی",
+    "terminateAll": "خاتمه دادن به سایر دستگاه ها",
+    "terminateConfirmTitle": "خاتمه دادن به سایر دستگاه ها",
+    "terminateConfirmDesc": "آیا مطمئن هستید که می‌خواهید از تمام دستگاه‌های دیگر خارج شوید؟",
+    "terminateConfirmAction": "بله",
+    "terminateConfirmCancel": "لغو"
+  },
+  "Metadata": {
+    "root": {
+      "description": "اُسیفای، هوشمندترین پلتفرم بالینی رشد و غدد کودکان در ایران. مجموعه‌ای کامل برای مطب‌ها و کلینیک‌های پزشکی — از تعیین سن استخوان با هوش مصنوعی و پایش رشد، تا نوبت‌دهی آنلاین، پروفایل پزشکی بیماران، پیام‌رسانی بین پزشک و بیمار، و دیجیتالی‌سازی هوشمند نتایج آزمایشگاه با هشدار خودکار بر اساس سن و جنسیت. پیش‌بینی قد نهایی با استفاده از داده‌های والدین و ردیابی مسیر رشد با مدل‌های اختصاصی هوش مصنوعی.",
+      "keywords": "اُسیفای, OsifyAI, Osify, نرم‌افزار مدیریت مطب, نرم‌افزار مدیریت کلینیک, سامانه مدیریت مطب, نرم‌افزار پزشکی, سن استخوان, تعیین سن استخوان, سن استخوان با هوش مصنوعی, پیش‌بینی قد نهایی, پایش رشد کودک, نوبت‌دهی بیمار, نوبت‌دهی آنلاین مطب, پرونده الکترونیک بیمار, پروفایل پزشکی بیمار, تفسیر آزمایش, تفسیر آزمایش با هوش مصنوعی, دیجیتالی‌سازی نتایج آزمایشگاه, غدد کودکان, اندوکرینولوژی کودکان, رشد کودک, هوش مصنوعی پزشکی, پیام‌رسانی پزشک و بیمار, مشاوره آنلاین پزشک, نمودار رشد, شاخص توده بدنی, BMI, مدیریت بیمار, اتوماسیون کلینیک, آزمایشگاه هوشمند, نرم‌افزار کلینیک"
+    },
+    "trust": {
+      "title": "نمادهای اعتماد",
+      "description": "نمادهای اعتماد به ایجاد اعتبار کمک می‌کنند و بازدیدکنندگان را مطمئن می‌سازند که وب‌سایت شما امن، تایید شده و قابل اعتماد است. نمایش نشان‌هایی مانند نماد اعتماد الکترونیکی، ساماندهی و گواهی‌های اُسیفای، اعتماد کاربران را افزایش می‌دهد، نرخ تبدیل را بهبود می‌بخشد و تعهد شما به ایمنی و شفافیت را نشان می‌دهد.",
+      "keywords": "نماد اعتماد الکترونیکی, ساماندهی, اُسیفای, نماد اعتماد, نشان‌های وب‌سایت"
+    },
+    "notFound": {
+      "description": "اُسیفای یک اپ پیشرفته است که برای متخصصان پزشکی طراحی شده است که در تحلیل تصاویر رادیوگرافی تخصص دارند. با استفاده از قدرت هوش مصنوعی، اُسیفای تحلیل تصاویر پزشکی را ساده می‌کند، در حالی که زمان صرفه‌جویی کرده و دقت را تضمین می‌کند.",
+      "keywords": "اُسیفای, رادیوگرافی, پردازش تصاویر پزشکی, هوش مصنوعی",
+      "title": "صفحه پیدا نشد"
+    },
+    "tutorials": {
+      "description": "اُسیفای مجموعه‌ای جامع از آموزش‌ها را ارائه می‌دهد تا به متخصصان پزشکی کمک کند تا به سرعت با ویژگی‌های آن آشنا شوند. از استفاده پایه‌ای تا تکنیک‌های پیشرفته تحلیل، آموزش‌های ما راهنمای گام‌به‌گام را ارائه می‌دهند تا اطمینان حاصل کنید که بیشترین بهره را از اپلیکیشن می‌برید.",
+      "keywords": "آموزش‌های اُسیفای, آموزش تصویربرداری پزشکی, هوش مصنوعی در رادیوگرافی, راهنمای تحلیل تصویر"
+    },
+    "privacy": {
+      "description": "در اُسیفای، ما اولویت را به حفظ حریم خصوصی شما می‌دهیم. سیاست حریم خصوصی ما نحوه جمع‌آوری، استفاده و حفاظت از داده‌های شما در حین استفاده از اپلیکیشن را توضیح می‌دهد. ما اطمینان می‌دهیم که تمام اطلاعات بیماران و داده‌های پزشکی با بالاترین سطح امنیت و در مطابقت کامل با مقررات حریم خصوصی پزشکی مدیریت می‌شوند.",
+      "keywords": "سیاست حفظ حریم خصوصی اُسیفای, حفاظت از داده‌ها, امنیت داده‌های پزشکی, محرمانگی بیماران",
+      "title": "سیاست حفظ حریم خصوصی"
+    },
+    "terms": {
+      "description": "با استفاده از اُسیفای، شما موافقت می‌کنید که قوانین و شرایط خدمات ما را رعایت کنید، که قوانین و شرایط استفاده از اپلیکیشن را مشخص می‌کند. این شامل جزئیاتی درباره مجوزها، مسئولیت‌های کاربر و محدودیت‌های مسئولیت است. توصیه می‌کنیم قبل از شروع استفاده از اپلیکیشن، این شرایط را بررسی کنید.",
+      "keywords": "شرایط خدمات اُسیفای, توافق‌نامه کاربری, شرایط استفاده از اپلیکیشن, جنبه‌های قانونی نرم‌افزار پزشکی",
+      "title": "شرایط خدمات"
+    },
+    "contact": {
+      "description": "با اُسیفای در تماس باشید. برای پشتیبانی، پرسش یا فرصت‌های همکاری با ما تماس بگیرید.",
+      "keywords": "تماس با ما, تماس با اُسیفای, پشتیبانی, خدمات مشتری, ارتباط با ما"
+    },
+    "about-us": {
+      "description": "اُسیفای، هوشمندترین پلتفرم بالینی رشد و غدد کودکان در ایران است. تیمی چندرشته‌ای از پزشکان و متخصصان فناوری که با هدف تسهیل تفسیر نتایج، پایش رشد و خودکارسازی فرآیندهای پزشکی فعالیت می‌کنند.",
+      "keywords": "اُسیفای, درباره اُسیفای, پلتفرم رشد کودکان, پلتفرم غدد کودکان, سن استخوان, تفسیر آزمایش, ابزار هوشمند پزشکی, سامانه بالینی, پایش رشد, هوش مصنوعی پزشکی"
+    }
+  },
+  "SelectRole": {
+    "title": "ثبت نام",
+    "description": "نوع محیط کاری خود را مشخص کنید",
+    "office": {
+      "label": "مطب",
+      "description": "محیط کاری مخصوص یک پزشک است که می‌تواند با یک یا چند دستیار فعالیت کند."
+    },
+    "clinic": {
+      "label": "کلینیک",
+      "description": "محیطی گروهی است که چند پزشک و پرسنل به‌صورت مشترک در آن کار می‌کنند."
+    },
+    "continueButton": "ادامه",
+    "goBack": "بازگشت"
+  },
+  "SubscriptionIndicator": {
+    "time_warning": "زمان اشتراک شما رو به پایان است. برای اطلاعات بیشتر کلیک کنید.",
+    "visits_warning": "تعداد ویزیت‌های باقیمانده شما کم است. برای اطلاعات بیشتر کلیک کنید.",
+    "multiple_issues": "زمان یا تعداد ویزیت‌های باقیمانده اشتراک شما رو به پایان است یا به پایان رسیده است. برای اطلاعات بیشتر کلیک کنید."
+  },
+  "SelectDoctorRole": {
+    "title": "آیا شما به عنوان پزشک در این کلینیک فعالیت دارید؟",
+    "yes": {
+      "label": "بله",
+      "description": "با انتخاب این گزینه، حساب شما به عنوان مدیر کلینیک و اولین پزشک فعال ایجاد می‌شود."
+    },
+    "no": {
+      "label": "خیر",
+      "description": "با انتخاب این گزینه، حساب شما فقط به عنوان مدیر کلینیک ایجاد می‌شود."
+    },
+    "continueButton": "ادامه",
+    "goBack": "بازگشت"
+  },
+  "SelectLoginRole": {
+    "title": "انتخاب محیط کاری",
+    "description": "نحوه ادامه را انتخاب کنید. در هر زمان می‌توانید تغییر دهید",
+    "employee": {
+      "label": "کادر درمان",
+      "description": "مدیریت بیماران، ویزیت‌ها و فرایندهای بالینی"
+    },
+    "patient": {
+      "label": "بیمار",
+      "description": "رزرو نوبت و پیگیری روند درمان."
+    },
+    "continueButton": "ادامه",
+    "goBack": "بازگشت"
+  },
+  "ContactUs": {
+    "label": "ارتباط با ما",
+    "title": {
+      "label": "تماس با ما",
+      "title": "با تیم <highlight>اُسیفای</highlight> در تماس باشید",
+      "description": "ما اینجا هستیم تا کمک کنیم. برای پشتیبانی، سوالات یا فرصت‌های همکاری با تیم ما تماس بگیرید."
+    },
+    "description": "اگر پرسشی دارید یا نیاز به راهنمایی دارید، تیم اُسیفای همیشه آماده است تا همراهتان باشد و بهترین پشتیبانی را ارائه دهد",
+    "form": {
+      "title": "فرم ارتباط با ما",
+      "fullName": {
+        "label": "نام و نام خانوادگی",
+        "placeholder": "نام و نام خانوادگی خود را وارد کنید"
+      },
+      "phoneNumber": {
+        "label": "شماره تلفن",
+        "placeholder": "شماره تلفن خود را وارد کنید"
+      },
+      "message": {
+        "label": "توضیحات",
+        "placeholder": "توضیحات خود را در این قسمت وارد کنید"
+      },
+      "submitButton": "ارسال پیام"
+    },
+    "info": {
+      "title": "اطلاعات تماس",
+      "email": {
+        "label": "آدرس ایمیل",
+        "description": "osifyai@gmail.com"
+      },
+      "telegram": {
+        "label": "تلگرام",
+        "description": "@osifyai"
+      },
+      "phone": {
+        "label": "شماره تماس",
+        "description": "۰۲۱ ۹۱۰۳ ۵۴۲۵ - ۰۹۱۱ ۴۷۵ ۴۲۳۵"
+      },
+      "whatsapp": {
+        "label": "شماره واتساپ",
+        "description": "۰۹۱۱ ۴۷۵ ۴۲۳۵"
+      },
+      "address": {
+        "title": "آدرس ما",
+        "text": "ساری ، بلوارپاسداران ، خیابان شهید بهرامی ، بهرامی ۱",
+        "mapTitle": "موقعیت اُسیفای روی نقشه"
+      }
+    },
+    "success - feedback": "از اینکه با اُسیفای تماس گرفتید متشکریم! پیام شما را دریافت کرده‌ایم و در اسرع وقت با شما تماس خواهیم گرفت.",
+    "success - reservation": "از درخواست رزرو شما متشکریم! اطلاعات شما را دریافت کرده‌ایم و به زودی برای تایید جزئیات با شما تماس خواهیم گرفت."
+  },
+  "ThemeSwitcher": {
+    "Light": "روشن",
+    "Dark": "تاریک",
+    "System": "سیستم",
+    "screen-reader-title": "تغییر تم"
+  },
+  "LocaleSwitcher": {
+    "screen-reader-title": "زبان"
+  },
+  "doctorRegistration": {
+    "title": "ثبت نام",
+    "backButton": "بازگشت",
+    "medicalNumber": {
+      "label": "شماره نظام پزشکی",
+      "placeholder": "مثال: 123456"
+    },
+    "nationalCard": {
+      "label": "کارت شناسایی ملی / کارت نظام پزشکی"
+    },
+    "submitButton": "ثبت اطلاعات"
+  },
+  "Doctor": {
+    "dashboard": {
+      "welcome": "خوش آمدید {name}",
+      "searchPlaceholder": "جست و جوی بیماران، همکاران و.."
+    },
+    "reports": {
+      "viewReports": "مشاهده گزارشات",
+      "trendDescription": "{trend} {percentage}% {timeframe}",
+      "trend": {
+        "increase": "افزایش",
+        "decrease": "کاهش"
+      },
+      "relative": {
+        "lastMonth": "نسبت به ماه گذشته",
+        "yesterday": "نسبت به دیروز",
+        "prevMonth": "نسبت به ماه قبل",
+        "lastYear": "نسبت به سال قبل"
+      },
+      "cards": {
+        "totalPatients": "تعداد کل بیماران",
+        "totalVisits": "تعداد کل ویزیت‌ها",
+        "todayPatients": "بیماران جدید امروز",
+        "currentMonthPatients": "بیماران جدید ماه جاری",
+        "lastMonthPatients": "بیماران ماه گذشته"
+      },
+      "age-sex-report-title": "هرم سنی-جنسی بیماران",
+      "receptions": "پذیرش‌ها",
+      "visits": "ویزیت‌ها",
+      "visit": "ویزیت",
+      "lab": "آزمایش",
+      "new patients": "بیماران جدید",
+      "visit-count": "{count} ویزیت",
+      "lab-count": "{count} آزمایش",
+      "female-count": "{count} دختر",
+      "male-count": "{count} پسر",
+      "hourly-visits-title": "پراکنندگی ثبت ویزیت‌ها",
+      "waiting": "در انتظار",
+      "visiting": "در حال ویزیت",
+      "done": "انجام شده"
+    }
+  },
+  "fileUploader": {
+    "idle": {
+      "title": "فایل خود را بارگذاری کنید",
+      "description": "( فرمت JPG, PNG, یا PDF - حداکثر {maxSize} مگابایت )"
+    },
+    "uploading": {
+      "text": "در حال بارگذاری...",
+      "percentage": "{progress}٪"
+    },
+    "uploaded": {
+      "successMessage": "فایل با موفقیت بارگذاری شد!",
+      "reuploadButton": "بارگذاری مجدد",
+      "uploadMore": "بارگذاری بیشتر"
+    },
+    "error": {
+      "invalidFile": "لطفاً از فرمت و حجم فایل اطمینان حاصل کنید"
+    },
+    "sizes": {
+      "Bytes": "بایت",
+      "KB": "کیلوبایت",
+      "MB": "مگابایت"
+    },
+    "dropzone": {
+      "title": "فایل‌ها را اینجا رها کنید",
+      "or": "یا",
+      "pick-button": "انتخاب فایل",
+      "drop-here": "برای آپلود رها کنید"
+    },
+    "qrcode": {
+      "title": "آپلود از موبایل",
+      "helper": "این کد QR را با موبایل خود اسکن کنید تا فایل‌ها را مستقیماً از گوشی آپلود کنید.",
+      "expires": "انقضا در",
+      "used": "شما به یک کد QR جدید نیاز دارید.",
+      "expired": "کد QR منقضی شده است.",
+      "generate new": "یک کد QR جدید ایجاد کنید"
+    },
+    "max-files": {
+      "reached": "{current} از {max} فایل اضافه شد",
+      "hint": "به حداکثر تعداد فایل رسیدید. برای افزودن فایل جدید، ابتدا یک فایل را حذف کنید."
+    }
+  },
+  "signupSuccess": {
+    "title": "اطلاعات شما با موفقیت ثبت شد",
+    "description": "به‌محض تأیید، لینک ورود به پنل پزشکان اُسیفای از طریق پیامک ارسال می‌شود.",
+    "acknowledgeButton": "متوجه شدم"
+  },
+  "clinicRegistration": {
+    "title": "ثبت نام",
+    "backButton": "بازگشت",
+    "clinicName": {
+      "label": "نام کلینیک",
+      "placeholder": "نام کلینیک را وارد کنید"
+    },
+    "ciamCode": {
+      "label": "کد سیام",
+      "placeholder": "کد سیام را وارد کنید"
+    },
+    "licenseDocument": {
+      "label": "پروانه تاسیس کلینیک"
+    },
+    "submitButton": "ادامه"
+  },
+  "AddPatientForm": {
+    "endedMedicines": "داروهای قطع شده",
+    "prescribedMedicines": "داروهای تجویزی پزشک",
+    "step0": {
+      "title": "شماره ملی بیمار",
+      "description": "لطفاً شماره ملی بیمار را وارد کنید",
+      "nationalNumber": {
+        "label": "کد ملی",
+        "placeholder": "مثال: 123456789"
+      },
+      "attending physician": {
+        "label": "پزشک معالج",
+        "placeholder": "انتخاب پزشک معالج"
+      }
+    },
+    "step1": {
+      "title": "اطلاعات شخصی",
+      "fullName": {
+        "label": "نام و نام خانوادگی",
+        "placeholder": "مثال: دنیا رضایی"
+      },
+      "gender": {
+        "label": "جنسیت ",
+        "placeholder": "مثال: مونث",
+        "male": "پسر",
+        "female": "دختر"
+      },
+      "birthDate": {
+        "label": "تاریخ تولد "
+      },
+      "registrationDate": {
+        "label": "تاریخ ثبت بیمار"
+      },
+      "insurance": {
+        "label": "بیمه",
+        "placeholder": "مثال: تامین اجتماعی",
+        "T_E": "تأمین اجتماعی",
+        "N_M": "نیروهای مسلح",
+        "KH_D": "خدمات درمانی",
+        "T": "بیمه تکمیلی",
+        "O": "عمر",
+        "": "هیچکدام"
+      },
+      "reason": {
+        "label": "دلیل",
+        "placeholder": "دلیل",
+        "visit": "ویزیت",
+        "lab": "آزمایش"
+      },
+      "phoneNumber": {
+        "label": "شماره تماس",
+        "placeholder": "مثال: 0912123456"
+      },
+      "fatherHeight": {
+        "label": "قد پدر",
+        "placeholder": "مثال: ۱۷۵ سانتی‌متر"
+      },
+      "motherHeight": {
+        "label": "قد مادر",
+        "placeholder": "مثال: ۱۶۵ سانتی‌متر"
+      },
+      "phoneNumber-appointment": {
+        "label": "شماره تلفن ثبت کننده"
+      },
+      "appointment-hour": {
+        "label": "ساعت نوبت دهی"
+      }
+    },
+    "step2": {
+      "title": "اطلاعات بدو تولد",
+      "birthHeight": {
+        "label": "قد",
+        "placeholder": "مثال: 30 سانتی متر"
+      },
+      "birthWeight": {
+        "label": "وزن هنگام تولد",
+        "placeholder": "مثال: 3.4 کیلوگرم"
+      },
+      "gestationalAge": {
+        "label": "سن بارداری",
+        "placeholder": "مثال: 38 هفته"
+      },
+      "headCircumference": {
+        "label": "دور سر",
+        "placeholder": "مثال: 30 سانتی متر"
+      },
+      "wristCircumference": {
+        "label": "دور مچ",
+        "placeholder": "مثال: 5 سانتی متر"
+      },
+      "armCircumference": {
+        "label": "دور بازو",
+        "placeholder": "مثال: 6 سانتی متر"
+      }
+    },
+    "step3": {
+      "title": "اطلاعات پزشکی",
+      "complaints": {
+        "label": "شکایت بیمار",
+        "placeholder": "مثال: اختلال رشد"
+      },
+      "diseases": {
+        "label": "سوابق بیماری خاص",
+        "placeholder": "مثال: چربی خون بالا"
+      },
+      "surgeries": {
+        "label": "سوابق جراحی",
+        "placeholder": "مثال: عمل قلب باز"
+      },
+      "allergies": {
+        "label": "آلرژی",
+        "placeholder": "مثال: پنی سیلین"
+      },
+      "validation": {
+        "minLength": "حداقل {min} کاراکتر الزامی است"
+      },
+      "TagInput": {
+        "defaultPlaceholder": "تایپ کنید و Enter را فشار دهید...",
+        "errors": {
+          "empty": "مقدار نمی‌تواند خالی باشد",
+          "duplicate": "این مورد قبلاً وجود دارد"
+        },
+        "removeAriaLabel": "حذف {item}"
+      }
+    },
+    "step4": {
+      "title": "سوابق دارویی",
+      "endedMedicines": {
+        "subtitle": "سوابق دارویی پیشین",
+        "medicineName": {
+          "label": "نام دارو",
+          "placeholder": "مثال: ایبوپروفن"
+        },
+        "endDate": {
+          "label": "تاریخ قطع دارو"
+        },
+        "addButton": "+ اضافه کردن دارو",
+        "deleteAriaLabel": "حذف دارو"
+      },
+      "currentMedicines": {
+        "subtitle": "داروهای فعلی",
+        "medicineName": {
+          "label": "نام دارو",
+          "placeholder": "مثال: ویتامین D"
+        },
+        "dose": {
+          "label": "دوز مصرف",
+          "placeholder": "مثال: 400"
+        },
+        "addButton": "+ اضافه کردن دارو",
+        "deleteAriaLabel": "حذف دارو"
+      }
+    }
+  },
+  "Images": {
+    "Logo": {
+      "full": "یک لوگوی ساده با یک مثلث سفید در مرکز روی پس‌زمینه سیاه که معمولاً با Vercel مرتبط است، پلتفرمی برای استقرار برنامه‌های Next.js."
+    },
+    "PWA-screenshots": {
+      "home": "یک صفحه پیش‌فرض Next.js با پس‌زمینه سیاه، متن سفید و لوگوی Next.js. نشان می‌دهد ویرایش src/app/page.tsx برای شروع لازم است، همراه با دکمه‌هایی برای \"اکنون استقرار\" و \"مستندات ما را بخوانید\" در زیر.",
+      "myPage": "یک صفحه وب مینیمالیستی با پس‌زمینه سیاه و متن سفید که می‌گوید \"این صفحه من است\" و لینکی به \"بازگشت به صفحه اصلی\".",
+      "dashboard": "داشبورد با همه محصولات به صورت مرتب",
+      "boneAgeReport": "گزارش سن استخوان",
+      "heightCalcReport": "جزئیات برای تحلیل محاسبه قد",
+      "history": "تاریخچه بیمار"
+    }
+  },
+  "FileUploader": {
+    "label": "آپلود عکس",
+    "label-more": "آپلود عکس‌های بیشتر"
+  },
+  "BoneAge": {
+    "bone-age-title": "سن استخوان",
+    "bone-age-popover": "نتیجه سن استخوانی ممکن است تا <bold>{months} ماه</bold> از سن استخوانی واقعی متفاوت باشد. این تفاوت به دلیل تنوع در رشد استخوانی افراد است.",
+    "diagnosis": "تشخیص",
+    "Delayed": "به‌تاخیر افتاده",
+    "Advanced": "پیشرفته",
+    "Normal": "طبیعی",
+    "radiology-image": "عکس رادیولوژی",
+    "ai-analysis": "آنالیز هوش مصنوعی",
+    "ai-results": "نتایج هوش مصنوعی",
+    "ai-results-graph": "نمودار وضعیت سن استخوان",
+    "choose-best-one": "بهترین گزینه را انتخاب کنید:",
+    "chronological-age-label": "سن تقویمی",
+    "bone-age-label": "سن استخوان",
+    "aphv-label": "APHV",
+    "ahp-parental-label": "قد نهایی والدینی",
+    "mph-label": "میانگین قد والدین",
+    "not-available": "در حال حاضر در دسترس نیست",
+    "action-cancel": "بازگشت به کلینیک",
+    "action-pay": "پرداخت",
+    "action-pay-direct": "درگاه بانکی",
+    "action-pay-wallet": "کیف پول",
+    "action-next": "گام بعدی",
+    "firstName-label": "نام",
+    "lastName-label": "نام خانوادگی",
+    "gender-label": "جنسیت",
+    "birthday-label": "تاریخ تولد",
+    "invoice-title-1": "بیمار",
+    "invoice-title-2": "ارزیابی سن استخوان با هوش مصنوعی",
+    "gallery": "گالری",
+    "camera": "دوربین",
+    "camera-tab-warning": "اگر از نگاتوسکوپ عکس می‌گیرید، مطمئن شوید که از تب دوربین استفاده کنید. در غیر این صورت، هوش مصنوعی به درستی کار نخواهد کرد.",
+    "camera-negatoscope-warning": "هوش مصنوعی فقط زمانی به طور دقیق پیش‌بینی می‌کند که فقط از نگاتوسکوپ اختصاصی اُسیفای استفاده شود.",
+    "link": "لینک",
+    "link-placeholder": "ارسال‌شده توسط رادیولوژی",
+    "nationalNumber-label": "شماره ملی بیمار",
+    "nationalNumber": "شماره ملی",
+    "image-required": "یا باید یک تصویر یا یک لینک ارائه شود، اما نه هردو.",
+    "action-send-payment-link": "ارسال لینک پرداخت از طریق SMS",
+    "action-send-payment-link-final": "ارسال",
+    "send-payment-link-title": "ارسال لینک پرداخت از طریق SMS",
+    "send-payment-link-description": "شما هیچ هزینه‌ای پرداخت نخواهید کرد",
+    "schema": {
+      "url-invalid": "فرمت لینک قابل قبول نیست",
+      "firstName-max": "نام باید کمتر از {max} کاراکتر باشد",
+      "lastName-max": "نام خانوادگی باید کمتر از {max} کاراکتر باشد",
+      "nationalNumber-invalid": "فرمت شماره ملی قابل قبول نیست",
+      "gender-invalid": "این جنسیت قابل قبول نیست",
+      "birthday-invalidType": "فرمت تاریخ تولد قابل قبول نیست"
+    },
+    "feedback-trigger": "بازخورد",
+    "feedback-title": "آیا نتیجه هوش مصنوعی بیش از یک سال تفاوت دارد؟",
+    "feedback-description": "بازخورد شما در این گزارش استفاده خواهد شد. هر گزارش تنها یک بار قابل ویرایش است. هر پزشک می‌تواند گزارش‌های خود را ویرایش کند.",
+    "export-trigger": "ذخیره",
+    "export-title": "نگه‌داشتن گزارش",
+    "export-description": "شما می‌توانید نسخه PDF گزارش را در هر زمان دانلود کنید. همچنین می‌توانید لینک PDF گزارش را از طریق پیامک ارسال کنید.",
+    "export-sms": "ارسال از طریق پیامک",
+    "export-sms-action-send": "ارسال",
+    "export-sms-action-cancel": "لغو",
+    "export-sms-sent-before": "لینک گزارش به <span>{phoneNumber}</span> ارسال شد.",
+    "feedback-sent-before": "دکتر {doctor} نتیجه سن استخوان را از {aiYear} سال و {aiMonth} ماه به {doctorYear} سال و {doctorMonth} ماه تغییر داد.",
+    "doctor-can-edit": "پزشک می‌تواند این فیلدها را بعداً ویرایش کند.",
+    "gender-change-limit-save": "ذخیره",
+    "gender-change-limit-cancel": "لغو",
+    "gender-birthDate-change-limit-title-value": "{value, select, gender {فیلد جنسیت} birthDate {فیلد تاریخ تولد} both {فیلدهای جنسیت و تاریخ تولد} other {این فیلد}}",
+    "gender-birthDate-change-limit-description-value": "شما در حال ویرایش {value, select, gender {فیلد جنسیت} birthDate {فیلد تاریخ تولد} both {فیلدهای جنسیت و تاریخ تولد} other {این فیلد}} هستید. این عمل باعث می‌شود که هوش مصنوعی تمام گزارش‌ها را دوباره محاسبه کند. شما می‌توانید {value, select, both {این فیلدها} other {این فیلد}} را یک‌بار تغییر دهید.",
+    "camera-capture": "عکس گرفتن",
+    "camera-switch": "تعویض دوربین",
+    "hormone-trigger": "هورمون",
+    "hormone-title": "درمان هورمونی",
+    "hormone-description": "شما می‌توانید درمان هورمونی را در اینجا پیگیری کنید. شما فقط می‌توانید گزارش‌های خود را ویرایش کنید.",
+    "I": "تانر I",
+    "I_II": "تانر I و II",
+    "II": "تانر II",
+    "II_III": "تانر II و III",
+    "III": "تانر III",
+    "III_IV": "تانر III و IV",
+    "IV": "تانر IV",
+    "IV_V": "تانر IV و V",
+    "V": "تانر V",
+    "GH": "GH",
+    "GnRHa": "GnRHa",
+    "GH_GnRHa": "GH و GnRHa",
+    "NONE": "هیچ‌کدام",
+    "": "هیچ‌کدام",
+    "tanner-trigger": "مرحله تانر",
+    "tanner-title": "مرحله تانر",
+    "tanner-description": "مرحله تانر بیمار را برای این گزارش مشخص کنید.",
+    "change": "تغییر",
+    "menarche": "منارک",
+    "pre-menarche": "پیشامنارک",
+    "Child": "گزینه 1",
+    "Adult": "گزینه 2",
+    "choice-trigger": "سن استخوان را انتخاب کنید",
+    "choice-title": "کدام پاسخ را ترجیح می‌دهید؟",
+    "choice-description": "شما می‌توانید بعداً هر مقداری که می‌خواهید را با استفاده از فرم \"بازخورد\" تغییر دهید.",
+    "date-of-visit": "تاریخ مراجعه",
+    "complaints-title": "شکایات اصلی بیمار",
+    "complaints-placeholder": "مثال: قد کوتاه، خستگی...",
+    "add-complaint": "افزودن شکایت",
+    "diseases-title": "سوابق پزشکی (بیماری‌ها)",
+    "diseases-placeholder": "مثال: آسم، مشکلات تیروئید...",
+    "add-disease": "افزودن بیماری",
+    "surgeries-title": "سوابق جراحی",
+    "surgeries-placeholder": "مثال: عمل لوزه...",
+    "add-surgery": "افزودن جراحی",
+    "allergies-title": "حساسیت‌ها",
+    "allergies-placeholder": "مثال: پنی‌سیلین، گرده گل...",
+    "add-allergy": "افزودن حساسیت",
+    "current-medicines-title": "داروهای مصرفی فعلی",
+    "medicine-name": "نام دارو",
+    "medicine-name-placeholder": "مثال: لووتیروکسین",
+    "dose": "دوز مصرفی",
+    "dose-placeholder": "مثال: ۵۰ میکروگرم روزانه",
+    "add-current-medicine": "افزودن داروی فعلی",
+    "ended-medicines-title": "داروهای مصرفی گذشته",
+    "end-date": "تاریخ پایان مصرف",
+    "add-ended-medicine": "افزودن داروی گذشته",
+    "personal-information": "اطلاعات شخصی",
+    "medical-history": "شرح حال بیمار",
+    "address-label": "آدرس"
+  },
+  "HeightCalculator": {
+    "birthday": "تاریخ تولد",
+    "bone-age": "سن استخوان",
+    "bone-age-year": "سال",
+    "bone-age-month": "ماه",
+    "height": "قد",
+    "height-unit": "سانتی‌متر",
+    "fHeight": "قد پدر",
+    "mHeight": "قد مادر",
+    "menarcheHeight": "قد هنگام قاعدگی",
+    "Bone Age SDS": "SDS سن استخوان",
+    "Bone Age SDS-info": "نمره انحراف معیار سن استخوان نسبت به کودکانی با همان سن، جنسیت و نژاد",
+    "APHV": "APHV",
+    "APHV-info": "سن پیش‌بینی‌شده اوج رشد",
+    "AHP (x-ray)": "AHP X-Ray",
+    "AHP (x-ray)-info": "پیش‌بینی قد نهایی با استفاده از رادیولوژی",
+    "AHP (parental)": "AHP Parental",
+    "AHP (parental)-info": "پیش‌بینی قد نهایی با استفاده صرف از قد والدین",
+    "AHP (x+p)": "AHP (Parental + X-Ray)",
+    "AHP (x+p)-info": "پیش‌بینی قد نهایی با استفاده از رادیولوژی و قد والدین",
+    "AHP (x+m)": "AHP (رادیولوژی + قد قاعدگی)",
+    "AHP (x+m)-info": "پیش‌بینی قد نهایی با استفاده از رادیولوژی و قد آغاز قاعدگی",
+    "Bone Health Index": "شاخص سلامت استخوان",
+    "BHI SDS": "SDS شاخص سلامت استخوان",
+    "BHI SDS-info": "نمره انحراف معیار BHI نسبت به کودکانی با همان سن استخوان (یا سن)، جنسیت و نژاد",
+    "Meta Carpal Index": "شاخص متاکارپال",
+    "MCI SDS": "SDS شاخص متاکارپال",
+    "MCI SDS-info": "نمره انحراف معیار MCI نسبت به کودکانی با همان سن استخوان (یا سن)، جنسیت و نژاد",
+    "age": "سن",
+    "age-tooltip": "محاسبه شده نسبت به زمان ایجاد گزارش سن استخوان",
+    "ethnicity-caption": "بر اساس داده‌های نژاد قفقازی",
+    "gender": "جنسیت",
+    "action-cancel": "بازگشت به کلینیک",
+    "action-submit": "محاسبه",
+    "PMH": "MPH",
+    "PMH-info": "قد میانگین والدین",
+    "schema": {
+      "bone-age-year-min": "سال سن استخوان نمی‌تواند کمتر از {min} باشد",
+      "bone-age-year-max": "سال سن استخوان نمی‌تواند بیشتر از {max} باشد",
+      "bone-age-month-min": "ماه سن استخوان نمی‌تواند کمتر از {min} باشد",
+      "bone-age-month-max": "ماه سن استخوان نمی‌تواند بیشتر از {max} باشد",
+      "height-min": "قد نمی‌تواند کمتر از {min} cm باشد",
+      "height-max": "قد نمی‌تواند بیشتر از {max} cm باشد",
+      "bhi-min": "شاخص سلامت استخوان نمی‌تواند کمتر از {min} باشد",
+      "bhi-max": "شاخص سلامت استخوان نمی‌تواند بیشتر از {max} باشد",
+      "mci-min": "شاخص متاکارپال نمی‌تواند کمتر از {min} باشد",
+      "mci-max": "شاخص متاکارپال نمی‌تواند بیشتر از {max} باشد"
+    },
+    "growth-graphs": "نمودارهای رشد",
+    "edit-last-record": "آخرین رکورد این بیمار را ویرایش کنید",
+    "head-circumference": "اندازه دور سر",
+    "arm-circumference": "اندازه دور بازو",
+    "subscapular-skinfold": "چین پوستی زیر کتف",
+    "triceps-skinfold": "چین پوستی سه سر بازو",
+    "medical-examination": "آزمایش پزشکی"
+  },
+  "General": {
+    "error": "سرویس در حال حاضر در دسترس نیست. لطفاً بعداً دوباره تلاش کنید.",
+    "loading": "در حال بارگذاری...",
+    "scan doctor qr code": "لطفاً کد QR دکتر را اسکن کنید.",
+    "report sent to doctor": "گزارش شما برای دکتر ارسال شد. اکنون می‌توانید برنامه را ببندید.",
+    "show-notification-details": "نمایش",
+    "toggle menu": "تغییر منو",
+    "schema": {
+      "file-max-size": "حداکثر اندازه تصویر {size} مگابایت است",
+      "file-supported-formats": "فقط فرمت‌های {formats} پشتیبانی می‌شوند",
+      "length-value": "شما فقط می‌توانید {value} تصویر بارگذاری کنید",
+      "field-required": "این فیلد الزامی است",
+      "number-only": "فقط اعداد مجاز هستند",
+      "max-value": "حداکثر مقدار {value} است",
+      "min-value": "حداقل مقدار {value} است",
+      "not acceptable value": "این مقدار قابل قبول نیست"
+    },
+    "Male": "پسر",
+    "Female": "دختر",
+    "value-cm-trend-days": "{value} سانتی‌متر {trend, select, increase {افزایش} decrease {کاهش} other {تغییر}} نسبت به {days} روز قبل",
+    "value-kg-trend-days": "{value} کیلوگرم {trend, select, increase {افزایش} decrease {کاهش} other {تغییر}} نسبت به {days} روز قبل",
+    "value-sd-trend-days": "{value} sd {trend, select, increase {افزایش} decrease {کاهش} other {تغییر}} نسبت به {days} روز قبل",
+    "value-month-trend-days": "{value} ماه {trend, select, increase {افزایش} decrease {کاهش} other {تغییر}} نسبت به {days} روز قبل",
+    "value-bmi-trend-days": "{value} kg/m² {trend, select, increase {افزایش} decrease {کاهش} other {تغییر}} نسبت به {days} روز قبل",
+    "value-cm": "{value} سانتی متر",
+    "not available": "ندارد",
+    "value-kg": "{value} کیلوگرم",
+    "value-bmi": "{value} kg/m²",
+    "value-sd": "{value} sd",
+    "value-year": "{year, plural, =0 {{year} سال} =1 {{year} سال} other {{year} سال}}",
+    "value-month": "{month} ماه",
+    "value-age": "{years} سال {months, plural, =0 {} other {و {months} ماه}}",
+    "steps-total": "گام {current} از {total}",
+    "value-step": "گام {step}",
+    "value-Tooman": "{amount} تومان",
+    "ProductTags": {
+      "BoneAge": "سن استخوان",
+      "Mammography": "ماموگرافی"
+    },
+    "status": {
+      "FAILED": "ناموفق",
+      "PENDING": "در انتظار",
+      "SUCCESS": "موفق"
+    },
+    "table": {
+      "sort-asc": "صعودی",
+      "sort-desc": "نزولی",
+      "filter-selected-number": "{number} انتخاب شد",
+      "filter-clear": "پاک کردن فیلترها",
+      "empty": "برای شروع، اولین بیمار را ثبت کنید",
+      "empty-visit-title": "هنوز ویزیتی ثبت نشده است",
+      "empty-visit": "برای شروع، اولین ویزیت بیمار را ثبت کنید.",
+      "empty-employees-title": "هنوز کارمندی ثبت نشده است",
+      "empty-employees": "برای شروع، اولین کارمند را اضافه کنید.",
+      "pagination-check": "صفحه {current} از {total}",
+      "pagination-prev": "رفتن به صفحه قبل",
+      "pagination-next": "رفتن به صفحه بعد",
+      "filter-reset": "بازنشانی فیلترها",
+      "refresh": "به‌روزرسانی لیست",
+      "filter-from-value": "از {value}",
+      "filter-to-value": "تا {value}",
+      "filter-from": "از ",
+      "filter-to": "تا ",
+      "dashboard-header": "لیست بیماران اخیر",
+      "patients-header": "لیست بیماران",
+      "link": "مشاهده همه"
+    },
+    "permission-denied": "شما دسترسی به این سرویس ندارید.",
+    "doctor-only": "فقط پزشکان به این سرویس دسترسی دارند.",
+    "login-again": "برای دسترسی به برنامه وارد شوید.",
+    "close": "بستن",
+    "logout-title": "آیا مطمئن هستید؟",
+    "logout-description": "برای دسترسی به حساب خود باید دوباره وارد شوید.",
+    "notification-device-no-support": "دستگاه/مرورگر شما از اعلان پشتیبانی نمی‌کند.",
+    "notification-token-fetch-failed": "VPN خود را روشن/خاموش کنید و صفحه را دوباره بارگذاری کنید.",
+    "continue": "ادامه",
+    "notification-title": "اعلان‌ها",
+    "notification-tooltip": "فعال‌سازی اعلان‌ها",
+    "notification-description": "فعال کردن اعلان‌ها در دستگاه شما مهم است. لطفاً به اُسیفای دسترسی به اعلان‌ها بدهید. شما می‌توانید بعداً صدا را بی‌صدا یا فعال کنید.",
+    "notification-blocked": "برای راهنمایی در مورد نحوه فعال‌سازی اعلان‌ها با پشتیبانی تماس بگیرید.",
+    "portrait-only": "لطفاً دستگاه را بچرخانید.",
+    "version-message": "نسخه جدید در دسترس است!",
+    "version-action": "به‌روزرسانی",
+    "not-found-message": "منبع درخواستی یافت نشد",
+    "not-found-action": "بازگشت",
+    "error-message": "یک خطا رخ داده است. یک اسکرین شات بگیرید و با پشتیبانی تماس بگیرید.",
+    "camera-title": "دوربین",
+    "camera-description": "فعال‌سازی دوربین در دستگاه شما مهم است. لطفاً به اُسیفای اجازه دسترسی به دوربین را بدهید.",
+    "camera-blocked": "برای راهنمایی در مورد فعال‌سازی دوربین، با پشتیبانی تماس بگیرید.",
+    "camera-photos-number": "{number, plural, =0 {عکس بگیرید} =1 {۱ عکس} other {# عکس}}",
+    "born-in-year": "متولد سال {year}",
+    "choose-action": "انتخاب کنید",
+    "unavailable": "اُسیفای در حال حاضر در دست تغییرات است. به زودی با تجربه‌ای جدید و بهتر باز خواهیم گشت!",
+    "upgrade your browser": "مرورگر {browser} شما قدیمی است. لطفاً به نسخه {version} یا بالاتر به‌روزرسانی کنید تا بهترین تجربه را داشته باشید.",
+    "you": "شما",
+    "me": "من"
+  },
+  "Login": {
+    "title": "ورود",
+    "phoneNumber-title": "شماره تماس",
+    "phoneNumber-action": "ارسال شماره تماس",
+    "phoneNumber-placeholder": "شماره تماس را وارد کنید",
+    "code-action": "ارسال کد",
+    "code-resend": "ارسال مجدد کد",
+    "wait-to-resend-time": "{time} دقیقه مانده تا ارسال مجدد کد",
+    "phoneNumber-change": "تغییر شماره تماس",
+    "title-otp": "تایید شماره",
+    "description-otp": "کد تایید به شماره <span>{phoneNumber}</span> ارسال شد",
+    "otp-expired": "کد منقضی شده است.",
+    "footer": "با ورود، شما با <terms>شرایط استفاده</terms> و <privacy>سیاست حفظ حریم خصوصی</privacy> ما موافقت می‌کنید.",
+    "schema": {
+      "phoneNumber-invalid": "این شماره تماس معتبر نیست",
+      "code-invalid": "این کد معتبر نیست"
+    },
+    "title-signup": "ثبت‌نام",
+    "signup-rule-1": "1. شماره پزشکی خود را به طور کامل وارد کنید.",
+    "signup-rule-2": "2. یک عکس با کیفیت بالا از کارت شناسایی ملی یا کارت نظام پزشکی خود ارسال کنید.",
+    "national-card-title": "کارت شناسایی ملی یا کارت نظام پزشکی",
+    "medical-number-title": "شماره نظام پزشکی",
+    "title-signup-pending": "در حال بررسی درخواست",
+    "description-signup-pending": "در حال بررسی درخواست شما هستیم. پس از اتمام بررسی، یک پیامک به شماره <span>{number}</span> ارسال خواهیم کرد.",
+    "signup-action": "ارسال",
+    "agree": "من <terms>شرایط استفاده</terms> و <privacy>سیاست حفظ حریم خصوصی</privacy> اُسیفای را خوانده و پذیرفته‌ام.",
+    "register-trigger": "ثبت‌نام به عنوان پزشک",
+    "register-title": "ثبت‌نام پزشک",
+    "register-description": "به بخش‌های بیشتری دسترسی خواهید داشت.",
+    "Terms of Service": "شرایط خدمات",
+    "Privacy Policy": "حریم خصوصی",
+    "no account": "حساب کاربری ندارید؟ <register>ثبت‌نام</register>",
+    "welcome": "خوش آمدید",
+    "description": "جهت ورود یا ثبت نام شماره تماس خود را وارد کنید.",
+    "tab-patient": "بیمار",
+    "tab-employee": "کادر درمان",
+    "title-patient": "خوش آمدید",
+    "description-patient": "جهت ورود یا ثبت نام شماره تماس خود را وارد کنید.",
+    "title-employee": "ورود کادر درمان",
+    "description-employee": "برای دسترسی به محیط کاری، شماره تماس خود را وارد کنید.",
+    "acceptance": "ورود شما به معنای پذیرش <terms>شرایط اُسیفای</terms> و <privacy>قوانین حریم خصوصی</privacy> است.",
+    "login-action": "ورود",
+    "complete signup": "تکمیل ثبت نام",
+    "complete medical profile": "تکمیل پروفایل پزشکی",
+    "username": "نام کاربری",
+    "username-placeholder": "نام کاربری خود را وارد کنید",
+    "password": "رمز عبور",
+    "password-placeholder": "رمز عبور خود را وارد کنید",
+    "description-admin": "نام کاربری و رمز عبور خود را وارد کنید."
+  },
+  "ProductCard": {
+    "new": "جدید",
+    "updated": "به‌روزرسانی شد",
+    "soon": "به زودی",
+    "growth-tracker": {
+      "description": "الگوهای رشد را به‌دقت محاسبه و ثبت کرده و برنامه‌های درمانی معقولی استخراج کنید."
+    },
+    "height-calculator": {
+      "description": "قد احتمالی بیماران را با دقت محاسبه کنید."
+    },
+    "bmi-calculator": {
+      "description": "یک روش غربالگری سریع، کم‌هزینه و قابل اعتماد برای شناسایی کم‌وزنی، اضافه‌وزن یا چاقی"
+    }
+  },
+  "Wallet": {
+    "wallet-btn-currency": "تومان",
+    "wallet-btn-tooltip": "روی کیف پول کلیک کنید تا اعتبار را افزایش دهید",
+    "amount-enter": "مبلغ را انتخاب یا وارد کنید",
+    "option": "{amount} میلیون تومان",
+    "transfer": "انتقال",
+    "amount-final": "مبلغ نهایی به کیف پول شما ارسال شد",
+    "invoice": "صورتحساب",
+    "schema": {
+      "amount-min": "مبلغ نمی‌تواند کمتر از {min} تومان باشد",
+      "amount-max": "مبلغ نمی‌تواند بیشتر از {max} تومان باشد"
+    },
+    "table-action": "مشاهده بیشتر"
+  },
+  "PageTitles": {
+    "service report": "گزارش خدمات",
+    "services": "خدمات",
+    "profile": "پروفایل",
+    "logout": "خروج",
+    "result": "نتیجه",
+    "wallet": "کیف پول",
+    "reports": "گزارش‌ها",
+    "patients": "بیماران",
+    "clinic": "کلینیک",
+    "growth-tracker": "ویزیت جدید",
+    "height-calculator": "ماشین حساب قد",
+    "Mammography": "ماموگرافی",
+    "financial report": "گزارش مالی",
+    "patient report": "گزارش بیماران",
+    "profile-personal": "اطلاعات شخصی",
+    "pricingPlans": "اشتراک",
+    "support": "پشتیبانی",
+    "bmi-calculator": "محاسبه‌گر BMI",
+    "tutorials": "ویدیوهای آموزشی",
+    "patient-info": "اطلاعات بیمار",
+    "employees": "کارمندان",
+    "more": "بیشتر",
+    "personal info": "اطلاعات شخصی",
+    "visit": "ویزیت",
+    "visits": "ویزیت‌ها",
+    "charts": "نمودارهای مرجع",
+    "labs": "آزمایشات",
+    "growth-trend": "روند رشد",
+    "doctor-diagnosis": "تشخیص پزشک",
+    "growth-charts": "نمودارهای رشد"
+  },
+  "ServiceReport": {
+    "action-view": "مشاهده گزارش",
+    "action-continue": "ادامه دادن",
+    "filter-national number": "شماره ملی",
+    "column-title-service": "خدمت",
+    "column-title-status": "نتیجه",
+    "column-title-national number": "شماره ملی",
+    "column-title-date": "تاریخ و زمان",
+    "bar-graph-tooltip-warning": "در حال انتظار",
+    "bar-graph-tooltip-error": "ناموفق",
+    "bar-graph-tooltip-success": "موفق",
+    "bar-graph-tooltip": "تعداد",
+    "action-delete": "حذف",
+    "action-delete-title": "حذف مورد",
+    "action-delete-description": "با حذف این گزارش سرویس، داده‌های گزارش مالی مربوطه نیز حذف خواهند شد. این عمل غیرقابل برگشت است.",
+    "action-delete-label": "من عواقب این عمل را درک می‌کنم.",
+    "action-delete-cancel": "لغو"
+  },
+  "Patients": {
+    "patient search-placeholder": "انتخاب بیمار...",
+    "patient search-empty": "بیماری یافت نشد.",
+    "select patient first": "یک بیمار را انتخاب کنید تا گزارش‌ها را ببینید.",
+    "show chart": "نمایش نمودار",
+    "add new patient": "ثبت بیمار جدید",
+    "register-patient": "ثبت بیمار",
+    "cancel": "لغو",
+    "back": "بازگشت",
+    "continue": "ادامه",
+    "edit-information": "ویرایش اطلاعات",
+    "patient-register-date": "تاریخ ثبت بیمار",
+    "birth-information": "اطلاعات بدو تولد",
+    "head-circumference": "دور سر",
+    "wrist-circumference": "دور مچ",
+    "arm-circumference": "دور بازو",
+    "patient-complaints": "شکایات بیمار",
+    "medication-history": "سوابق دارویی پیشین",
+    "add-medication": "اضافه کردن دارو",
+    "medication-name": "نام دارو",
+    "medication-discontinuation-date": "تاریخ قطع دارو",
+    "current-medications": "داروهای در حال مصرف",
+    "medication-dosage": "دوز مصرفی",
+    "discontinued-medications": "داروهای قطع شده",
+    "prescribed-medications": "داروهای تجویزی پزشک",
+    "voice-edit": "ویرایش صوتی",
+    "rerecord": "ضبط مجدد",
+    "click-to-edit-or-rerecord": "برای ویرایش صوتی یا ضبط مجدد کلیک کنید"
+  },
+  "PatientDetails": {
+    "label-national number": "شماره ملی",
+    "label-name": "نام",
+    "label-phone number": "شماره تلفن",
+    "label-gender": "جنسیت",
+    "label-birthday": "تاریخ تولد",
+    "label-patient image": "تصویر بیمار",
+    "title-1": "بیمار",
+    "title-2": "گزارش‌ها",
+    "edit": "ویرایش",
+    "cancel": "انصراف",
+    "save": "ذخیره اطلاعات",
+    "ai-loading": "هوش مصنوعی در حال تولید گزارش است. به محض آماده شدن، به شما اطلاع داده خواهد شد.",
+    "report-download": "دانلود گزارش",
+    "first visit - date": "<span>اولین مراجعه:</span> {date}",
+    "parental info": "اطلاعات والدین",
+    "upper_edge": "حد بالایی",
+    "lower_edge": "حد پایینی",
+    "upper_out_of_range": "بالاتر از محدوده مرجع",
+    "lower_out_of_range": "پایین‌تر از محدوده مرجع",
+    "ok": "ok"
+  },
+  "PatientsToolbar": {
+    "sortBy": "مرتب سازی بر اساس",
+    "searchPlaceholder": "جست و جوی بیماران امروز",
+    "searchPlaceholder-all": "جست و جوی بیماران",
+    "sort": {
+      "newest": "جدیدترین",
+      "oldest": "قدیمی ترین",
+      "youngest": "کمترین سن",
+      "oldestAge": "بیشترین سن"
+    }
+  },
+  "Visits": {
+    "add-new-visit": "ثبت ویزیت جدید",
+    "register-visit": "ثبت ویزیت",
+    "visit-date": "تاریخ ویزیت",
+    "lab-date": "تاریخ آزمایش",
+    "patient-height": "قد بیمار",
+    "patient-weight": "وزن بیمار",
+    "patient-height-placeholder": "مثال: 150 سانتی‌متر",
+    "patient-weight-placeholder": "مثال: 50 کیلوگرم",
+    "hand-radiology-image": " عکس رادیولوژی دست",
+    "lab-results-image": "عکس آزمایش",
+    "both-height-weight-required": "قد و وزن باید همزمان وارد شوند (یا هر دو خالی باشند یا هر دو مقدار داشته باشند)",
+    "both-ocrs-date-required": "نتایج آزمایشگاهی و تاریخ آن باید همزمان وارد شوند (یا هر دو خالی باشند یا هر دو مقدار داشته باشند)",
+    "at-least-one-required": "ویزیت نمی‌تواند خالی باشد.",
+    "Child Data": "اطلاعات کودک",
+    "arm_circumference": "دور بازو",
+    "head_circumference": "دور سر",
+    "triceps_skinfold": "چین پوستی سه سر",
+    "triceps_skinfold_placeholder": "مثال: 1.75 سانتی‌متر",
+    "subscapular_skinfold": "چین پوستی زیرکتفی",
+    "subscapular_skinfold_placeholder": "مثال: 1.26 سانتی‌متر",
+    "view": "مشاهده",
+    "edit": "ویرایش",
+    "delete": "حذف",
+    "close": "بستن",
+    "delete-description": "مطمئن هستید؟ این پذیرش حذف خواهد شد. اطلاعات بیمار و نوبت مرتبط تحت تأثیر قرار نخواهد گرفت.",
+    "paid": "پرداخت شده",
+    "cannot-delete-paid": "پذیرش‌های پرداخت‌شده قابل حذف نیستند",
+    "status": "وضعیت",
+    "save": "ذخیره",
+    "finish examination": "پایان معاینه",
+    "start examination": "شروع معاینه",
+    "new reception": "ثبت پذیرش جدید",
+    "complete file": "تکمیل پرونده",
+    "review visit": "بررسی ویزیت",
+    "attachments": "پیوست ها",
+    "attachments-placeholder": "اینجا تایپ کنید...",
+    "tab-growth": "رشد",
+    "tab-lab": "آزمایش",
+    "tab-attachment": "پیوست"
+  },
+  "Profile": {
+    "firstName": "نام",
+    "lastName": "نام خانوادگی",
+    "medicalNumber": "شماره نظام پزشکی",
+    "description": "لطفاً قبل از استفاده از اُسیفای اطلاعات خود را تکمیل کنید.",
+    "profilePicture": "تصویر پروفایل",
+    "qr code-download": "دانلود کد QR",
+    "title-personal-info": "اطلاعات شخصی",
+    "title-action-save": "به‌روزرسانی",
+    "title-action-cancel": "لغو",
+    "title-authentication": "احراز هویت",
+    "title-doctor-number": "شماره تلفن",
+    "title-doctor-number-change": "شماره تلفن جدید",
+    "description-doctor-number-change": "شماره تلفن جدید خود را وارد کنید.",
+    "title-doctor-number-action": "به‌روزرسانی شماره تلفن",
+    "placeholder-doctor-number-change": "شماره جدید",
+    "title-trusted-number": "شماره‌های تلفن منشی‌ها",
+    "title-trusted-number-new": "کارمند جدید",
+    "description-trusted-number-new": "این شماره به سازمان شما در اُسیفای دسترسی خواهد داشت.",
+    "title-trusted-number-new-action": "افزودن کارمند",
+    "title-trusted-number-remove": "حذف کارمند",
+    "description-trusted-number-remove": "<span>{number}</span> دیگر به سازمان شما در اُسیفای دسترسی نخواهد داشت.",
+    "title-trusted-number-remove-action": "حذف کارمند",
+    "specialty": "تخصص",
+    "plan-1": "طرح نقره‌ای",
+    "plan-2": "طرح طلایی",
+    "price-description": "هر گزارش هزینه <span>{price}</span> تومان دارد",
+    "rate-description": "از هر گزارش شما <span>{rate}%</span> درآمد خواهید داشت",
+    "settings": "تنظیمات",
+    "signup": "برای ثبت‌نام به عنوان پزشک، <link>اینجا</link> را کلیک کنید."
+  },
+  "EditableImage": {
+    "brightness": "روشنایی",
+    "contrast": "کنتراست",
+    "reset": "بازنشانی",
+    "previous": "قبلی",
+    "next": "بعدی",
+    "title": "تغییر نما",
+    "description": "تنظیمات ذخیره نخواهند شد."
+  },
+  "FinancialReport": {
+    "action": {
+      "DEPOSIT": "واریز",
+      "DIRECT_PAY_PATIENT": "پرداخت بیمار",
+      "DIRECT_PAY_USER": "پرداخت بانکی",
+      "REWARD": "پاداش",
+      "SPEND": "پرداخت از کیف پول"
+    },
+    "action-btn": "دانلود",
+    "title-date-and-time": "تاریخ و زمان",
+    "title-amount": "مبلغ (تومان)",
+    "title-action": "تراکنش",
+    "title-status": "نتیجه",
+    "title-service": "سرویس",
+    "title-ref-id": "شناسه مرجع بانکی",
+    "title-national-number": "شماره ملی",
+    "tooltip-success": "موفق",
+    "tooltip-error": "ناموفق",
+    "tooltip-warning": "در حال انتظار"
+  },
+  "PatientReport": {
+    "action-btn": "بیشتر",
+    "title-birthDate": "تاریخ تولد",
+    "title-gender": "جنسیت",
+    "title-national-number": "شماره ملی",
+    "placeholder-national-number": "نام, نام خانوادگی, شماره ملی",
+    "filter-birthDate-start": "تاریخ تولد از",
+    "filter-birthDate-end": "تاریخ تولد تا",
+    "title-last-visit": "تاریخ آخرین ویزیت",
+    "title-visit-date": "تاریخ ویزیت: {date}",
+    "title-fullName": "نام بیمار",
+    "title-registrationDate": "تاریخ ثبت بیمار",
+    "emptyTitle": "هنوز بیماری ثبت نشده است",
+    "empty": "برای شروع، اولین بیمار را ثبت کنید.",
+    "delete": "حذف",
+    "cancel": "انصراف",
+    "delete-title": "آیا مطمئن هستید؟",
+    "delete-description": "این بیمار از لیست شما حذف خواهد شد. جزئیات ویزیت‌های شما حفظ می‌شود و می‌توانید بعداً این بیمار را دوباره به لیست خود اضافه کنید.",
+    "delete-action": "حذف بیمار"
+  },
+  "BmiCalculator": {
+    "weight": "وزن",
+    "weight-unit": "کیلوگرم",
+    "bmi": "BMI",
+    "bmi-popover": "شاخص توده بدنی",
+    "bmi-sd": "انحراف معیار BMI",
+    "bmi-sd-popover": "انحراف معیار شاخص توده بدنی",
+    "bmi-status": "وضعیت BMI",
+    "bmi-status-popover-span": "مقادیر ممکن عبارتند از: <span></span>",
+    "UnderWeight": "کم‌وزن",
+    "NormalWeight": "وزن نرمال",
+    "OverWeight": "اضافه‌وزن",
+    "Obesity": "چاقی",
+    "height-sd": "انحراف معیار قد",
+    "height-sd-popover": "انحراف معیار قد",
+    "weight-sd": "انحراف معیار وزن",
+    "weight-sd-popover": "انحراف معیار وزن",
+    "week": "هفته"
+  },
+  "PwaInstall": {
+    "done": "انجام شد",
+    "title": "نصب برنامه تحت وب",
+    "description": "برای دسترسی راحت‌تر به اُسیفای، برنامه را بر روی دستگاه خود نصب کنید.",
+    "share": "آیکون \"اشتراک گذاری\" را در نوار ناوبری فشار دهید",
+    "add": "\"اضافه به صفحه اصلی\" را انتخاب کنید",
+    "select-chrome": "\"پخش، ذخیره و اشتراک گذاری\" را انتخاب کنید",
+    "select-safari": "\"اضافه به داک\"را انتخاب کنید",
+    "settings": "آیکون \"تنظیمات\" را در نوار ناوبری فشار دهید",
+    "install": "نصب اُسیفای...",
+    "install-edge": "این سایت را به عنوان یک برنامه نصب کنید",
+    "app-edge": "برنامه‌ها"
+  },
+  "Organization": {
+    "Leader": "رئیس",
+    "CoLeader": "معاون رئیس",
+    "Member": "کارمند",
+    "Doctor": "دکتر",
+    "Assistant": "دستیار",
+    "role-type": "{type, select, Leader {رئیس} CoLeader {معاون رئیس} Member {کارمند} other {عضو}}",
+    "Hospital": "بیمارستان",
+    "Clinic": "کلینیک",
+    "ImagingCenter": "مرکز تصویربرداری",
+    "user": "{isDoctor, select, true {دکتر {lastName} ({medicalNumber})} other {{firstName} {lastName}}}",
+    "user-name": "{isDoctor, select, true {دکتر {firstName} {lastName}} other {{firstName} {lastName}}}",
+    "user-name-short": "{isDoctor, select, true {دکتر {lastName}} other {{firstName} {lastName}}}",
+    "organization": "{type, select, Hospital {بیمارستان {name}} Clinic {کلینیک {name}} ImagingCenter {مرکز تصویربرداری {name}} other {مرکز {name}}}",
+    "change-title": "تغییر سازمان",
+    "change-description": "سازمان خود را تغییر دهید تا به داده‌های آن دسترسی پیدا کنید.",
+    "leader-title": "تغییر رئیس سازمان",
+    "leader-description": "نقش شما به معاون رئیس‌ تغییر خواهد کرد. این اقدام قابل بازگشت توسط شما نیست. آیا می‌خواهید ادامه دهید؟",
+    "org name": "نام سازمان",
+    "address text": "آدرس",
+    "address neshan link": "لینک آدرس از <link>نشان</link>",
+    "phone numbers": "شماره‌های تلفن",
+    "phone number placeholder": "شماره تلفن را وارد کنید",
+    "add phone": "افزودن شماره تلفن"
+  },
+  "Employees": {
+    "employee": "کارمند",
+    "role": "نقش"
+  },
+  "CarouselDatePicker": {
+    "title": "تاریخ را انتخاب کنید",
+    "description": "برای انتخاب، گردونه‌ها را بکشید.",
+    "close-action": "تایید",
+    "placeholder": "تاریخ"
+  },
+  "PricingPlans": {
+    "available-days-value": "{value, select, Monthly {ماهانه} Yearly {سالانه} other {-}}",
+    "limit-patients-value": "پشتیبانی از حداکثر {value, plural, =0 {0 بیمار} =1 {1 بیمار} other {# بیمار}}",
+    "limit-days": "محدود به <span>{limit, plural, =0 {0 پیش‌بینی هوش مصنوعی} =1 {1 پیش‌بینی هوش مصنوعی} other {# پیش‌بینی هوش مصنوعی}}</span> هر {days, plural, =0 {0 روز} =1 {1 روز} other {# روز}}",
+    "Basic": "پایه",
+    "Professional": "حرفه‌ای",
+    "Advanced": "پیشرفته",
+    "Custom": "سفارشی",
+    "get-plan": "دریافت {plan}",
+    "current-plan": "طرح فعلی شما",
+    "current-plan-until": "فعال تا {until}",
+    "most-popular": "محبوب‌ترین",
+    "bone_age": "تجزیه و تحلیل سن استخوان با هوش مصنوعی",
+    "calculators": "پیش‌بینی قد بزرگسالان",
+    "growth_charts": "نمودارهای رشد با هوش مصنوعی",
+    "lab_paper_analysis": "تجزیه و تحلیل کاغذ آزمایشگاهی با هوش مصنوعی",
+    "medical_records": "تجزیه و تحلیل سوابق پزشکی",
+    "unlimited_patients": "پشتیبانی نامحدود از بیماران",
+    "my subscription": "اشتراک من",
+    "cancel-subscription": "لغو اشتراک",
+    "cancel-subscription-description": "شما می‌توانید هر زمان که بخواهید دوباره اشتراک خود را فعال کنید و به این ویژگی‌ها دسترسی پیدا کنید.",
+    "current plan summary": "خلاصه اشتراک فعلی",
+    "remaining time - value": "{days, plural, =0 {۰ روز} =1 {۱ روز} other {# روز}}",
+    "remaining time - title": "زمان باقی‌مانده",
+    "remaining visits - value": "{visits, plural, =0 {۰ ویزیت} =1 {۱ ویزیت} other {# ویزیت}}",
+    "remaining visits - title": "تعداد ویزیت‌های باقی‌مانده",
+    "unlimited visits": "نامحدود",
+    "buy more visits": "خرید ویزیت بیشتر",
+    "new visits": "ویزیت‌های جدید",
+    "buy more visits description": "شما می‌توانید بدون تغییر در طرح اشتراک فعلی خود، بسته‌های ویزیت اضافی خریداری کنید.",
+    "final amount": "مبلغ نهایی"
+  },
+  "PricingPlansLanding": {
+    "replace_active_plan_title": "جایگزینی اشتراک فعلی؟",
+    "replace_active_plan_desc": "اشتراک فعلی شما حذف خواهد شد. این عمل غیرقابل بازگشت است. آیا مطمئن هستید؟",
+    "replace_active_plan_cancel": "لغو",
+    "replace_active_plan_confirm": "تایید",
+    "select plan": "انتخاب طرح",
+    "current plan": "اشتراک فعلی",
+    "current plan badge": "فعلی",
+    "Basic": {
+      "title": "پلن پایه",
+      "desc": "مناسب برای پزشکان در شروع سریع"
+    },
+    "Advanced": {
+      "title": "پلن پیشرفته",
+      "desc": "راه‌حل کامل برای پزشکان حرفه‌ای"
+    },
+    "billing": {
+      "Monthly": "ماهانه",
+      "Yearly": "سالانه"
+    },
+    "shared_features": {
+      "appointment": "سیستم مدیریت نوبت‌دهی",
+      "reception": "مرکز هوشمند پذیرش",
+      "patient_profile": "پروفایل کامل بیمار",
+      "patient_visit": "ردیاب ویزیت بیمار",
+      "reporting": "داشبورد گزارش‌دهی بالینی"
+    },
+    "premium_features": {
+      "growth_profiling": "پروفایل‌سازی و پیش‌بینی رشد مبتنی بر هوش مصنوعی",
+      "growth_lab": "هوش تحلیل نتایج آزمایشگاهی با AI",
+      "growth_trends": "تحلیل و پیش‌بینی روند رشد با هوش مصنوعی",
+      "growth_bone_age": "دستیار محاسبه سن استخوان با AI",
+      "voice": "دستیار صوتی هوشمند AI با قابلیت تبدیل گفتار به متن"
+    }
+  },
+  "OCRTable": {
+    "test": "آزمایش",
+    "result": "نتیجه",
+    "unit": "واحد",
+    "reference": "محدوده مرجع",
+    "abnormal": "غیر طبیعی",
+    "normal": "طبیعی",
+    "true": "بله",
+    "false": "نه",
+    "delete-title-field": "فیلد {field} حذف خواهد شد",
+    "delete-description-field": "فیلد {field} در این نتیجه آزمون در دسترس نخواهد بود. شما می‌توانید هر زمان که بخواهید فیلدها را به صورت دستی اضافه کنید.",
+    "empty-title": "هنوز نتیجه آزمایشی ثبت نشده است",
+    "empty-description": "برای ثبت نتیجه آزمایش، ابتدا یک ویزیت ایجاد کنید.",
+    "title": "آزمایش‌ها",
+    "ocr-date-title": "نتیجه آزمایش ({date})",
+    "relative-days-after": "{days} روز بعد از ویزیت",
+    "relative-days-before": "{days} روز قبل از ویزیت",
+    "relative-same-day": "همان روز ویزیت",
+    "status": "وضعیت",
+    "re-upload": "بارگذاری مجدد",
+    "check-lab-papers": "مشاهده تصویر آزمایش",
+    "test placeholder": "مثال: WBC",
+    "value placeholder": "مثال: ۷.۵",
+    "unit placeholder": "مثال: x10³/μL",
+    "normal range placeholder": "مثال: ۱۱.۰-۴.۵",
+    "upper_out_of_range": "بالاتر از نرمال",
+    "lower_out_of_range": "پایین‌تر از نرمال",
+    "ai-notice": "تفسیر نتیجه آزمایش در نهایت با نظر پزشک معالج است.",
+    "limited": "استخراج نتایج آزمایش با هوش مصنوعی موقتاً در دسترس نیست، اما می‌توانید همچنان تصاویر را بارگذاری کنید و پس از بازگشت سرویس، همه داده‌ها پردازش خواهند شد."
+  },
+  "Landing": {
+    "error": "خدمت در حال حاضر در دسترس نیست. لطفاً بعداً تلاش کنید.",
+    "header-doctor-title": "دکتر {lastName}",
+    "loading": "در حال بارگذاری...",
+    "scan doctor qr code": "لطفاً کد QR پزشک را اسکن کنید.",
+    "report sent to doctor": "گزارش شما به پزشک ارسال شد. اکنون می‌توانید اپلیکیشن را ترک کنید.",
+    "show-notification-details": "نمایش",
+    "action": "ورود / ثبت نام",
+    "home": "خانه",
+    "tutorial": "آموزش"
+  },
+  "Contact": {
+    "title": "تماس",
+    "address": "بهرامی یک، خیابان شهید بهرامی، بلوار پاسداران، ساری، مازندران، ایران",
+    "postalCode": "4814967843"
+  },
+  "Footer": {
+    "terms": "شرایط استفاده",
+    "policy": "سیاست حفظ حریم خصوصی",
+    "quickAccess": {
+      "title": "دسترسی سریع",
+      "home": "صفحه خانه",
+      "aboutUs": "درباره ما",
+      "contactUs": "ارتباط با ما",
+      "blog": "مقاله"
+    },
+    "contact": {
+      "title": "راه های ارتباطی"
+    },
+    "social": {
+      "whatsapp": {
+        "alt": "واتساپ",
+        "label": "تماس با ما در واتساپ"
+      },
+      "instagram": {
+        "alt": "اینستاگرام",
+        "label": "دنبال کردن ما در اینستاگرام"
+      },
+      "email": {
+        "alt": "ایمیل",
+        "label": "ارسال ایمیل به ما"
+      },
+      "telegram": {
+        "alt": "تلگرام",
+        "label": "تماس با ما در تلگرام"
+      },
+      "linkedin": {
+        "alt": "لینکدین",
+        "label": "ارتباط با ما در لینکدین"
+      },
+      "aparat": {
+        "alt": "آپارات",
+        "label": "تماشای ویدیوهای ما در آپارات"
+      }
+    }
+  },
+  "Hero": {
+    "adjectives": {
+      "item-1": "محرک با هوش مصنوعی",
+      "item-2": "دقیق",
+      "item-3": "هوشمند",
+      "item-4": "اتوماتیک",
+      "item-5": "کارآمد"
+    },
+    "title": "بهداشت و درمان با فناوری ملاقات می‌کند",
+    "hero": {
+      "title": "هر سانتی متر رشد،   داستان <highlight>آینده‌ی کودکان</highlight> است",
+      "description": "ابزاری هوشمند برای پایش رشد کودکان و بهبود تصمیم‌های درمانی",
+      "cta": "شروع رایگان",
+      "imageAlt": "تصویر اصلی",
+      "leftIconAlt": "آیکون چپ",
+      "rightIconAlt": "آیکون راست"
+    }
+  },
+  "Features": {
+    "title": "مملو از ویژگی‌ها",
+    "description": "این برنامه با ابزارهای هوش مصنوعی که پزشکان می‌توانند به آن اعتماد کنند، در یک طراحی مدرن ارائه می‌شود.",
+    "item-1": {
+      "title": "گزارش مالی",
+      "description": "دید کلی از تمام امور مالی خود را در یک نگاه بدست آورید"
+    },
+    "item-2": {
+      "title": "گزارش بیمار",
+      "description": "مروری بر بیمارانی که شما ملاقات می‌کنید"
+    },
+    "item-3": {
+      "title": "گزارش خدمات",
+      "description": "هر خدمت را دنبال کرده و در صورت لزوم تکمیل کنید"
+    }
+  },
+  "Products": {
+    "title": "خدمات",
+    "description": "ابزارهای مبتنی بر هوش مصنوعی. تغییر در خدمات بهداشت و درمان.",
+    "item-1": {
+      "title": "محاسبه‌کننده قد بزرگسال",
+      "description": "پیش‌بینی و محاسبه قد نهایی بزرگسال بر اساس الگوهای رشد و معیارهای فعلی."
+    },
+    "item-2": {
+      "title": "گزارش سن استخوان",
+      "description": "ارزیابی تراکم استخوان و پتانسیل رشد از طریق تحلیل دقیق سن استخوان."
+    }
+  },
+  "Pricing": {
+    "title": "قیمت‌گذاری",
+    "description": "توانمندسازی متخصصان بهداشت و درمان",
+    "price-currency": "هزار تومان",
+    "item-1": {
+      "title": "طرح 1",
+      "features": {
+        "item-1": "پرداخت به ازای استفاده، بدون هزینه اشتراک",
+        "item-2": "قیمت به ازای هر گزارش",
+        "item-3": "تشخیص قد",
+        "item-4": "نتیجه سن استخوان",
+        "item-5": "یکپارچه‌سازی محاسبه‌کننده قد بزرگسال"
+      }
+    },
+    "item-2": {
+      "title": "طرح 2",
+      "features": {
+        "item-1-value": "تا {value}% پاداش، بازگشت وجه",
+        "item-2": "تمامی امکانات طرح 1"
+      }
+    }
+  },
+  "Tutorials": {
+    "title": "ویدیوهای آموزشی",
+    "description": "یاد بگیرید چگونه از اُسیفای استفاده کنید.",
+    "pacs": {
+      "title": "ادغام با PACS",
+      "description": "شما می‌توانید تصاویر را از PACS استخراج کرده و در اپلیکیشن استفاده کنید."
+    },
+    "qr-code": {
+      "title": "کدهای QR",
+      "description": "بیماران می‌توانند مستقیماً کد QR پزشک را اسکن کرده و لینک‌ها و تصاویر رادیولوژی را ارسال کنند."
+    },
+    "link": {
+      "title": "لینک‌های رادیولوژی",
+      "description": "شما می‌توانید لینک رادیولوژی را مستقیماً در اپلیکیشن وارد کنید."
+    },
+    "digital": {
+      "title": "تصاویر سن استخوان",
+      "description": "تصاویر سن استخوان را به اپلیکیشن ارسال کنید."
+    },
+    "payment": {
+      "title": "روش‌های پرداخت بدون وقفه",
+      "description": "چندین گزینه پرداخت در دسترس شماست، از جمله پرداخت از طریق کیف پول و پرداخت‌های مستقیم بانکی."
+    }
+  },
+  "landing": {
+    "title": "پلتفرم جامع پایش رشد کودکان",
+    "subtitle": "همراهی پزشکان با ابزارهای دقیق و هوش مصنوعی",
+    "nav-items": {
+      "home": "خانه",
+      "about": "درباره ما",
+      "contact": "ارتباط با ما",
+      "blogs": "مقاله‌ها"
+    },
+    "section_1": {
+      "title": "پایش رشد کودک نیاز به یک تحول دارد",
+      "text": "پایش رشد کودکان امروز هنوز یک فرایند دستی و پراکنده است. پزشکان زمان زیادی صرف وارد کردن داده ها، تحلیل دستی تصاویر، و تفسیر آزمایش ها می کنند. نبود ابزار جامع باعث میشود تصمیم گیری دقیق، دشوار باشد و مشکلات دیر شناسایی شوند."
+    },
+    "section_2": {
+      "title": "از پرونده تا هشدار؛ همه چیز در یک نگاه",
+      "text": "در اُسیفای تمام اجزای کلیدی رشد به‌صورت هوشمند و یکپارچه در اختیار پزشک قرار می‌گیرد. کافیست داده‌هایی مانند قد، وزن، تصویر سن استخوان و نتایج آزمایش‌ها وارد شوند؛ سیستم به‌طور خودکار پرونده‌ی دیجیتال را می‌سازد و تحلیل‌های لازم را ارائه می‌دهد. این رویکرد باعث می‌شود پزشک درمانگر بتواند بیمار را با سرعت بیشتر و دقت بالاتر مدیریت کند.",
+      "orbital_data": {
+        "digital_growth_profile": "پروفایل رشد دیجیتال",
+        "automated_growth_calculations": "محاسبات خودکار رشد",
+        "clinical_alerts_suggestions": "هشدارهای بالینی و پیشنهادات",
+        "global_growth_charts": "نمودارهای رشد جهانی",
+        "intelligent_bone_age_analysis": "تحلیل هوشمند سن استخوان",
+        "digital_interpretation_of_tests": "تفسیر دیجیتال آزمایش‌ها"
+      }
+    },
+    "features": {
+      "title": "همه ابزار های رشد در یک <underline>پلتفرم</underline>",
+      "description": "از آزمایش‌های هورمونی تا نمودارهای رشد؛ همه داده‌ها به‌صورت دیجیتال و یکپارچه",
+      "items": {
+        "1": {
+          "title": "تحلیل آزمایش ها",
+          "desc": "تفسیر هوشمند نتایج هورمونی و ارائه بینش درمانی."
+        },
+        "2": {
+          "title": "پایش رشد دیجیتال",
+          "desc": "ثبت و تحلیل خودکار قد، وزن و BMI در قالب نمودارهای استاندارد جهانی."
+        },
+        "3": {
+          "title": "مقایسه و هشدار هوشمند",
+          "desc": "شناسایی تغییرات غیرعادی و ارسال هشدار برای تصمیم‌گیری سریع‌تر."
+        }
+      }
+    },
+    "pricing": {
+      "title": "طرح های اشتراک برای <underline>نیاز های متفاوت</underline>",
+      "action": "انتخاب پلن"
+    },
+    "mission": {
+      "title": "رسالت ما",
+      "text": "ما باور داریم که هر تغییر کوچک در رشد یک کودک اهمیت دارد. امروز پزشکان برای ارزیابی رشد با فرایندهای دستی، ابزار های پراکنده و پرونده های کاغذی روبه رو هستد که زمان بر و مستعد خطاست. هدف ما این است که با ترکیب هوش مصنوعی، طراحی کاربرمحور و استاندارد های جهانی پزشکی، این فرآیند را به تجربه ای سریع تر، دقیق تر و یکپارچه تر تبدیل کنیم."
+    },
+    "contact": {
+      "title": "تماس با ما",
+      "company_address": "آدرس شرکت",
+      "address": "ساری، بلوارپاسدارن، خیابان بهرامی",
+      "phone": "تلفن"
+    },
+    "sections": {
+      "resources": "منابع",
+      "solutions": "راهکارها",
+      "pricing": "قیمت گذاری",
+      "about": "درباره ما",
+      "contact": "تماس با ما"
+    },
+    "blogs": {
+      "title": "جدید ترین مقالات درباره پایش رشد و سلامت کودکان",
+      "see_all": "مشاهده همه",
+      "read_more": "مطالعه کنید",
+      "author": "نویسنده"
+    },
+    "faq": {
+      "title": "سوالات متداول",
+      "faqs": {
+        "product": {
+          "title": "محصول",
+          "items": [
+            {
+              "q": "اُسیفای دقیقاً چه کاری انجام می‌دهد؟",
+              "a": "اُسیفای داده‌های رشد، نتایج آزمایش‌ها، سوابق ویزیت‌ها و تصاویر رادیولوژی دست چپ بیماران را تحلیل کرده و آن‌ها را در قالب نمودارها و گزارش‌های هوشمند در اختیار پزشکان قرار می‌دهد تا تصمیم‌گیری بالینی دقیق‌تر و سریع‌تری داشته باشند."
+            },
+            {
+              "q": "اُسیفای برای چه کسانی طراحی شده است؟",
+              "a": "پلتفرم اُسیفای برای پزشکان فوق‌تخصص غدد و متابولیسم کودکان، متخصصان اطفال، مدیران کلینیک، منشی‌ها و دستیاران پزشکان طراحی شده است. هر گروه محیط کاری (Workspace) اختصاصی خود را دارد با ابزارها و سطح دسترسی متناسب با نقش‌شان."
+            },
+            {
+              "q": "هوش مصنوعی در اُسیفای چه نقشی دارد؟",
+              "a": "الگوریتم‌های هوش مصنوعی اُسیفای داده‌های رشد، نتایج آزمایش‌ها و تصاویر رادیولوژی دست چپ را تحلیل کرده و شاخص‌هایی مانند BMI، SDS، HV، WV، AHP، MPH و Bone Age را به‌صورت خودکار محاسبه می‌کنند.\u202cپزشک می‌تواند از این تحلیل‌ها برای ارزیابی روند رشد و تصمیم‌گیری درمانی دقیق‌تر استفاده کند."
+            },
+            {
+              "q": "آیا برای استفاده از اُسیفای نیاز به نصب نرم‌افزار خاصی دارم؟",
+              "a": "خیر، شما برای استفاده از اُسیفای نیاز به نصب هیچ نرم افزاری نداشته و پلتفرم اُسیفای کاملا تحت وب بوده و از طریق مرورگر خود میتوانید آن را اجرا کنید."
+            }
+          ]
+        },
+        "usage": {
+          "title": "کاربرد و استفاده",
+          "items": [
+            {
+              "q": "پزشکان چگونه از اُسیفای استفاده می‌کنند؟",
+              "a": "پزشک برای هر بیمار پرونده‌ای ایجاد کرده، ویزیت‌ها و نتایج آزمایش را با کمک فناوری OCR ثبت می‌کند. اُسیفای به‌صورت خودکار نمودار رشد را به‌روزرسانی کرده و تغییرات بیمار را نسبت به ویزیت‌های قبلی تحلیل و نمایش می‌دهد. همچنین با بارگذاری عکس رادیولوژی دست چپ، سیستم سن استخوانی را با هوش مصنوعی محاسبه می‌کند."
+            },
+            {
+              "q": "اُسیفای چه کمکی به کلینیک‌ها می‌کند؟",
+              "a": "اُسیفای تمام فرآیندهای ثبت، پیگیری و تحلیل بیماران را در یک محیط متمرکز یکپارچه می‌سازد.\u202cمدیران کلینیک می‌توانند چند پزشک و منشی را در یک سیستم واحد مدیریت کنند، پرونده‌ها را بین پزشکان تقسیم کنند و گزارش عملکرد و روند درمان بیماران را به‌صورت جامع مشاهده نمایند."
+            },
+            {
+              "q": "آیا اُسیفای روی موبایل هم قابل استفاده است؟",
+              "a": "بله. نسخه‌ی وب اُسیفای کاملاً واکنش‌گرا (Responsive) طراحی شده و در موبایل و کامپیوتر بدون نیاز به نصب اپلیکیشن قابل استفاده است."
+            },
+            {
+              "q": "آیا می‌توانم سوابق رشد یا ویزیت‌های قبلی بیماران را ببینم؟",
+              "a": "بله، در داشبورد هر بیمار می‌توانید تمام سوابق رشد، ویزیت‌ها و داده‌های ثبت‌شده قبلی را مشاهده کنید. اطلاعات به‌صورت منظم و قابل فیلتر نمایش داده می‌شوند تا بتوانید روند رشد یا تغییرات وضعیت بیمار را در بازه‌های زمانی مختلف بررسی کنید."
+            }
+          ]
+        },
+        "security": {
+          "title": "امنیت و داده‌ها",
+          "items": [
+            {
+              "q": "احراز هویت کاربران چگونه انجام می‌شود؟",
+              "a": "ثبت‌نام در اُسیفای تنها پس از احراز هویت رسمی و تأیید مدارک پزشکی انجام می‌شود.\u202cسیستم به‌صورت خودکار نقش کاربر را تشخیص داده و سطح دسترسی، ابزارها و داده‌های قابل مشاهده را بر اساس همان نقش تنظیم می‌کند."
+            },
+            {
+              "q": "امنیت داده‌های بیماران چگونه تضمین می‌شود؟",
+              "a": "تمام داده‌ها با روش‌های رمزنگاری پیشرفته ذخیره می‌شوند و تنها اعضای مجاز تیم درمان به آن‌ها دسترسی دارند.\u202cنگهداری داده‌ها مطابق با استانداردهای حریم خصوصی انجام می‌شود و هیچ فردی بدون مجوز پزشک به آن‌ها دسترسی نخواهد داشت."
+            },
+            {
+              "q": "در صورت خروج یا غیرفعال شدن حساب چه اتفاقی می‌افتد؟",
+              "a": "داده‌های بیماران هرگز حذف نمی‌شوند. پزشکان و مدیران کلینیک می‌توانند پیش از غیرفعال‌سازی حساب، خروجی کامل داده‌های خود را دریافت کنند. اطلاعات تا تعیین‌تکلیف نهایی به‌صورت ایمن نگهداری می‌شود و تنها مالک حساب (یا مدیر کلینیک) به آن دسترسی دارد."
+            },
+            {
+              "q": "چه کسی به اطلاعات بیماران من دسترسی دارد؟",
+              "a": "تنها شما به اطلاعات بیماران خود دسترسی دارید، مگر آن‌که به‌صورت مستقیم به منشی یا دستیاران خود سطح دسترسی مشخصی بدهید. منشی‌ها تنها امکان ثبت و ویرایش اطلاعات پایه بیماران را دارند و به جزئیات پزشکی یا تحلیل‌های تخصصی دسترسی نخواهند داشت."
+            }
+          ]
+        },
+        "pricing": {
+          "title": "پلن‌ها و هزینه‌ها",
+          "items": [
+            {
+              "q": "تفاوت بین پلن‌های اُسیفای در چیست؟",
+              "a": "پلن‌های اُسیفای بر اساس نقش کاربر (پزشک فوق‌تخصص، متخصص یا مدیر کلینیک) و سطح امکانات طراحی شده‌اند.  حرفه‌ای و پیشرفته امکانات تحلیلی دقیق‌تر، ظرفیت بالاتر در مدیریت بیماران، و قابلیت تعریف دستیاران بیشتر را ارائه می‌کنند. برای آشنایی بهتر، می‌توانید با دوره‌ی رایگان ۱۴ روزه شروع کنید و امکانات هر پلن را پیش از تصمیم‌گیری تجربه کنید."
+            },
+            {
+              "q": "اگر بخواهم پلن خود را تغییر دهم چه می‌شود؟",
+              "a": "در هر زمان می‌توانید پلن خود را ارتقا دهید. سیستم به‌صورت خودکار اعتبار باقی‌مانده را محاسبه و از هزینه‌ی پلن جدید کسر می‌کند."
+            },
+            {
+              "q": "آیا پس از پایان دوره پلن داده‌ها از بین می‌رود؟",
+              "a": "خیر. داده‌های شما همیشه محفوظ است. تنها برخی امکانات پیشرفته تا تمدید مجدد غیرفعال خواهند شد."
+            },
+            {
+              "q": "آیا میتوانم اشتراکم را لغو کنم؟",
+              "a": "بله، شما می‌توانید اشتراک خود را در هر زمان لغو کنید و می‌توانید به‌سادگی مبلغ باقیمانده اشتراک خود را دریافت کنید"
+            }
+          ]
+        },
+        "support": {
+          "title": "پشتیبانی و خدمات",
+          "items": [
+            {
+              "q": "در صورت بروز مشکل چه باید کرد؟",
+              "a": "از طریق پشتیبانی درون‌برنامه‌ای (چت آنلاین) می‌توانید با تیم اُسیفای در ارتباط باشید.\u202cدر ساعات کاری پاسخ‌دهی به‌صورت آنی انجام می‌شود و در خارج از ساعات اداری، درخواست شما ثبت و در اولین زمان بررسی می‌گردد."
+            },
+            {
+              "q": "آیا اُسیفای پشتیبانی تلفنی دارد؟",
+              "a": "بله. کاربران پلن‌های حرفه‌ای و پیشرفته به پشتیبانی تلفنی اختصاصی دسترسی دارند."
+            },
+            {
+              "q": "چگونه می‌توان از داده‌ها یا گزارش‌ها خروجی گرفت؟",
+              "a": "در بخش پرونده‌ی هر بیمار، گزینه‌ی «خروجی PDF یا Excel» در دسترس است تا بتوانید گزارش کامل رشد، آزمایش‌ها و ویزیت‌ها را ذخیره یا چاپ کنید."
+            },
+            {
+              "q": "آیا امکان انتقال داده‌ها از نرم‌افزار دیگر وجود دارد؟",
+              "a": "بله. با استفاده از فایل‌های CSV یا Excel می‌توانید داده‌های قبلی بیماران را در چند مرحله ساده وارد اُسیفای کنید."
+            }
+          ]
+        }
+      }
+    },
+    "newsletter": {
+      "title": "قبل از شروع سوالات خود را بپرسید",
+      "description": "برای آشنایی بیشتر با محصول و دریافت پاسخ یک جلسه مشاوره رایگان رزرو کنید.",
+      "input-placeholder": "شماره تماس خود را وارد کنید",
+      "send-button": "ارسال",
+      "quotation": "آیا امکان نصب osify در محل هم وجود دارد؟",
+      "imageAlt": "مشاوره رایگان با کارشناس پزشکی اُسیفای",
+      "invalid_phone_number": "شماره موبایل معتبر نیست",
+      "phone_number_too_short": "شماره موبایل باید حداقل ۱۰ رقم باشد",
+      "phone_number_too_long": "شماره موبایل بیش از حد طولانی است"
+    },
+    "call": "تماس بگیرید"
+  },
+  "BulletPoints": {
+    "title": "سه گام ساده برای پایش هوشمند رشد کودکان",
+    "subtitle": "سریع، دقیق و بدون پیچیدگی",
+    "imageAlt": "دکتر با تلفن همراه",
+    "insightText": "بیمار دارای علائم خستگی مزمن است. بررسی سطح ویتامین D و آهن پیشنهاد می‌شود. درمان GH...",
+    "point1": {
+      "title": "ثبت داده‌ها",
+      "description": "قد، وزن، نتایج آزمایش یا تصویر رادیولوژی را وارد کنید یا از سیستم پرونده دیجیتال استفاده کنید."
+    },
+    "point2": {
+      "title": "تحلیل هوشمند",
+      "description": "الگوریتم‌های اُسیفای داده‌ها را پردازش می‌کنند و نمودارها، محاسبات رشد و هشدارهای هوشمند تولید می‌شوند."
+    },
+    "point3": {
+      "title": "بینش و اقدام",
+      "description": "گزارش کامل و پیشنهادهای درمانی در داشبورد پزشک نمایش داده می‌شود تا تصمیم‌گیری سریع‌تر و دقیق‌تر انجام شود."
+    }
+  },
+  "about-us": {
+    "hero-title": "درباره ما",
+    "hero-text": "<span>هوشمندترین</span> پلتفرم بالینی رشد و غدد کودکان در ایران",
+    "hero-description": "ما در اُسیفای باور داریم که تکنولوژی باید به پزشکان کمک کند تا با دقت، سرعت و آرامش بیشتری به بیمارانشان خدمت کنند",
+    "story": {
+      "title": "داستان شکل‌گیری تیم",
+      "description-desktop": "ایده‌ی اُسیفای از تجربه‌ای واقعی در کلینیک غدد کودکان شکل گرفت؛ جایی که بیماری الهام‌بخش ساخت ابزاری هوشمند شد. وقتی دیدیم تفسیر عکس‌های سن استخوان زمان‌بر و مستعد خطاست، تصمیم گرفتیم ابزاری بسازیم که سریع‌تر و دقیق‌تر باشد. با همکاری پزشکان، این ایده به تیمی چندرشته‌ای برای بهبود پایش رشد کودکان تبدیل شد.",
+      "description-mobile": {
+        "1": "ایده‌ی اُسیفای از تجربه‌ای واقعی در کلینیک غدد کودکان شکل گرفت؛ جایی که بیماری الهام‌بخش ساخت ابزاری هوشمند شد.",
+        "2": "وقتی دیدیم تفسیر عکس‌های سن استخوان زمان‌بر و مستعد خطاست، تصمیم گرفتیم ابزاری بسازیم که سریع‌تر و دقیق‌تر باشد.",
+        "3": "با همکاری پزشکان، این ایده به تیمی چندرشته‌ای برای بهبود پایش رشد کودکان تبدیل شد."
+      },
+      "imageAlt": "پزشک کودکان در حال بررسی پرونده رشد در ایستگاه کاری دیجیتال"
+    },
+    "mission": {
+      "title": "ماموریت ما",
+      "description": "ما سیستم‌های کاغذی و پراکنده را کنار گذاشتیم و پلتفرمی یکپارچه ساختیم که کارهای تکراری را خودکار می‌کند، بینش لحظه‌ای می‌دهد و پایش بلندمدت بیماران را ممکن می‌سازد. پزشکان متخصص، فوق‌تخصص‌ها و کلینیک‌ها می‌توانند حساب بسازند، دسترسی‌ها را مدیریت کنند و از ابزارهای تخصصی خود بهره‌مند شوند.",
+      "button": "شروع رایگان",
+      "imageAlt": "پزشک کودکان در حال اندازه‌گیری قد کودک برای ارزیابی رشد"
+    },
+    "features": {
+      "title": "آنچه پلتفرم ما را متفاوت می‌سازد",
+      "description": " ابزارهای هوشمند، تخصصی و بومی برای رشد و غدد کودکان",
+      "items": {
+        "1": {
+          "title": "تخصص حوزه‌ای",
+          "desc": "تفسیر هوشمند نتایج هورمونی و ارائه بینش درمانی."
+        },
+        "2": {
+          "title": "ابزارهای هوشمند",
+          "desc": "شامل سن استخوان، تحلیل آزمایش‌ها و پیشنهادهای هوش مصنوعی"
+        },
+        "3": {
+          "title": "بومی‌سازی",
+          "desc": "بهینه‌شده برای فرآیندها و نیازهای واقعی پزشکان ایرانی"
+        }
+      }
+    },
+    "CTA": {
+      "title": "به جامعه‌ی پزشکان اُسیفای بپیوندید",
+      "phonenumber-input": "شماره تلفن خود را وارد کنید",
+      "invalid_phone_number": "شماره موبایل معتبر نیست",
+      "phone_number_too_short": "شماره موبایل باید حداقل ۱۰ رقم باشد",
+      "phone_number_too_long": "شماره موبایل بیش از حد طولانی است",
+      "send": "ارسال",
+      "imageAlt": "پزشک در حال استفاده از اپلیکیشن اُسیفای برای مدیریت مراقبت از بیمار"
+    }
+  },
+  "Mdx": {
+    "category": {
+      "medical": "پزشکی",
+      "technology": "تکنولوژی",
+      "life-style": "سبک زندگی",
+      "research-and-education": "تحقیقات و آموزش",
+      "news-and-updates": "اخبار و به‌روزرسانی‌ها",
+      "general-health": "سلامت عمومی",
+      "all": "همه"
+    },
+    "approvedBy": "پزشک تایید کننده: {name}",
+    "author": "نویسنده: {name}",
+    "read-time": "مدت زمان مطالعه: {time} دقیقه",
+    "published-date": "تاریخ انتشار: {date}",
+    "introduction": "آنچه در این مقاله می خوانید",
+    "tags": "برچسب‌ها:",
+    "resources": "منابع:",
+    "suggested blogs": "مقالات پیشنهادی",
+    "share": "به اشتراک بگذارید",
+    "share-message": "آدرس بلاگ در کلیپ‌بورد کپی شد!",
+    "related": "مقالات مرتبط",
+    "toc": "فهرست مطالب"
+  },
+  "Blogs": {
+    "all blogs - title": "تمام مقالات",
+    "all blogs - description": "دانش و بینش‌های روز در سلامت و رشد کودکان",
+    "sort": {
+      "newest": "جدیدترین",
+      "oldest": "قدیمی‌ترین"
+    },
+    "empty list": "هیچ مقاله‌ای یافت نشد.",
+    "blogs": "مقاله‌ها",
+    "title": "جدیدترین مقالات درباره پایش <span>رشد و سلامت کودکان</span>",
+    "description": "مجموعه‌ای از مقالات علمی و کاربردی درباره ارزیابی رشد، تفسیر سن استخوان و ابزارهای نوین پایش کلینیکی",
+    "search - placeholder": "جستجوی مقالات",
+    "popular searches": "جستجوهای پرطرفدار",
+    "recent searches": "آخرین جست و جو های شما ",
+    "in category - name": "در دستهٔ <span>{name}</span>"
+  },
+  "Dashboard": {
+    "choose-workspace": "فضای کاری خود را انتخاب کنید",
+    "add-workspace": "ایجاد فضای کاری جدید",
+    "visit-date": "تاریخ ویزیت",
+    "state-waiting": "پذیرش بیمار در {time}",
+    "state-visiting": "ثبت ویزیت در {time}",
+    "state-done": "اتمام ویزیت در {time}",
+    "state-waiting-no-time": "بیمار هنوز پذیرش نشده است",
+    "state-visiting-no-time": "ویزیت هنوز ثبت نشده است",
+    "state-done-no-time": "ویزیت هنوز تکمیل نشده است",
+    "waiting": "در انتظار ویزیت",
+    "visiting": "در حال ویزیت",
+    "done": "ویزیت شده",
+    "details": "جزئیات",
+    "turn": "نوبت",
+    "ordinal-turn": "ام",
+    "is_inside": "در حال معاینه",
+    "wait_to_go_inside": "در انتظار معاینه",
+    "queued": "در صف معاینه",
+    "state": "وضعیت معاینه",
+    "status": "وضعیت پذیرش",
+    "exit org": "خروج از سازمان فعلی",
+    "appointment-time": "نوبت رزرو شده برای {time}",
+    "appointment-no-time": "بدون نوبت قبلی",
+    "appointment": "نوبت",
+    "reception": "ثبت پذیرش",
+    "is_managed": "پذیرش شده",
+    "national id": "کد ملی {id}"
+  },
+  "Sidebar": {
+    "settings": "تنظیمات",
+    "subscription": "اشتراک",
+    "support": "پشتیبانی",
+    "reception": "پذیرش",
+    "patients": "بیماران",
+    "colleagues": "همکاران",
+    "reports": "گزارش‌ها",
+    "appointments": "نوبت‌‌دهی",
+    "doctor": "دکتر",
+    "view_profile": "مشاهده پروفایل",
+    "upgrade_plan": "ارتقای پلن",
+    "open_doctor_app": "باز کردن اپ پزشک",
+    "open_patient_app": "باز کردن اپ بیمار",
+    "logout": "خروج",
+    "logging_out": "در حال خروج..."
+  },
+  "Appointments": {
+    "appointments": "تقویم نوبت‌ها",
+    "configurations": "روتین هفتگی"
+  },
+  "DoctorConfigCard": {
+    "configuredDays": "روزهای تنظیم‌شده در هفته",
+    "maxPatients": "حداکثر بیماران در هفته",
+    "initConfig": "راه‌اندازی تنظیمات",
+    "viewConfig": "مشاهده تنظیمات"
+  },
+  "ConfigProfile": {
+    "explanationText": "این تنظیمات به شما کمک می‌کنند تا زمان‌های نوبت‌دهی خود را سریع‌تر پر و تمدید کنید. این برنامه هفتگی معمول شماست و مستقیماً در برنامه نوبت‌دهی استفاده نمی‌شود.",
+    "phoneNumber": "شماره تلفن",
+    "addInterval": "افزودن بازه زمانی",
+    "editInterval": "ویرایش بازه زمانی",
+    "start": "زمان شروع",
+    "startPlaceholder": "انتخاب زمان شروع",
+    "end": "زمان پایان",
+    "endPlaceholder": "انتخاب زمان پایان",
+    "everyMinutes": "مدت بازه",
+    "everyMinutesPlaceholder": "انتخاب مدت",
+    "capacity": "ظرفیت",
+    "capacityPlaceholder": "ظرفیت را وارد کنید",
+    "persons": "نفر",
+    "cancel": "انصراف",
+    "save": "ذخیره",
+    "noIntervals": "بازه زمانی‌ای برای این روز تنظیم نشده است.",
+    "minutes": "{value} دقیقه",
+    "deleteIntervalHeader": "حذف بازه زمانی",
+    "deleteIntervalDescription": "آیا از حذف این بازه زمانی مطمئن هستید؟ این عمل قابل برگشت نیست. بازه‌های زمانی که از قبل باز شده‌اند تحت تأثیر قرار نخواهند گرفت.",
+    "delete": "حذف",
+    "notice": "<bold>توجه!</bold> هر {min} دقیقه، {count} نفر می‌توانند نوبت رزرو کنند.",
+    "baseBookingDateTitle": "تاریخ پایه نوبت‌دهی",
+    "baseBookingDateHelper": "زودترین تاریخی را که بیماران می‌توانند از طریق لینک نوبت‌دهی معمول رزرو کنند، تعیین کنید. بازه‌های زمانی پیش از این تاریخ رزرو شده و از طریق لینک عمومی قابل رزرو نخواهند بود.",
+    "baseBookingDateLabel": "تاریخ",
+    "baseBookingDatePlaceholder": "تاریخ را انتخاب کنید"
+  },
+  "SendAppointmentLink": {
+    "button": "ارسال لینک نوبت‌دهی",
+    "title": "ارسال لینک رزرو نوبت",
+    "phone_number": {
+      "label": "شماره تلفن",
+      "placeholder": "شماره تلفن را وارد کنید"
+    },
+    "appointment_config": {
+      "label": "پزشک معالج",
+      "placeholder": "پزشک معالج را انتخاب کنید"
+    },
+    "emergency": {
+      "label": "رزرو اورژانسی",
+      "description": "در صورت فعال‌سازی، بیمار می‌تواند صرف‌نظر از ظرفیت، نوبت بگیرد.",
+      "pickDate": "یک روز از برنامه را انتخاب کنید",
+      "pickInterval": "یک بازه‌ی زمانی را انتخاب کنید",
+      "noIntervals": "بازه‌ای برای این روز موجود نیست",
+      "intervalRequired": "برای ارسال لینک، یک بازه انتخاب کنید",
+      "selectedDate": "روز انتخاب‌شده"
+    },
+    "pill": "اورژانسی",
+    "cancel": "انصراف",
+    "submit": "ارسال لینک",
+    "success msg": "لینک با موفقیت ارسال شد!",
+    "limited": "لینک رزرو نوبت به طور موقت غیرفعال شده است. ما از این ناراحتی پوزش می خواهیم. مشکل به زودی برطرف خواهد شد."
+  },
+  "ZodErrorMap": {
+    "invalid_format": "فرمت {format} مورد نیاز است",
+    "required": "این فیلد الزامی است",
+    "too_small": "حداقل مقدار {minimum} است",
+    "too_big": "حداکثر مقدار {maximum} است",
+    "invalid_type": "انتظار می‌رفت {expected}، اما {received} دریافت شد",
+    "invalid_value": "انتظار می‌رفت {expected}، اما {received} دریافت شد"
+  },
+  "Colleagues": {
+    "pageTitle": "همکاران من",
+    "searchPlaceholder": "جست و جوی همکاران",
+    "emptyStateTitle": "لیست همکاران شما خالی است!",
+    "emptyStateDescription": "برای شروع، اولین همکار را از طریق دکمه زیر اضافه کنید.",
+    "addColleagueButton": "ثبت همکار جدید"
+  },
+  "DeleteColleagueDialog": {
+    "title": "حذف همکار",
+    "confirmMessage": "آیا مطمئن هستید که می‌خواهید <bold>{colleagueName}</bold> را حذف کنید؟",
+    "cancelButton": "انصراف",
+    "deleteButton": "حذف همکار"
+  },
+  "ColleagueSuccessDialog": {
+    "title": "دعوت شما با موفقیت ارسال شد",
+    "description": "همکار شما به محض ورود به پلتفرم از طریق لینک، می‌تواند وارد محیط کاری خود در مطب شود",
+    "confirmButton": "متوجه شدم"
+  },
+  "ColleagueProfile": {
+    "phoneNumber": "شماره تماس",
+    "startDate": "تاریخ شروع همکاری",
+    "removePicture": "حذف تصویر",
+    "editInformation": "ویرایش اطلاعات",
+    "userPermissions": "دسترسی‌های همکار",
+    "editPermissions": "ویرایش دسترسی‌ها",
+    "technicalPermissions": "۱. دسترسی های فنی",
+    "medicalPermissions": "۲. دسترسی های پزشکی",
+    "removeColleague": "حذف همکار",
+    "confirm": "ثبت تغییرات",
+    "cancel": "لغو",
+    "permissions": {
+      "registerPatient": "ثبت بیمار",
+      "editDeletePatient": "ویرایش و حذف اطلاعات بیمار",
+      "purchaseSubscription": "خرید و تمدید اشتراک",
+      "registerVisit": "ثبت ویزیت",
+      "registerColleague": "ثبت همکار",
+      "patientVisits": "ویزیت های بیمار",
+      "patientVisitsInfo": "دسترسی به مشاهده و مدیریت تمام ویزیت‌های بیماران",
+      "most common": "مدیریت موارد پرکاربرد و پیش‌فرض",
+      "most common info": "افزودن، ویرایش و تغییر موارد پرکاربرد و پیش‌فرض",
+      "appointments": "مدیریت نوبت‌دهی",
+      "appointments info": "اطلاعات نوبت‌دهی؛ افزودن، ویرایش و تغییر برنامه و تنظیمات پیش‌فرض نوبت‌ها",
+      "patientGrowth": "روند رشد بیمار",
+      "patientGrowthInfo": "دسترسی به مشاهده و ثبت اطلاعات مربوط به رشد و نمو بیمار",
+      "doctorTreatment": "تشخیص پزشکی",
+      "doctorTreatmentInfo": "دسترسی به مشاهده و ثبت تشخیص و برنامه درمانی پزشک برای بیماران"
+    }
+  },
+  "ColleagueCard": {
+    "phoneNumber": "شماره تماس",
+    "startDate": "تاریخ شروع همکاری",
+    "viewProfile": "مشاهده پروفایل",
+    "roles": {
+      "assistant": "دستیار",
+      "doctor": "پزشک"
+    }
+  },
+  "AddColleagueForm": {
+    "phoneNumberLabel": "شماره تلفن همکار",
+    "phoneNumberError": "شماره تلفن معتبر وارد کنید",
+    "firstNameError": "نام الزامی است",
+    "lastNameError": "نام خانوادگی الزامی است",
+    "roleError": "انتخاب نقش الزامی است",
+    "personalInfoTitle": "۱. اطلاعات شخصی",
+    "firstName": "نام",
+    "lastName": "نام خانوادگی",
+    "firstNamePlaceholder": "نام همکار را وارد کنید",
+    "lastNamePlaceholder": "نام خانوادگی همکار را وارد کنید",
+    "rolePermissionsTitle": "۲. انتخاب نقش و دسترسی‌ها",
+    "roleLabel": "نقش ",
+    "rolePlaceholder": "نقش همکار را وارد کنید",
+    "userPermissions": "دسترسی‌های کاربر",
+    "technicalPermissions": "۱. دسترسی های فنی",
+    "medicalPermissions": "۲. دسترسی های پزشکی"
+  },
+  "Permissions": {
+    "registerPatient": "ثبت بیمار",
+    "editDeletePatient": "ویرایش و حذف اطلاعات بیمار",
+    "purchaseSubscription": "خرید و تمدید اشتراک",
+    "registerVisit": "ثبت ویزیت",
+    "registerColleague": "ثبت همکار",
+    "patientVisits": "ویزیت های بیمار",
+    "patientVisitsInfo": "این بخش حاوی اطلاعات پزشکی بیمار است",
+    "patientGrowth": "روند رشد بیمار",
+    "patientGrowthInfo": "دسترسی به مشاهده و ثبت اطلاعات مربوط به رشد و نمو بیمار"
+  },
+  "AddColleagueModal": {
+    "submitButton": "ثبت همکار",
+    "addNewColleague": "ثبت همکار جدید"
+  },
+  "VisitDetails": {
+    "special-illnesses": "سابقه بیماری خاص",
+    "parents-info": "اطلاعات والدین",
+    "father-height": "قد پدر",
+    "mother-height": "قد مادر",
+    "mph": "MPH",
+    "born-info": "اطلاعات تولد",
+    "height": "قد",
+    "weight": "وزن",
+    "head-circumference": "دور سر",
+    "wrist-circumference": "دور مچ",
+    "current-information": "اطلاعات فعلی",
+    "height-sd": "انحراف معیار قد",
+    "weight-sd": "انحراف معیار وزن",
+    "chronological-age": "سن تقویمی",
+    "chronological-age-popover": "این گزینه سن تقویمی بیمار را در هر ویزیت نشان می دهد",
+    "bmi": "BMI",
+    "bone-age": "سن استخوانی",
+    "bone-age-sd": "انحراف معیار سن استخوانی",
+    "bone-age-sd-popover": "انحراف معیار نشان می‌دهد که سن استخوانی تا چه اندازه از سن تقویمی متفاوت است.",
+    "ahp-parental": "AHP والدین",
+    "ai-error-tolerance": "این عدد تلرانس خطای هوش مصنوعی را نشان می دهد",
+    "ahp-xray": "AHP رادیولوژی",
+    "ahp-combined": "AHP (والدین + رادیولوژی)",
+    "aphv": "APHV",
+    "final-diagnosis": "تشخیص نهایی",
+    "previous-visit": "ویزیت قبلی",
+    "next-visit": "ویزیت بعدی",
+    "visit-date": "تاریخ ویزیت",
+    "bone-age-modal-title": "آیا نتیجه هوش مصنوعی بیش از یک سال تفاوت دارد؟",
+    "bone-age-modal-description": "بازخورد شما در این گزارش استفاده خواهد شد. هر گزارش تنها یک بار قابل ویرایش است.",
+    "delete visit": "حذف ویزیت",
+    "delete visit description": "آیا مطمئن هستید که می‌خواهید این ویزیت را حذف کنید؟",
+    "delete visit title": "آیا از حذف این ویزیت اطمینان دارید؟",
+    "edit visit": "ویرایش ویزیت",
+    "delete": "حذف",
+    "cancel": "لغو",
+    "delete-title": "آیا مطمئن هستید؟",
+    "delete-description": "این ویزیت از لیست شما حذف خواهد شد. این عمل برگشت‌ناپذیر است.",
+    "delete-action": "حذف ویزیت",
+    "diagnosis saved": "تشخیص با موفقیت ذخیره شد.",
+    "download pdf": "دانلود PDF",
+    "good": "مطلوب",
+    "bad": "نامطلوب"
+  },
+  "LabDetails": {
+    "previous-lab": "آزمایش قبلی",
+    "next-lab": "آزمایش بعدی",
+    "lab-date": "تاریخ ثبت آزمایش",
+    "lab-tests-header": "نتایج آزمایش"
+  },
+  "EditMeasurementModal": {
+    "placeholder": "مقدار را وارد کنید",
+    "cancel": "لغو",
+    "save": "ذخیره"
+  },
+  "BoneAgeModal": {
+    "label": "سن استخوانی",
+    "placeholder": "سن استخوانی را وارد کنید"
+  },
+  "InfoBox": {
+    "trend-up": "روند صعودی",
+    "trend-down": "روند نزولی"
+  },
+  "growth-graphs": {
+    "zoom-hint": "برای بزرگنمایی نوار را بکشید",
+    "cdc-graphs": "نمودارهای CDC",
+    "who-graphs": "نمودارهای WHO",
+    "two-visits-comparision": "مقایسه دو ویزیت",
+    "two-visits-comparision-title": "مقایسه ویزیت‌ها",
+    "no-result": "نتیجه‌ای برای نمایش وجود ندارد.",
+    "no-result-title": "نتیجه‌ای یافت نشد",
+    "two-visits-comparision-default": "برای مقایسه، تاریخ دو ویزیت را انتخاب کنید.",
+    "index": "شاخص",
+    "first-visit-date": "{date} :ویزیت اول",
+    "second-visit-date": "{date} :ویزیت دوم",
+    "difference": "اختلاف",
+    "first-visit-required": "انتخاب ویزیت اول الزامی است",
+    "second-visit-required": "انتخاب ویزیت دوم الزامی است",
+    "dates-cannot-be-same": "تاریخ دو ویزیت نمی‌تواند یکسان باشد",
+    "first-visit-date-label": "تاریخ ویزیت اول*",
+    "second-visit-date-label": "تاریخ ویزیت دوم*",
+    "select-placeholder": "انتخاب کنید",
+    "compare": "در مقایسه با ویزیت قبلی:",
+    "ok": "طبیعی",
+    "reconsider": "بازبینی",
+    "refer": "ارجاع"
+  },
+  "ImageCard": {
+    "view-full": "مشاهده کامل",
+    "reload": "بارگذاری مجدد",
+    "download": "دانلود"
+  },
+  "TreatmentStatusForm": {
+    "title": "تشخیص پزشک",
+    "auto-save-helper": "تغییرات به‌طور خودکار ذخیره می‌شوند.",
+    "auto-save-status-pending": "در حال ذخیره...",
+    "auto-save-status-saved": "ذخیره شد",
+    "auto-save-status-error": "خطا در ذخیره‌سازی",
+    "status-label": "وضعیت",
+    "status-placeholder": "مثال: در حال درمان",
+    "status-under_review": "در حال بررسی",
+    "status-in-treatment": "در حال درمان",
+    "status-treatment-stopped": "قطع درمان",
+    "status-referral": "ارجاع",
+    "status-under_treatment": "در حال درمان",
+    "status-treatment_discontinued": "قطع درمان",
+    "status-referred": "ارجاع شده",
+    "status-": "هیچکدام",
+    "patient-history-label": "شرح حال بیمار",
+    "patient-history-placeholder": "مثال: شکایت اصلی، علائم گزارش‌شده، مدت و روند مشکل…",
+    "patient-history-popover": "با استفاده از قابلیت ضبط صدا، شرح حال بیمار توسط هوش مصنوعی تحلیل و به‌صورت خلاصهٔ بالینی ارائه می‌شود.",
+    "doctor-assessment-label": "ارزیابی پزشک",
+    "doctor-assessment-placeholder": "مثال: بیمار به‌دلیل شواهد بالینی و آزمایشگاهی مطرح‌کنندهٔ سوءجذب، جهت ارزیابی تخصصی و بررسی اختلالات گوارشی، به متخصص گوارش ارجاع شد.",
+    "doctor-assessment-popover": "با استفاده از قابلیت ضبط صدا، ارزیابی پزشک توسط هوش مصنوعی تحلیل و به‌صورت خلاصهٔ ساختاریافته ارائه می‌شود.",
+    "prescription-title": "تجویز دارو",
+    "medicine-name-label": "نام دارو",
+    "medicine-name-placeholder": "مثال: لووتیروکسین",
+    "dosage-label": "دوز",
+    "dosage-placeholder": "مثال: ۵۰ میکروگرم روزانه",
+    "hormone-treatment-label": "درمان هورمونی",
+    "hormone-treatment-placeholder": "مثال: GH",
+    "tanner-stage-label": "مرحله تانر",
+    "tanner-stage-placeholder": "مثال: مرحله ۳",
+    "hormone-none": "هیچ",
+    "hormone-gh": "GH",
+    "hormone-gnrha": "GnRHa",
+    "hormone-gh-gnrha": "GH & GnRHa",
+    "tanner-1": "مرحله ۱",
+    "tanner-2": "مرحله ۲",
+    "tanner-3": "مرحله ۳",
+    "tanner-4": "مرحله ۴",
+    "tanner-5": "مرحله ۵",
+    "add-prescription-button": "افزودن دارو"
+  },
+  "VoiceRecorder": {
+    "start-action": "ضبط صدا",
+    "end-action": "توقف",
+    "description": "برای تکمیل فرم با صدا، کلیک کنید",
+    "description-info": "پس از شروع ضبط صحبت کنید. می‌توانید هر زمان ضبط را متوقف کنید و صدای شما به متن تبدیل می‌شود.",
+    "loading": "در حال گوش دادن..."
+  },
+  "Diagnosis": {
+    "view full": "مشاهده کامل",
+    "visit date": "تاریخ ویزیت:",
+    "status": "وضعیت:",
+    "empty-title": "هنوز تشخیصی ثبت نشده است",
+    "empty": "برای ثبت تشخیص، ابتدا یک ویزیت ایجاد کنید.",
+    "previous diagnosis": "تشخیص قبلی",
+    "next diagnosis": "تشخیص بعدی",
+    "diagnosis date": "تاریخ تشخیص"
+  },
+  "Settings": {
+    "personal": "شخصی",
+    "organizational": "سازمانی",
+    "common-items": "موارد پرکاربرد",
+    "default-items": "موارد پیش‌فرض",
+    "default items info": "این موارد به‌طور خودکار به اولین ویزیت یک بیمار اضافه می‌شوند."
+  },
+  "Favorites": {
+    "complaints": "شکایات",
+    "complaints_placeholder": "مثال: کوتاهی قد",
+    "diseases": "بیماری‌ها",
+    "diseases_placeholder": "مثال: کمبود هورمون رشد",
+    "surgeries": "جراحی‌ها",
+    "surgeries_placeholder": "مثال: برداشتن تومور هیپوفیز",
+    "allergies": "آلرژی ها",
+    "dose": "دوز",
+    "dose_placeholder": "مثال: ۱۰۰ میلی‌گرم در روز",
+    "allergies_placeholder": "مثال: سوماتروپین",
+    "medicines": "داروها",
+    "medicines_placeholder": "مثال: لووتیروکسین",
+    "medical_history": "شرح حال بیمار",
+    "medical_history_placeholder": "مثال: کم‌کاری تیروئید",
+    "p_c_e_r": "گزارش پاراکلینیکی و بالینی",
+    "p_c_e_r_placeholder": "مثال: سن استخوانی: ۲ سال تأخیر",
+    "treatment_plan": "پلن درمان",
+    "treatment_plan_placeholder": "مثال: ادامه درمان با هورمون رشد",
+    "physician_diagnosis": "تشخیص پزشک",
+    "physician_diagnosis_placeholder": "مثال: کمبود هورمون رشد ایدیوپاتیک",
+    "org items": "موارد سازمان",
+    "my items": "موارد من",
+    "add": "افزودن",
+    "new folder": "پوشهٔ جدید",
+    "new item": "مورد جدید",
+    "back to - folder": "بازگشت به پوشه {folder}",
+    "back": "بازگشت",
+    "folders": "پوشه‌ها",
+    "items": "موارد",
+    "all org members info": "تمام اعضای سازمان می‌توانند از این موارد استفاده کنند."
+  },
+  "Upload": {
+    "upload": "آپلود",
+    "cancel": "لغو",
+    "successful": "آپلود موفقیت‌آمیز بود. اکنون می‌توانید به برنامه دسکتاپ بازگردید.",
+    "helper-text": "برای آپلود عکس از موبایل، اسکن کنید."
+  },
+  "Banner": {
+    "Landing": {
+      "message": "به اُسیفای خوش آمدید!",
+      "action": "بیشتر بخوانید"
+    },
+    "Doctor": {
+      "message": "از قابلیت جدید هوش مصنوعی تبدیل صدا به متن ما برای تبدیل گفتار شما به تشخیص‌های بالینی دقیق استفاده کنید!",
+      "action": "شروع نوبت‌دهی"
+    },
+    "Patient": {
+      "message": "آپلود سریع‌تر تصاویر از راه رسید!",
+      "action": "مشاهده به‌روزرسانی‌ها"
+    }
+  },
+  "Reports": {
+    "reception report": "پذیرش‌ها",
+    "patients report": "بیماران",
+    "visits report": "ویزیت‌ها",
+    "download excel": "دانلود اکسل",
+    "date range": "بازه زمانی",
+    "filters": "فیلترها",
+    "search patients placeholder": "نام، کد ملی یا شماره تماس",
+    "empty reception list": "پذیرشی یافت نشد.",
+    "empty appointment list": "نوبتی یافت نشد.",
+    "empty patients list": "بیماری یافت نشد.",
+    "empty visits list": "ویزیت یافت نشد.",
+    "reception date": "تاریخ پذیرش",
+    "reception dates placeholder": "انتخاب تاریخ پذیرش",
+    "registration date": "تاریخ ثبت بیمار",
+    "visit registration date": "تاریخ ثبت ویزیت",
+    "registration dates placeholder": "انتخاب تاریخ ثبت بیمار",
+    "total visits": "تعداد ویزیت‌ها",
+    "total patients": "تعداد بیماران",
+    "total receptions": "تعداد پذیرش‌ها",
+    "total patients grouped by gender": "تعداد بیماران بر اساس جنسیت",
+    "total receptions grouped by reason": "تعداد پذیرش‌ها بر اساس دلیل",
+    "reception distribution by hour": "توزیع پذیرش‌ها بر اساس ساعت",
+    "visit distribution by week day": "توزیع ویزیت‌ها بر اساس روز هفته",
+    "columns": {
+      "medical_history": "شرح حال بیمار",
+      "physician_diagnosis": "تشخیص پزشک",
+      "paraclinical_and_clinical_examination_report": "گزارش پاراکلینیکی و بالینی",
+      "treatment_plan": "برنامه درمانی",
+      "status": "وضعیت"
+    },
+    "height": "قد",
+    "weight": "وزن",
+    "bone_age": "سن استخوانی",
+    "ocr": "برگه آزمایش",
+    "measurements": "اندازه‌گیری‌ها",
+    "remove filters": "حذف فیلترها"
+  },
+  "VisitReport": {
+    "bmi-status": "وضعیت BMI",
+    "bone-age-status": "وضعیت سن استخوانی",
+    "abnormal-lab-results": "تعداد نتایج غیرطبیعی آزمایشگاه",
+    "tanner-stage": "مرحله تانر",
+    "visit date": "تاریخ ویزیت",
+    "visit dates placeholder": "انتخاب تاریخ ویزیت",
+    "search patients placeholder": "نام، کد ملی یا شماره تماس",
+    "total visits": "تعداد کل ویزیت‌ها",
+    "visits-with-measurements-title": "ویزیت‌های همراه با اندازه‌گیری",
+    "visits-with-measurements-info": "توجه: ویزیت‌ها می‌توانند شامل چند اندازه‌گیری باشند. مجموع مقادیر زیر ممکن است از کل ویزیت‌ها بیشتر شود.",
+    "height": "قد",
+    "weight": "وزن",
+    "bone-age": "سن استخوانی",
+    "lab-results": "نتایج آزمایش",
+    "visits-distribution-by-day-title": "توزیع ویزیت‌ها بر اساس روز هفته",
+    "empty visits list": "ویزیتی یافت نشد."
+  },
+  "Date Range": {
+    "placeholder": "انتخاب بازهٔ زمانی",
+    "today": "امروز",
+    "yesterday": "دیروز",
+    "this month": "این ماه",
+    "last month": "ماه گذشته",
+    "this week": "این هفته",
+    "last week": "هفته گذشته"
+  },
+  "ExtendBookingSchedule": {
+    "extend": "افزایش زمان‌های نوبت‌دهی",
+    "partiallyBooked": "ظرفیت آزاد",
+    "fullyBooked": "ظرفیت تکمیل",
+    "step1Title": "۱. انتخاب پزشک معالج",
+    "attendingPhysician": "پزشک معالج",
+    "selectPhysician": "پزشک معالج را انتخاب کنید",
+    "extendWeeks": "{count, plural, one {تمدید برای # هفته} other {تمدید برای # هفته}}",
+    "step2Title": "{order}. انتخاب روزهای نوبت‌دهی",
+    "step3Title": "{order}. تنظیم بازه‌های زمانی",
+    "noticeText": "<bold>توجه!</bold> پس از ایجاد زمان‌بندی‌ها، می‌توانید هر بازه زمانی را پیش از فرا رسیدن ویرایش کنید.",
+    "cancelIntervalTitle": "لغو بازه زمانی",
+    "cancelIntervalDesc": "بیمارانی که قبلاً این بازه زمانی را رزرو کرده‌اند، از طریق پیامک درباره لغو آن مطلع خواهند شد. OsifyAI بدون هیچ هزینه‌ای برای شما، هزینه آن‌ها را بازپرداخت می‌کند تا بتوانند بازه زمانی دیگری را رایگان رزرو کنند.",
+    "cancelDayTitle": "لغو روز",
+    "cancelDayDesc": "بیمارانی که این روز را از قبل رزرو کرده‌اند از طریق پیامک درباره لغو مطلع خواهند شد. OsifyAI هزینه آن‌ها را بازپرداخت می‌کند تا بدون هیچ هزینه‌ای برای شما، یک بازه زمانی دیگر را به رایگان رزرو کنند.",
+    "submit": "ثبت تنظیمات",
+    "addInterval": "افزودن بازه زمانی",
+    "noIntervals": "بازه زمانی برای این تاریخ موجود نیست.",
+    "holiday": "تعطیل رسمی",
+    "existing": "قبلاً تنظیم شده"
+  },
+  "UtilityBooking": {
+    "expires-in": "انقضا تا",
+    "link-expired": "این لینک نوبت‌دهی منقضی شده است. لطفاً با مطب تماس بگیرید تا لینک جدیدی دریافت کنید.",
+    "load-error": {
+      "title": "بارگذاری نوبت‌دهی ممکن نشد",
+      "description": "ارتباط با سرور برقرار نشد. لطفاً ابتدا اتصال اینترنت خود را بررسی کنید و دوباره تلاش کنید. اگر مشکل برطرف نشد، با <link>ما تماس بگیرید</link>."
+    },
+    "slot-full": "بازه زمانی انتخاب‌شده دیگر در دسترس نیست. لطفاً تاریخ و زمان دیگری انتخاب کنید.",
+    "back": "بازگشت",
+    "continue": "ادامه",
+    "submit": "تأیید و پرداخت",
+    "redirecting-payment": {
+      "title": "در حال انتقال به درگاه پرداخت",
+      "description": "لطفاً منتظر بمانید تا به صفحه پرداخت امن منتقل شوید.",
+      "manual-link": "به‌صورت خودکار منتقل نشدید؟ برای ادامه اینجا کلیک کنید."
+    },
+    "existing-patients": {
+      "title": "ادامه با بیمار قبلی",
+      "description": "بیمارانی متصل به این شماره تماس پیدا شد. برای پر شدن خودکار اطلاعات یکی را انتخاب کنید یا با بیمار جدید ادامه دهید.",
+      "description-app": "برای ادامه، یکی از بیماران زیر را انتخاب کنید. برای رزرو نوبت برای بیمار جدید، لطفاً از پذیرش بخواهید تا لینک جدیدی برای شما ارسال کند.",
+      "continue-new": "ادامه به‌عنوان بیمار جدید"
+    },
+    "calendar": {
+      "no-intervals": "بازه زمانی برای این تاریخ موجود نیست."
+    },
+    "receipt": {
+      "title": "بررسی نوبت",
+      "description": "لطفاً پیش از تأیید و انتقال به درگاه پرداخت، اطلاعات خود را بررسی کنید.",
+      "paid-title": "نوبت شما تأیید شد",
+      "paid-description": "پرداخت شما دریافت شد و نوبتتان رزرو شده است.",
+      "date": "تاریخ",
+      "time": "زمان",
+      "time-helper": "این زمان تقریبی است؛ لطفاً پیش از این زمان در مطب حاضر شوید چون زمان واقعی نوبت ممکن است نوسان داشته باشد.",
+      "patient": "بیمار",
+      "patient-name": "نام بیمار",
+      "national-number": "کد ملی",
+      "payment": {
+        "title": "پرداخت",
+        "price": "هزینه نوبت",
+        "tax": "مالیات ({percent}٪)",
+        "credit": "اعتبار شما",
+        "discount": "تخفیف",
+        "payable": "مبلغ قابل پرداخت"
+      },
+      "paid-action": {
+        "login-instructions": "برای پیگیری، لغو یا مشاهده تاریخچه نوبت‌هایتان، لطفاً وارد حساب کاربری خود شوید.",
+        "login-instructions-with-phone": "برای پیگیری، لغو یا مشاهده تاریخچه نوبت‌هایتان، لطفاً با شماره موبایل {phoneNumber} وارد حساب کاربری خود شوید.",
+        "login": "ورود",
+        "go-to-dashboard": "رفتن به داشبورد"
+      }
+    },
+    "system-canceled": {
+      "interval_was_canceled": {
+        "title": "بازه زمانی نوبت لغو شد",
+        "description": "بازه زمانی انتخابی شما پیش از قطعی شدن نوبت لغو شد، بنابراین زمانی برای شما رزرو نشده است."
+      },
+      "interval_was_full": {
+        "title": "بازه زمانی دیگر در دسترس نیست",
+        "description": "بازه زمانی انتخابی شما پیش از قطعی شدن نوبت پر شد، بنابراین زمانی برای شما رزرو نشده است."
+      },
+      "interval_was_past": {
+        "title": "زمان نوبت گذشته است",
+        "description": "بازه زمانی انتخاب‌شده قبل از نهایی‌شدن رزرو شما سپری شده است، بنابراین زمانی برای شما رزرو نشده است."
+      },
+      "error": {
+        "title": "مشکلی پیش آمد",
+        "description": "به‌دلیل یک خطای پیش‌بینی‌نشده نتوانستیم نوبت شما را رزرو کنیم، بنابراین زمانی برای شما رزرو نشده است."
+      },
+      "credited-notice": "مبلغ پرداختی شما به‌صورت اعتبار به حسابتان افزوده شد. برای رزرو نوبت دیگر نیازی به پرداخت مجدد ندارید.",
+      "book-another": "رزرو نوبت دیگر"
+    }
+  },
+  "PatientDashboard": {
+    "active-bookings": "نوبت‌های فعال",
+    "no-active-bookings": "هنوز نوبت پیش‌رویی ندارید.",
+    "home": "خانه",
+    "menu-items": {
+      "create": {
+        "title": "رزرو نوبت",
+        "description": "یک نوبت جدید با پزشک خود رزرو کنید."
+      },
+      "history": {
+        "title": "تاریخچه نوبت‌ها",
+        "description": "نوبت‌های گذشته و پیش‌رویتان را ببینید."
+      },
+      "profile": {
+        "title": "پروفایل",
+        "description": "اطلاعات شخصی و تنظیمات حساب خود را مدیریت کنید."
+      }
+    },
+    "active-booking": {
+      "date": "تاریخ",
+      "time": "زمان",
+      "patient": "بیمار",
+      "cancel": "لغو نوبت",
+      "cancel-modal": {
+        "title": "این نوبت لغو شود؟",
+        "description": "در صورت لغو، ۱۰۰٪ مبلغ پرداختی به‌صورت اعتبار به حساب شما افزوده می‌شود. می‌توانید از این اعتبار برای نوبت دیگری بدون هیچ هزینه اضافی استفاده کنید.",
+        "dismiss": "نگه‌داشتن نوبت",
+        "confirm": "بله، لغو و بازگشت اعتبار",
+        "confirming": "در حال لغو..."
+      }
+    }
+  },
+  "PatientBookingCreate": {
+    "title": "انتخاب پزشک",
+    "description": "پزشکی را که می‌خواهید نوبت بگیرید انتخاب کنید.",
+    "confirm": "ادامه",
+    "empty": {
+      "title": "پزشکی موجود نیست",
+      "description": "در حال حاضر پزشکی برای رزرو نوبت در دسترس نیست."
+    }
+  },
+  "PatientBookingHistory": {
+    "columns": {
+      "date": "تاریخ",
+      "time": "زمان",
+      "doctor": "پزشک",
+      "patient": "بیمار",
+      "status": "وضعیت"
+    },
+    "status": {
+      "paid": "پرداخت شده",
+      "cancelled": "لغو شده",
+      "cancelled-by-doctor": "لغو شده توسط پزشک",
+      "cancelled-by-patient": "لغو شده توسط شما",
+      "cancelled-by-system": "لغو شده توسط سیستم"
+    },
+    "empty": {
+      "title": "هنوز نوبتی نداری",
+      "description": "وقتی نوبت رزرو کنی اینجا دیده می‌شود."
+    }
+  }
+}

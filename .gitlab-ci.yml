@@ -1,0 +1,41 @@
+stages:
+  - deploy
+
+.deploy_template:
+  stage: deploy
+  image: ringcentral/sshpass:latest
+  tags:
+    - docker
+
+deploy_develop:
+  extends: .deploy_template
+  script:
+    - export SSHPASS=$SSH_PASSWORD
+    - >
+      sshpass -e ssh -o StrictHostKeyChecking=no root@$SSH_HOST -p 9011 "
+        export NVM_DIR=\$HOME/.nvm;
+        [ -s \"\$NVM_DIR/nvm.sh\" ] && \. \"\$NVM_DIR/nvm.sh\";
+        cd /osifyai/front-develop
+        git checkout develop
+        git pull
+        sh .dev/restart-dev.sh
+      "
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "develop"'
+
+
+deploy_production:
+  extends: .deploy_template
+  script:
+    - export SSHPASS=$SSH_PASSWORD
+    - >
+      sshpass -e ssh -o StrictHostKeyChecking=no root@$SSH_HOST -p 9011 "
+        export NVM_DIR=\$HOME/.nvm;
+        [ -s \"\$NVM_DIR/nvm.sh\" ] && \. \"\$NVM_DIR/nvm.sh\";
+        cd /osifyai/front-main
+        git checkout main
+        git pull
+        sh .dev/restart-pro.sh
+      "
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "main"'

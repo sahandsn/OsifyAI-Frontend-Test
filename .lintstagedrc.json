@@ -1,0 +1,8 @@
+{
+  "*/**/*.{js,jsx,ts,tsx,!src/client/**, !src/components/ui/**, !src/lib/cached-blogs.ts, !src/types/api-swagger.d.ts}": [
+    "prettier --write",
+    "eslint --fix",
+    "eslint"
+  ],
+  "*/**/*.{json,css,md}": ["prettier --write"]
+}
